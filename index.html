@@ -11,7 +11,7 @@
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="apple-touch-icon" href="./icons/icon-192.png">
   <meta name="description" content="Simulatore per la preparazione all'esame di Guida Escursionistica Ambientale.">
-  <title>Simulatore GEA · versione 4.0</title>
+  <title>Simulatore GEA · versione 4.1</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%2317382f'/%3E%3Cpath d='M8 48 25 18l8 14 7-11 16 27H8Z' fill='%23eef4e8'/%3E%3Cpath d='m19 48 12-21 6 10 4-7 11 18H19Z' fill='%238ab477'/%3E%3C/svg%3E">
   <style>
     :root{--forest:#17382f;--forest2:#285548;--moss:#6f985e;--sky:#dbe8df;--paper:#f7f6f0;--ink:#1d2925;--muted:#62716b;--line:#d4dbd5;--amber:#b66b22;--red:#a83f38;--white:#fff;--shadow:0 18px 50px rgba(20,48,40,.13)}
@@ -32,6 +32,9 @@
     html[data-theme="dark"] code{color:#d9eadf}
     .theme-toggle{border:1px solid rgba(255,255,255,.38);background:rgba(255,255,255,.1);color:white;border-radius:8px;padding:.42rem .62rem;font-weight:750;min-height:38px}
     .version-chip{font-size:.74rem;color:#d6e5dc;border:1px solid rgba(255,255,255,.25);border-radius:999px;padding:.23rem .5rem;white-space:nowrap}
+    .pwa-actions{display:flex;gap:.4rem;align-items:center}
+    .theme-toggle:disabled{opacity:.65;cursor:wait}
+    @media(max-width:520px){.brand span{display:none}.topbar{gap:.45rem}.theme-toggle{padding:.38rem .48rem;font-size:.78rem}.version-chip{font-size:.68rem}}
     @media print{html[data-theme="dark"]{--paper:#fff;--ink:#111;--muted:#555;--line:#bbb;--white:#fff}html[data-theme="dark"] body,html[data-theme="dark"] .app,html[data-theme="dark"] .question-card,html[data-theme="dark"] .review details{background:#fff;color:#111}.theme-toggle{display:none}}
     *{box-sizing:border-box}html{font-size:16px}body{margin:0;background:linear-gradient(160deg,#dbe8df 0,#eef2ea 45%,#dfe8e1 100%);color:var(--ink);font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;min-height:100vh}.hidden{display:none!important}button,input,textarea{font:inherit}button{cursor:pointer}.app{width:min(920px,100%);margin:auto;min-height:100vh;background:rgba(247,246,240,.96);box-shadow:var(--shadow)}
     .topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:.8rem;padding:.8rem 1rem;background:rgba(23,56,47,.97);color:white}.brand{display:flex;align-items:center;gap:.65rem;font-weight:750;letter-spacing:.02em}.brand svg{width:34px;height:34px}.top-spacer{flex:1}.timer{font-variant-numeric:tabular-nums;font-weight:800;background:rgba(255,255,255,.13);border:1px solid rgba(255,255,255,.25);padding:.45rem .65rem;border-radius:8px}.timer.warning{background:#7b321f}.stage{padding:clamp(1rem,3vw,2rem)}
@@ -48,12 +51,12 @@
 <div class="app">
   <header class="topbar">
     <div class="brand"><svg viewBox="0 0 64 64" aria-hidden="true"><path d="M5 52 24 17l9 16 8-12 18 31H5Z" fill="#eef4e8"/><path d="m18 52 14-25 7 12 4-7 12 20H18Z" fill="#8ab477"/></svg><span>Simulatore Esame GEA</span></div>
-    <span id="versionLabel" class="version-chip">v4.0</span><div class="top-spacer"></div><button id="installPwa" class="theme-toggle hidden" type="button">Installa</button><button id="themeToggle" class="theme-toggle" type="button" aria-pressed="false" aria-label="Attiva modalità scura">Scura</button><div id="timer" class="timer hidden" aria-live="polite">30:00</div>
+    <span id="versionLabel" class="version-chip">v4.1</span><div class="top-spacer"></div><div class="pwa-actions"><button id="installPwa" class="theme-toggle" type="button" aria-label="Installa il simulatore">Installa</button><button id="updatePwa" class="theme-toggle" type="button" aria-label="Controlla gli aggiornamenti">Aggiorna</button><button id="themeToggle" class="theme-toggle" type="button" aria-pressed="false" aria-label="Attiva modalità scura">Scura</button></div><div id="timer" class="timer hidden" aria-live="polite">30:00</div>
   </header>
 
   <main id="setupScreen" class="stage">
     <div class="intro">
-      <section class="hero"><div class="eyebrow">PWA offline · versione 4.0 · 6 ottobre 2026</div><h1>Allenati come all’esame.</h1><p>Database incorporato: funziona senza connessione. Una simulazione completa: 25 domande con tre risposte e una sola corretta, seguite da 10 domande aperte.</p></section>
+      <section class="hero"><div class="eyebrow">PWA offline · versione 4.1 · 6 ottobre 2026</div><h1>Allenati come all’esame.</h1><p>Database incorporato: funziona senza connessione. Una simulazione completa: 25 domande con tre risposte e una sola corretta, seguite da 10 domande aperte.</p></section>
       <section class="setup">
         <h2>Imposta la sessione</h2><div id="focusBanner" class="format hidden"><b>Ripasso mirato</b><p id="focusDescription"></p><button id="cancelFocusBtn" class="secondary small" type="button">Torna al test del corso</button></div>
         <div class="field-grid"><div class="field"><label for="closedMinutes">Quiz chiuso · minuti</label><input id="closedMinutes" type="number" min="5" max="180" value="30"></div><div class="field"><label for="openMinutes">Domande aperte · minuti</label><input id="openMinutes" type="number" min="5" max="180" value="30"></div></div>
@@ -118,7 +121,7 @@ if(typeof module!=='undefined')module.exports=GEACourse;
 "use strict";
 
 const safeStorage={getItem(k){try{return window.localStorage.getItem(k)}catch(e){return null}},setItem(k,v){try{window.localStorage.setItem(k,v);return true}catch(e){return false}}};
-const APP_VERSION="4.0";
+const APP_VERSION="4.1";
 function setTheme(dark,persist=true){
   document.documentElement.setAttribute("data-theme",dark?"dark":"light");
   const button=$("#themeToggle");
@@ -221,28 +224,58 @@ renderHistory();
 </script>
 
 <script>
-// Installazione PWA e aggiornamenti: attivi solo quando il progetto è pubblicato via HTTPS.
+// Installazione PWA e controllo manuale degli aggiornamenti.
 (()=>{
   const installButton=document.querySelector("#installPwa");
+  const updateButton=document.querySelector("#updatePwa");
+  const canUseServiceWorker=typeof navigator!=="undefined" && "serviceWorker" in navigator && typeof location!=="undefined" && /^https?:$/.test(location.protocol);
   let deferredInstall=null;
+  let registration=null;
+  const isInstalled=()=>typeof window.matchMedia==="function" && window.matchMedia("(display-mode: standalone)").matches || (typeof navigator!=="undefined" && navigator.standalone===true);
+
   if(typeof window.addEventListener==="function"){
-    window.addEventListener("beforeinstallprompt",event=>{
-      event.preventDefault();
-      deferredInstall=event;
-      installButton?.classList.remove("hidden");
-    });
+    if(isInstalled()){installButton.textContent="Installata";installButton.disabled=true}
+    window.addEventListener("beforeinstallprompt",event=>{event.preventDefault();deferredInstall=event});
     installButton?.addEventListener("click",async()=>{
-      if(!deferredInstall)return;
-      deferredInstall.prompt();
-      await deferredInstall.userChoice;
-      deferredInstall=null;
-      installButton.classList.add("hidden");
+      if(isInstalled()){alert("Il simulatore è già installato su questo dispositivo.");return}
+      if(deferredInstall){
+        deferredInstall.prompt();
+        const choice=await deferredInstall.userChoice;
+        deferredInstall=null;
+        if(choice.outcome==="accepted"){installButton.textContent="Installata";installButton.disabled=true}
+        return;
+      }
+      alert("Per installare: apri il menu del browser e scegli ‘Installa app’ o ‘Aggiungi a schermata Home’. Su Chrome attendi qualche secondo e riprova.");
     });
-    window.addEventListener("appinstalled",()=>installButton?.classList.add("hidden"));
+    window.addEventListener("appinstalled",()=>{installButton.textContent="Installata";installButton.disabled=true});
   }
-  if(typeof navigator!=="undefined" && "serviceWorker" in navigator && typeof location!=="undefined" && /^https?:$/.test(location.protocol)){
-    window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js",{scope:"./"}).then(registration=>registration.update()).catch(()=>{}));
+
+  async function registerPwa(){
+    if(!canUseServiceWorker)return null;
+    registration=await navigator.serviceWorker.register("./sw.js",{scope:"./"});
+    return registration;
   }
+  if(canUseServiceWorker && typeof window.addEventListener==="function")window.addEventListener("load",()=>registerPwa().then(r=>r.update()).catch(()=>{}));
+
+  updateButton?.addEventListener("click",async()=>{
+    if(!canUseServiceWorker){alert("Il controllo aggiornamenti funziona dopo la pubblicazione HTTPS, per esempio su GitHub Pages.");return}
+    const oldText=updateButton.textContent;
+    updateButton.disabled=true;updateButton.textContent="Controllo…";
+    try{
+      const reg=registration||await registerPwa();
+      await reg.update();
+      const worker=reg.installing||reg.waiting;
+      if(worker && worker.state!=="activated")await Promise.race([
+        new Promise(resolve=>worker.addEventListener("statechange",()=>{if(worker.state==="activated"||worker.state==="redundant")resolve()},{once:false})),
+        new Promise(resolve=>setTimeout(resolve,6000))
+      ]);
+      updateButton.textContent="Aggiornato";
+      setTimeout(()=>location.reload(),500);
+    }catch(error){
+      updateButton.disabled=false;updateButton.textContent=oldText;
+      alert("Controllo non riuscito. Verifica la connessione e riprova.");
+    }
+  });
 })();
 </script>
 </body>

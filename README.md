@@ -1,4 +1,4 @@
-# Simulatore GEA PWA — versione 4.0
+# Simulatore GEA PWA — versione 4.1
 
 Banca incorporata: **358 domande chiuse** e **100 domande aperte**.
 
@@ -9,10 +9,10 @@ Banca incorporata: **358 domande chiuse** e **100 domande aperte**.
 3. In GitHub apri **Settings → Pages**.
 4. In **Build and deployment** scegli **Deploy from a branch**.
 5. Seleziona il branch `main`, cartella `/ (root)`, quindi **Save**.
-6. Apri l’indirizzo fornito da GitHub Pages. In Chrome/Android comparirà il pulsante **Installa** quando il browser rende disponibile l’installazione.
+6. Apri l’indirizzo fornito da GitHub Pages. In Chrome/Android sono disponibili i pulsanti **Installa** e **Aggiorna**. Installa aggiunge la PWA al dispositivo; Aggiorna controlla e ricarica la versione pubblicata più recente.
 
 La PWA richiede HTTPS o `localhost`; aprendo `index.html` direttamente il simulatore funziona, ma l’installazione e il service worker non si attivano.
 
 ## Aggiornamenti
 
-Quando modifichi i file, cambia `CACHE_NAME` in `sw.js` (per esempio `simulatore-gea-v4.0.1`) per forzare il rinnovo della cache sui dispositivi.
+Quando modifichi i file, cambia `CACHE_NAME` in `sw.js` (per esempio `simulatore-gea-v4.1.1`) per forzare il rinnovo della cache sui dispositivi.
