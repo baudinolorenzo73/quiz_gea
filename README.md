@@ -1,4 +1,4 @@
-# Simulatore GEA PWA — versione 4.1
+# Simulatore GEA PWA — versione 4.3
 
 Banca incorporata: **358 domande chiuse** e **100 domande aperte**.
 
@@ -15,4 +15,12 @@ La PWA richiede HTTPS o `localhost`; aprendo `index.html` direttamente il simula
 
 ## Aggiornamenti
 
-Quando modifichi i file, cambia `CACHE_NAME` in `sw.js` (per esempio `simulatore-gea-v4.1.1`) per forzare il rinnovo della cache sui dispositivi.
+Quando modifichi i file, cambia `CACHE_NAME` in `sw.js` (per esempio `simulatore-gea-v4.3.1`) per forzare il rinnovo della cache sui dispositivi.
+
+## Modalità del test
+
+È possibile scegliere **Completo**, **Solo chiuse** o **Solo aperte**. Ogni domanda può essere lasciata vuota; i pulsanti **Precedente** e **Successiva** consentono di tornare indietro e modificare le risposte prima della conclusione.
+
+## Percentuali e test mirato
+
+La schermata iniziale mostra percentuale di risposte corrette, risposte date e quota da recuperare, oltre al dettaglio per argomento. Da qui è possibile avviare un test mirato sugli errori oppure azzerare percentuali e storico locale.
