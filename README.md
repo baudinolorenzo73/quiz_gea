@@ -1,6 +1,6 @@
-# Simulatore GEA PWA — versione 5.4
+# Simulatore GEA PWA — versione 5.5
 
-Banca JSON esterna inclusa nel pacchetto: **358 domande chiuse** e **100 domande aperte** valide.
+Banca JSON esterna inclusa nel pacchetto: **374 domande chiuse** e **107 domande aperte** valide dopo il controllo automatico dei doppioni.
 
 ## Pubblicazione su GitHub Pages
 
@@ -15,7 +15,7 @@ La PWA richiede HTTPS o `localhost`; aprendo `index.html` direttamente il simula
 
 ## Aggiornamenti
 
-Quando modifichi i file, cambia `CACHE_NAME` in `sw.js` (per esempio `simulatore-gea-v5.4.1`) per forzare il rinnovo della cache sui dispositivi.
+Quando modifichi i file, cambia `CACHE_NAME` in `sw.js` (per esempio `simulatore-gea-v5.5.1`) per forzare il rinnovo della cache sui dispositivi.
 
 ## Banca JSON esterna
 
@@ -27,7 +27,9 @@ Dopo il caricamento online, **Salva offline e scarica JSON** conserva una copia 
 
 È possibile scegliere **Completo**, **Solo chiuse** o **Solo aperte**, il numero di domande e l’estrazione **proporzionale alle ore**, **RND** oppure **per argomento**. Ogni domanda può essere lasciata vuota; i pulsanti **Precedente** e **Successiva** consentono di tornare indietro e modificare le risposte prima della conclusione.
 
-Tutte le opzioni secondarie sono raccolte in **Configurazione del test**. Ogni domanda mostra inoltre il proprio numero nella banca, per esempio `25/358`; lo stesso riferimento appare nella correzione e nell’editor. Nell’editor è possibile cercare direttamente il numero `25` oltre al testo.
+Tutte le opzioni secondarie sono raccolte in **Configurazione del test**. Ogni domanda mostra inoltre il proprio numero nella banca, per esempio `25/374`; lo stesso riferimento appare nella correzione e nell’editor. Nell’editor è possibile cercare direttamente il numero `25` oltre al testo.
+
+La versione 5.5 distingue le domande **sicure** dalle **quasi sicure**. Quando le prioritarie sono abilitate, la domanda sicura di sintesi sull'ecologia viene sempre inserita nel test aperto; le altre completano il limite configurato di otto prioritarie.
 
 ## Banca dati modificabile
 

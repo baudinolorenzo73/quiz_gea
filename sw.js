@@ -1,4 +1,4 @@
-const CACHE_NAME="simulatore-gea-v5.4.0";
+const CACHE_NAME="simulatore-gea-v5.5.0";
 const APP_SHELL=["./","./index.html","./manifest.webmanifest","./data/domande.json","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png"];
 
 self.addEventListener("install",event=>{
