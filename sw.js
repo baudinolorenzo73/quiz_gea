@@ -1,12 +1,16 @@
-const CACHE_NAME="simulatore-gea-v5.5.0";
-const APP_SHELL=["./","./index.html","./manifest.webmanifest","./data/domande.json","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png"];
+const CACHE_NAME="simulatore-gea-v5.7.0";
+const APP_SHELL=["./","./index.html","./manifest.webmanifest","./icons/icon-192.png","./icons/icon-512.png","./icons/icon-maskable-512.png"];
 
 self.addEventListener("install",event=>{
-  event.waitUntil(caches.open(CACHE_NAME).then(cache=>cache.addAll(APP_SHELL)).then(()=>self.skipWaiting()));
+  event.waitUntil(caches.open(CACHE_NAME).then(async cache=>{
+    await cache.addAll(APP_SHELL);
+    // Il JSON è opzionale: la sua assenza non impedisce l'installazione.
+    try{await cache.add("./data/domande.json")}catch(error){}
+  }).then(()=>self.skipWaiting()));
 });
 
 self.addEventListener("activate",event=>{
-  event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE_NAME).map(key=>caches.delete(key)))).then(()=>self.clients.claim()));
+  event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith("simulatore-gea-v")&&key!==CACHE_NAME).map(key=>caches.delete(key)))).then(()=>self.clients.claim()));
 });
 
 self.addEventListener("fetch",event=>{
@@ -15,7 +19,7 @@ self.addEventListener("fetch",event=>{
     event.respondWith(fetch(event.request).then(response=>{
       if(!response.ok)throw new Error("Banca dati non disponibile");
       const copy=response.clone();caches.open(CACHE_NAME).then(cache=>cache.put(event.request,copy));return response;
-    }).catch(()=>caches.match(event.request)));
+    }).catch(async()=>await caches.match(event.request)||new Response('{"error":"Banca dati offline non disponibile"}',{status:503,headers:{"Content-Type":"application/json"}})));
     return;
   }
   if(event.request.mode==="navigate"){
