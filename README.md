@@ -1,6 +1,6 @@
-# Simulatore GEA PWA — versione 5.7
+# Simulatore GEA PWA — versione 5.8
 
-Banca JSON esterna inclusa nel pacchetto: **374 domande chiuse** e **107 domande aperte** valide dopo il controllo automatico dei doppioni.
+Banca JSON esterna inclusa nel pacchetto: **428 domande chiuse** e **119 domande aperte**, per un totale di **547 quesiti**.
 
 ## Pubblicazione su GitHub Pages
 
@@ -15,7 +15,7 @@ La PWA richiede HTTPS o `localhost`. Non aprire direttamente `index.html` con `f
 
 ## Aggiornamenti
 
-Quando modifichi i file, cambia `CACHE_NAME` in `sw.js` (per esempio `simulatore-gea-v5.6.1`) per forzare il rinnovo della cache sui dispositivi.
+Quando modifichi i file, cambia `CACHE_NAME` in `sw.js` (per esempio `simulatore-gea-v5.8.1`) per forzare il rinnovo della cache sui dispositivi.
 
 ## Banca JSON esterna
 
@@ -27,7 +27,7 @@ Dopo il caricamento online, **Salva offline e scarica JSON** conserva una copia 
 
 È possibile scegliere **Completo**, **Solo chiuse** o **Solo aperte**, il numero di domande e l’estrazione **proporzionale alle ore**, **RND** oppure **per argomento**. Ogni domanda può essere lasciata vuota; i pulsanti **Precedente** e **Successiva** consentono di tornare indietro e modificare le risposte prima della conclusione.
 
-Tutte le opzioni secondarie sono raccolte in **Configurazione del test**. Ogni domanda mostra inoltre il proprio numero nella banca, per esempio `25/374`; lo stesso riferimento appare nella correzione e nell’editor. Nell’editor è possibile cercare direttamente il numero `25` oltre al testo.
+Tutte le opzioni secondarie sono raccolte in **Configurazione del test**. Ogni domanda mostra inoltre il proprio numero nella banca, per esempio `25/428` per le chiuse; lo stesso riferimento appare nella correzione e nell’editor. Nell’editor è possibile cercare direttamente il numero `25` oltre al testo.
 
 La versione 5.6 distingue le domande **sicure** dalle **quasi sicure**. Quando le prioritarie sono abilitate, la domanda sicura di sintesi sull'ecologia viene sempre inserita nel test aperto; le altre completano il limite configurato di otto prioritarie.
 
@@ -71,3 +71,15 @@ Il tempo va in pausa quando l'app passa in secondo piano o viene chiusa; riprend
 Il ripristino vale per lo stesso browser, dispositivo e indirizzo del sito. Non recupera test chiusi nelle versioni precedenti, che non salvavano la sessione. Cancellazione dati del browser o modalità privata possono impedire il recupero. Se il salvataggio fallisce, l'app mostra un avviso. In caso di arresto improvviso il timer può perdere gli ultimi cinque secondi di aggiornamento.
 
 Verifiche 5.7: sintassi, validazione snapshot, ripresa di risposta chiusa e testo aperto, posizione, ordine opzioni, ID sessione, tempo in pausa, correzione intermedia e scarto di salvataggi corrotti. Prova browser automatica non eseguita: il browser di test non è installato nell'ambiente.
+
+## Novità 5.8 — materiale Classroom/Aggiunti2
+
+66 nuovi quesiti: 54 chiusi (tre opzioni, una corretta) e 12 aperti. Argomenti: ecologia, zoologia, storia e folclore, comunicazione commerciale. Ogni aggiunta ha una spiegazione o una traccia di risposta e almeno una pagina PDF di riferimento. L’elenco con numeri, ID e fonti è in `AGGIORNAMENTO_5.8.md`.
+
+Gli ID, i testi e l’ordine delle 481 domande precedenti sono conservati. Le nuove chiuse occupano le posizioni 375–428; le nuove aperte 108–119. La modalità con domanda sicura di ecologia conserva la traccia già presente: le nuove aperte non vengono dichiarate sicure automaticamente.
+
+DB: `2026.10.11-1`. Per vedere le nuove domande su un’installazione esistente, pubblica anche `data/domande.json`, aggiorna la PWA e premi **Aggiorna banca dati**. Se hai configurato un JSON GitHub diverso, quel pulsante legge tale indirizzo: aggiorna anche quel file. In alternativa importa il JSON di questo pacchetto. Esporta prima un backup delle tue modifiche locali.
+
+La consultazione dei PDF richiede accesso a Drive e connessione; il test può funzionare offline dopo il primo caricamento. L’apertura alla pagina indicata dipende dal visualizzatore PDF/Drive.
+
+Verifiche 5.8: schema e conteggi JSON, ID unici, una risposta corretta per quesito chiuso, confronto dei nuovi quesiti con la banca esistente, caricamento e deduplicazione usando le funzioni dell’app, riferimenti e pagine delle fonti, sintassi degli script e del service worker. Non è una verifica scientifica completa delle domande pregresse né una prova d’installazione su Android.

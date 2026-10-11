@@ -1,9 +1,9 @@
 {
   "format": "gea-question-bank",
   "version": 1,
-  "databaseVersion": "2026.10.09-1",
-  "updatedAt": "2026-10-09T05:04:47Z",
-  "appVersion": "5.6",
+  "databaseVersion": "2026.10.11-1",
+  "updatedAt": "2026-10-11T00:00:00Z",
+  "appVersion": "5.8",
   "closed": [
     {
       "id": "clefratturevannoimmobilizzatesempre|vannoimmobilizzatesoloincasodidolore|vannoimmobilizzatesoloquandoesposte",
@@ -11210,6 +11210,1734 @@
           "index": 2
         }
       ]
+    },
+    {
+      "id": "GEA-C-20261011-001",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "I due comparti si distinguono per disponibilità degli elementi e velocità degli scambi: la riserva è più stabile, lo scambio più dinamico.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 4
+        }
+      ],
+      "question": "Che cosa distingue il pool di riserva dal pool di scambio in un ciclo biogeochimico?",
+      "answers": [
+        {
+          "text": "Il primo è generalmente grande e poco attivo; nel secondo gli scambi con gli organismi sono più rapidi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il primo comprende soltanto organismi; il secondo soltanto minerali",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il primo è sempre più piccolo e più attivo del secondo",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-002",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "La fissazione rende disponibile l’azoto atmosferico per la sintesi di composti organici; gli animali lo acquisiscono attraverso l’alimentazione.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 6
+        }
+      ],
+      "question": "Quale funzione svolgono i batteri azotofissatori?",
+      "answers": [
+        {
+          "text": "Trasformano l’azoto molecolare in forme utilizzabili biologicamente",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Producono azoto molecolare esclusivamente dalla fotosintesi",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Trasformano il fosforo delle rocce in ossigeno atmosferico",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-003",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "Proteine e acidi nucleici contengono azoto; acqua, CO₂ e glucosio non lo contengono.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 6
+        }
+      ],
+      "question": "In quali molecole biologiche l’azoto è un componente essenziale?",
+      "answers": [
+        {
+          "text": "Amminoacidi e acidi nucleici",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Acqua e anidride carbonica",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Glucosio e ossigeno molecolare",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-004",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "La fotosintesi incorpora carbonio nella biomassa; respirazione e decomposizione lo restituiscono anche come CO₂.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 7
+        }
+      ],
+      "question": "Con quale processo gli organismi fotosintetici incorporano il carbonio della CO₂ nella materia organica?",
+      "answers": [
+        {
+          "text": "La fotosintesi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La respirazione cellulare",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La fermentazione",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-005",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "Il fosforo è presente nei gruppi fosfato dell’ATP e degli acidi nucleici e in molti fosfolipidi delle membrane.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 8
+        }
+      ],
+      "question": "Quale elemento entra nella composizione dell’ATP e degli acidi nucleici?",
+      "answers": [
+        {
+          "text": "Il fosforo",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il piombo",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il mercurio",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-006",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "L’estrazione e la combustione spostano in tempi brevi carbonio dai serbatoi geologici all’atmosfera.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 9
+        }
+      ],
+      "question": "Perché bruciare combustibili fossili altera il ciclo del carbonio?",
+      "answers": [
+        {
+          "text": "Trasferisce rapidamente nell’atmosfera carbonio rimasto a lungo nei depositi geologici",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Elimina definitivamente il carbonio dal pianeta",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Trasforma tutto il carbonio bruciato in azoto",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-007",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "Solare, vento e flussi d’acqua sono fonti rinnovabili; carbone, petrolio e gas naturale sono combustibili fossili. Rinnovabile non significa priva di impatti locali.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 14
+        }
+      ],
+      "question": "Quale insieme comprende esclusivamente fonti energetiche rinnovabili?",
+      "answers": [
+        {
+          "text": "Solare, eolica e idroelettrica",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Solare, carbone e petrolio",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Eolica, gas naturale e carbone",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-008",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "La prevenzione evita la produzione del rifiuto; riuso, riparazione e riciclo intervengono successivamente.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 15
+        }
+      ],
+      "question": "Qual è la prima scelta nella gestione dei rifiuti proposta dalla lezione?",
+      "answers": [
+        {
+          "text": "Ridurne la produzione alla fonte",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Produrre più imballaggi riciclabili",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Sostituire il riuso con lo smaltimento",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-009",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "La riparazione conserva il prodotto e ne prolunga l’utilizzo, prima che diventi un rifiuto.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 15
+        }
+      ],
+      "question": "Riparare uno zaino invece di sostituirlo subito è un esempio di quale pratica?",
+      "answers": [
+        {
+          "text": "Prolungamento della vita del prodotto e riuso",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Riciclo dei materiali tramite fusione",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Produzione di energia da biomassa",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-010",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "Il compostaggio trasforma la frazione organica idonea in compost, recuperando materia. Richiede una gestione corretta dei materiali.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 15
+        }
+      ],
+      "question": "Quale trattamento permette di recuperare materia organica biodegradabile come ammendante?",
+      "answers": [
+        {
+          "text": "Il compostaggio",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "L’abbandono in un corso d’acqua",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La miscelazione con rifiuti non riciclabili",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-011",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "Ridurre gli sprechi evita di perdere anche acqua, suolo ed energia impiegati per produrre il cibo.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 16
+        }
+      ],
+      "question": "Quale scelta è coerente con l’alimentazione consapevole illustrata nelle slide?",
+      "answers": [
+        {
+          "text": "Pianificare gli acquisti per ridurre lo spreco alimentare",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Comprare quantità superiori al fabbisogno e scartare gli avanzi",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Scegliere soltanto in base alla quantità di imballaggi",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-012",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "Le istituzioni possono agire con norme, strumenti economici e infrastrutture: le scelte individuali fanno parte di un quadro collettivo.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 17
+        }
+      ],
+      "question": "Quale insieme rappresenta tre strumenti dell’azione pubblica per la transizione ecologica?",
+      "answers": [
+        {
+          "text": "Regole, incentivi economici e infrastrutture",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Soltanto consigli ai singoli consumatori",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Esclusivamente campagne pubblicitarie commerciali",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-013",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "L’Agenda 2030 comprende 17 SDGs, che collegano dimensioni ambientali, sociali ed economiche.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 20
+        }
+      ],
+      "question": "Quanti obiettivi di sviluppo sostenibile comprende l’Agenda 2030 adottata nel 2015?",
+      "answers": [
+        {
+          "text": "17",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "8",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "27",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-014",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "La sostenibilità richiede di considerare i legami fra obiettivi e gli effetti delle scelte su persone ed ecosistemi.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 20
+        }
+      ],
+      "question": "Quale idea esprime l’interconnessione degli obiettivi dell’Agenda 2030?",
+      "answers": [
+        {
+          "text": "Ambiente, salute, povertà ed energia devono essere affrontati come temi collegati",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La tutela ambientale esclude qualsiasi questione sociale",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Ogni obiettivo può essere perseguito ignorando gli effetti sugli altri",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-015",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "La resilienza riguarda la capacità di assorbire un disturbo e recuperare le funzioni fondamentali; non implica che qualsiasi perturbazione sia reversibile.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 23
+        }
+      ],
+      "question": "Come si chiama la capacità di un ecosistema di recuperare struttura e funzioni dopo un disturbo?",
+      "answers": [
+        {
+          "text": "Resilienza ecologica",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Fissazione dell’azoto",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Accumulo biologico di inquinanti",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-016",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "explanation": "Una gilda riunisce specie in base al modo di utilizzare una risorsa, non in base alla parentela tassonomica.",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 23
+        }
+      ],
+      "question": "Merli e ghiri che utilizzano i frutti del bosco possono appartenere alla stessa gilda: perché?",
+      "answers": [
+        {
+          "text": "Specie anche non imparentate sfruttano risorse simili in modo simile",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Sono necessariamente membri della stessa specie",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Vivono obbligatoriamente nello stesso nido",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-017",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "Gli urodeli mantengono la coda anche da adulti; rane e rospi sono anuri, le cecilie apodi.",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 2
+        }
+      ],
+      "question": "Quale gruppo di anfibi comprende tritoni e salamandre?",
+      "answers": [
+        {
+          "text": "Gli urodeli",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Gli anuri",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Gli apodi",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-018",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "Gli scambi gassosi possono avvenire attraverso la pelle umida; per questo il disseccamento è un problema rilevante.",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 3
+        }
+      ],
+      "question": "Quale caratteristica rende possibile la respirazione cutanea negli anfibi?",
+      "answers": [
+        {
+          "text": "Una pelle sottile, permeabile e mantenuta umida",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Una pelle completamente impermeabile coperta di piume",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Uno spesso rivestimento di squame cornee",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-019",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "L’endemismo indica una distribuzione geografica naturale circoscritta, non semplicemente abbondanza locale.",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 7
+        }
+      ],
+      "question": "Che cosa significa che una specie è endemica di una regione?",
+      "answers": [
+        {
+          "text": "La sua distribuzione naturale è limitata a quell’area",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "È stata introdotta dall’uomo in tutti i continenti",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Vive soltanto durante una stagione",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-020",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "La spermatofora raggruppa gli spermatozoi e partecipa al trasferimento durante il comportamento riproduttivo.",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 13
+        }
+      ],
+      "question": "Che cos’è una spermatofora negli anfibi urodeli?",
+      "answers": [
+        {
+          "text": "Un pacchetto contenente spermatozoi trasferito alla femmina",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Un involucro che contiene esclusivamente le uova deposte",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una ghiandola che produce il richiamo sonoro",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-021",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "È un segnale di avvertimento, come la livrea contrastata della salamandra pezzata; non rende l’animale invulnerabile.",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 19
+        }
+      ],
+      "question": "Qual è la funzione di una colorazione aposematica?",
+      "answers": [
+        {
+          "text": "Avvertire i predatori della nocività o sgradevolezza dell’animale",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Rendere l’animale indistinguibile dallo sfondo",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Impedire fisicamente ogni attacco",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-022",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "La predazione da parte della fauna ittica introdotta può ridurre il successo riproduttivo dei tritoni.",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 26
+        }
+      ],
+      "question": "Perché introdurre pesci negli stagni riproduttivi può danneggiare il tritone crestato?",
+      "answers": [
+        {
+          "text": "I pesci possono predare uova e larve",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "I pesci rendono sempre impossibile la crescita delle piante terrestri",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "I tritoni devono nutrirsi esclusivamente di pesci adulti",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-023",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "Gli individui raggiungono la maturità sessuale pur mantenendo caratteri larvali e restando acquatici.",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 35
+        }
+      ],
+      "question": "Che cosa caratterizza la neotenia descritta per alcuni tritoni?",
+      "answers": [
+        {
+          "text": "La capacità di riprodursi mantenendo caratteri larvali, come branchie esterne",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La perdita della capacità riproduttiva dopo la metamorfosi",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La trasformazione in un rettile terrestre",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-024",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "Le secrezioni scoraggiano alcuni predatori; altri possono comunque nutrirsi dei rospi.",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 40
+        }
+      ],
+      "question": "Qual è la funzione difensiva delle ghiandole parotoidi del rospo?",
+      "answers": [
+        {
+          "text": "Secernere sostanze irritanti o tossiche per alcuni predatori",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Produrre il guscio calcareo delle uova",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Permettere il volo durante la fuga",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-025",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "La disposizione delle ovature è un indizio utile: cordoni nei rospi e masse gelatinose nelle rane.",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 45
+        }
+      ],
+      "question": "Quale forma di deposizione distingue tipicamente le uova dei rospi da quelle delle rane?",
+      "answers": [
+        {
+          "text": "Lunghi cordoni gelatinosi nei rospi, ammassi gelatinosi nelle rane",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Uova con guscio rigido nei rospi, uova asciutte nelle rane",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Uova deposte soltanto sui tronchi in entrambe le specie",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-026",
+      "source": "Classroom/Aggiunti2 · I RETTILI - LEZIONE 5.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "La membrana amniotica circonda l’embrione e contribuisce alla protezione durante lo sviluppo, favorendo la riproduzione fuori dall’acqua.",
+      "references": [
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 2
+        }
+      ],
+      "question": "Quale funzione svolge l’amnios nello sviluppo dell’embrione dei rettili?",
+      "answers": [
+        {
+          "text": "Mantenerlo in un ambiente liquido protetto all’interno dell’uovo",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Produrre il veleno dell’adulto",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Sostituire tutti gli organi respiratori dell’adulto",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-027",
+      "source": "Classroom/Aggiunti2 · I RETTILI - LEZIONE 5.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "Il rivestimento corneo è una barriera alla perdita d’acqua; i rettili respirano mediante polmoni.",
+      "references": [
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 3
+        }
+      ],
+      "question": "Quale vantaggio offre ai rettili la pelle cheratinizzata?",
+      "answers": [
+        {
+          "text": "Limita la perdita d’acqua e favorisce la vita in ambienti asciutti",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Permette una respirazione cutanea identica a quella degli anfibi",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Mantiene la temperatura costante indipendentemente dall’ambiente",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-028",
+      "source": "Classroom/Aggiunti2 · I RETTILI - LEZIONE 5.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "L’exuvia è il rivestimento esterno eliminato con la muta.",
+      "references": [
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 8
+        }
+      ],
+      "question": "Come si chiama il rivestimento cutaneo abbandonato da un serpente dopo la muta?",
+      "answers": [
+        {
+          "text": "Exuvia",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Spermatofora",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Palco",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-029",
+      "source": "Classroom/Aggiunti2 · I RETTILI - LEZIONE 5.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "Ofiofagia significa consumo di serpenti; il biacco ha comunque una dieta più ampia.",
+      "references": [
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 16
+        }
+      ],
+      "question": "Che cosa significa il termine ofiofago riferito al biacco?",
+      "answers": [
+        {
+          "text": "Che può nutrirsi di altri serpenti",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Che si nutre esclusivamente di piante",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Che depone le uova dentro i frutti",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-030",
+      "source": "Classroom/Aggiunti2 · I RETTILI - LEZIONE 5.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "Il saettone è un colubro costrittore; l’assenza di veleno non significa assenza di capacità predatoria.",
+      "references": [
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 18
+        }
+      ],
+      "question": "Come immobilizza tipicamente le prede il saettone, privo di veleno?",
+      "answers": [
+        {
+          "text": "Avvolgendole nelle spire e comprimendole",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Inoculando veleno con zanne canalicolate",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Paralizzandole con una scarica elettrica",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-031",
+      "source": "Classroom/Aggiunti2 · I RETTILI - LEZIONE 5.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "La natrice dal collare può fingersi morta e accompagnare la finzione con secrezioni maleodoranti.",
+      "references": [
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 28
+        }
+      ],
+      "question": "Quale comportamento difensivo è chiamato tanatosi?",
+      "answers": [
+        {
+          "text": "Simulare la morte in una situazione di pericolo",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Cambiare sesso per evitare un predatore",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Attaccare ogni animale incontrato",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-032",
+      "source": "Classroom/Aggiunti2 · I RETTILI - LEZIONE 5.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "explanation": "Le zanne solenoglife presentano un canale per l’inoculazione; la funzione è diversa da quella di denti senza solchi.",
+      "references": [
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 48
+        }
+      ],
+      "question": "Che cosa caratterizza la dentizione solenoglifa dei viperidi?",
+      "answers": [
+        {
+          "text": "Zanne canalicolate attraverso cui viene inoculato il veleno",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Denti tutti privi di canali per il veleno",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Denti posteriori che servono soltanto a masticare vegetali",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-033",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "La chiesa celebra il ritorno di Vittorio Emanuele I nel contesto della Restaurazione.",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 4
+        }
+      ],
+      "question": "A quale ritorno dinastico è legata la costruzione della Gran Madre di Dio a Torino?",
+      "answers": [
+        {
+          "text": "Il ritorno di Vittorio Emanuele I dopo l’età napoleonica",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "L’ascesa al trono di Umberto II nel 1946",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il trasferimento della capitale del Ducato nel 1563",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-034",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "L’acquisto della collezione Drovetti da parte di Carlo Felice è alla base della nascita del Museo Egizio.",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 6
+        }
+      ],
+      "question": "Quale acquisto del 1824 contribuì al primo nucleo del Museo Egizio di Torino?",
+      "answers": [
+        {
+          "text": "La collezione Drovetti acquistata da Carlo Felice",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La collezione di automobili acquistata da Giovanni Agnelli",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La raccolta di armi dello Chaberton acquistata da Carlo Alberto",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-035",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "Lo Statuto prende il nome da Carlo Alberto, che lo concesse al Regno di Sardegna.",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 8
+        }
+      ],
+      "question": "Quale sovrano concesse lo Statuto Albertino?",
+      "answers": [
+        {
+          "text": "Carlo Alberto",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Vittorio Emanuele I",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Umberto I",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-036",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "Il percorso collega Mortera alla Sacra e offre vedute sui laghi di Avigliana. Per un’uscita reale occorre verificare condizioni e segnaletica.",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 10
+        }
+      ],
+      "question": "A quale destinazione conduce il Sentiero dei Principi dalla borgata Mortera?",
+      "answers": [
+        {
+          "text": "La Sacra di San Michele",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La Basilica di Superga",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il Forte di Fenestrelle",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-037",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "La Mole è opera di Alessandro Antonelli: il nome stesso dell’edificio richiama il suo progettista.",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 14
+        }
+      ],
+      "question": "Quale architetto progettò la Mole Antonelliana?",
+      "answers": [
+        {
+          "text": "Alessandro Antonelli",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Guarino Guarini",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Filippo Juvarra",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-038",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "Palazzo Carignano conserva un rapporto diretto con la storia parlamentare e il Risorgimento.",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 16
+        }
+      ],
+      "question": "Quale palazzo ospitò l’aula del Parlamento Subalpino e del primo Parlamento italiano?",
+      "answers": [
+        {
+          "text": "Palazzo Carignano",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La Palazzina di Caccia di Stupinigi",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il Castello di Rivoli",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-039",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "Bramafam sorveglia la conca di Bardonecchia e nasce per la protezione del collegamento ferroviario transalpino.",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 23
+        }
+      ],
+      "question": "Quale infrastruttura strategica doveva difendere il Forte Bramafam?",
+      "answers": [
+        {
+          "text": "La ferrovia Torino–Modane e l’imbocco italiano del traforo del Fréjus",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il traforo autostradale del Monte Bianco",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il Canale Cavour fra Po e Ticino",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-040",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "Il Borgo del Valentino è una ricostruzione ottocentesca ispirata ad architetture medievali, realizzata per l’Esposizione del 1884.",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 25
+        }
+      ],
+      "question": "Per quale occasione fu realizzato nel 1884 il Borgo Medievale di Torino?",
+      "answers": [
+        {
+          "text": "L’Esposizione Generale Italiana",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Le Olimpiadi invernali",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "L’incoronazione di Carlo Felice",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-041",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte dal novecento a oggi.pptx.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "La società automobilistica nasce a Torino nel 1899; l’acronimo richiama settore produttivo e città.",
+      "references": [
+        {
+          "drive_id": "1qfEMTT-MHUnOyHxPfCQzZU2L53leuIWm",
+          "title": "storia del Piemonte dal novecento a oggi.pptx.pdf",
+          "page": 4
+        }
+      ],
+      "question": "Quale nome è all’origine dell’acronimo FIAT?",
+      "answers": [
+        {
+          "text": "Fabbrica Italiana Automobili Torino",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Federazione Italiana Attività Turistiche",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Ferrovia Internazionale Alpina Torino",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-042",
+      "source": "Classroom/Aggiunti2 · folclore locale.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "La festa di Mompantero, nella frazione Urbiano, comprende la ricerca, la cattura simbolica e il ballo dell’orso.",
+      "references": [
+        {
+          "drive_id": "1J1Y1Y6z9u16Ps9k7eTz7fmiiVeqUC8Qn",
+          "title": "folclore locale.pdf",
+          "page": 13
+        }
+      ],
+      "question": "A quale comune valsusino è legata la festa Fora l’Ours?",
+      "answers": [
+        {
+          "text": "Mompantero",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Chiomonte",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Venaus",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-043",
+      "source": "Classroom/Aggiunti2 · folclore locale.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "La dispensa distingue la tradizione teatrale dalla dimostrazione storica dell’episodio e del presunto diritto feudale.",
+      "references": [
+        {
+          "drive_id": "1J1Y1Y6z9u16Ps9k7eTz7fmiiVeqUC8Qn",
+          "title": "folclore locale.pdf",
+          "page": 17
+        }
+      ],
+      "question": "Come va presentata la Soppressione del Feudatario di San Giorio?",
+      "answers": [
+        {
+          "text": "Come rievocazione storico-leggendaria, distinguendo il racconto dalle prove storiche",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Come prova certa che ogni signore medievale esercitasse lo jus primae noctis",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Come una battaglia documentata della Seconda guerra mondiale",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-044",
+      "source": "Classroom/Aggiunti2 · folclore locale.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "Adelaide è la figura attorno alla quale si costruisce il racconto storico della manifestazione.",
+      "references": [
+        {
+          "drive_id": "1J1Y1Y6z9u16Ps9k7eTz7fmiiVeqUC8Qn",
+          "title": "folclore locale.pdf",
+          "page": 27
+        }
+      ],
+      "question": "Quale figura è centrale nella rievocazione del Torneo dei Borghi di Susa?",
+      "answers": [
+        {
+          "text": "Adelaide di Susa",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Rosa Vercellana",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Maria Giovanna Battista di Nemours",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-045",
+      "source": "Classroom/Aggiunti2 · prodotti tipici.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "Carpano è legato alla codificazione torinese del vermouth, vino aromatizzato con erbe e spezie.",
+      "references": [
+        {
+          "drive_id": "1SajAqKJ9Qc02pERlW9UZHhP14q4Od5DA",
+          "title": "prodotti tipici.pdf",
+          "page": 22
+        }
+      ],
+      "question": "Quale bevanda torinese è associata ad Antonio Benedetto Carpano e al 1786?",
+      "answers": [
+        {
+          "text": "Il vermouth",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il bicerin",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La panna cotta",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-046",
+      "source": "Classroom/Aggiunti2 · prodotti tipici.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "explanation": "Il nome del pane sottile richiama gherssa e il diminutivo gherssin. Gli altri termini appartengono al folclore valsusino.",
+      "references": [
+        {
+          "drive_id": "1SajAqKJ9Qc02pERlW9UZHhP14q4Od5DA",
+          "title": "prodotti tipici.pdf",
+          "page": 28
+        }
+      ],
+      "question": "Da quale parola piemontese deriva il nome grissino secondo la dispensa?",
+      "answers": [
+        {
+          "text": "Gherssa, un filone di pane",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Bran, un elemento rituale",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Pouento, un albero cerimoniale",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-047",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "explanation": "La scelta parte dal destinatario; una presenza mirata e curata è più sostenibile di una dispersione indiscriminata.",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 12
+        }
+      ],
+      "question": "Quale criterio dovrebbe guidare la scelta dei canali di comunicazione di una GEA?",
+      "answers": [
+        {
+          "text": "La presenza e le abitudini del pubblico che vuole raggiungere",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "L’obbligo di pubblicare su ogni piattaforma esistente",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Soltanto il canale che piace di più alla guida",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-048",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "explanation": "Un sito minimo deve consentire al visitatore di capire identità, offerta e percorso di prenotazione.",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 15
+        }
+      ],
+      "question": "Quali tre informazioni essenziali deve rendere chiare il sito di una guida?",
+      "answers": [
+        {
+          "text": "Chi è, quali escursioni propone e come prenotare",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Solo il numero di follower e il logo",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Soltanto fotografie senza indicazioni di contatto",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-049",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "explanation": "La comunicazione esperienziale rende comprensibile il valore della proposta, mantenendo informazioni concrete e promesse realistiche.",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 18
+        }
+      ],
+      "question": "Quale messaggio comunica meglio il valore esperienziale di un’uscita?",
+      "answers": [
+        {
+          "text": "Collegare ciò che si scoprirà ai benefici per il partecipante, includendo anche i dati pratici",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Elencare esclusivamente chilometri e orari senza spiegare l’esperienza",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Promettere risultati eccezionali senza descrivere il percorso",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-050",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "explanation": "La slide richiama il consenso per i volti; non è una trattazione completa degli obblighi sulla privacy.",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 19
+        }
+      ],
+      "question": "Quale criterio suggerisce la lezione per le fotografie promozionali con volti riconoscibili?",
+      "answers": [
+        {
+          "text": "Usarle con il consenso delle persone ritratte",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Pubblicarle sempre senza informare i partecipanti",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Sostituire ogni foto con la sola traccia GPS",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-051",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "explanation": "Domande, quiz e sondaggi sono strumenti di coinvolgimento quando pertinenti al pubblico e alla proposta.",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 21
+        }
+      ],
+      "question": "Quale contenuto invita il pubblico a partecipare attivamente a un post?",
+      "answers": [
+        {
+          "text": "Un sondaggio o un quiz pertinente all’escursione",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Un elenco di dati senza alcuna possibilità di risposta",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La ripetizione automatica del medesimo annuncio",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-052",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "explanation": "Dati coerenti facilitano il riconoscimento dell’attività da parte di persone e servizi di ricerca.",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 30
+        }
+      ],
+      "question": "Perché è utile mantenere coerenti nome, zona e telefono su sito e profili online?",
+      "answers": [
+        {
+          "text": "Riduce confusione e rende identificabile la stessa attività",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Permette di nascondere il contatto ai clienti",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Sostituisce la necessità di informazioni corrette sul percorso",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-053",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "explanation": "Le collaborazioni con rifugi, Pro Loco e altri operatori possono sostenere visibilità e credibilità sul territorio.",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 31
+        }
+      ],
+      "question": "Quale esempio realizza una collaborazione territoriale per la visibilità reciproca?",
+      "answers": [
+        {
+          "text": "Una guida e un rifugio si citano nelle rispettive pagine come partner",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La guida pubblica il recapito errato di un altro operatore",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Ogni operatore evita qualsiasi relazione con le realtà locali",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261011-054",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "explanation": "Il calendario editoriale permette di programmare messaggi e formati con continuità e coerenza.",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 33
+        }
+      ],
+      "question": "A che cosa serve un piano editoriale per la comunicazione di una guida?",
+      "answers": [
+        {
+          "text": "Organizzare nel tempo contenuti, canali e obiettivi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Decidere casualmente il prezzo di ogni uscita",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Sostituire ogni sopralluogo con un post",
+          "correct": false,
+          "index": 2
+        }
+      ]
     }
   ],
   "open": [
@@ -13707,6 +15435,394 @@
         "Collegare i concetti in un'esposizione unica, usando almeno un esempio ambientale"
       ],
       "note": "Domanda di sintesi indicata come sicura per la parte aperta di ecologia."
+    },
+    {
+      "id": "GEA-O-20261011-001",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 3
+        },
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 4
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Confronta pool di riserva e pool di scambio e applica la distinzione a un ciclo biogeochimico.",
+      "keys": [
+        "Definire un pool come comparto che conserva un elemento prima del trasferimento",
+        "Riserva: generalmente grande, stabile e poco attiva",
+        "Scambio: più dinamico, con elementi disponibili per gli organismi",
+        "Applicare la distinzione a un esempio senza confondere quantità conservata e velocità di circolazione"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-002",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 6
+        },
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 7
+        },
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 8
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Spiega come azoto, carbonio e fosforo entrano nelle molecole degli esseri viventi.",
+      "keys": [
+        "Azoto negli amminoacidi e negli acidi nucleici; ruolo della fissazione biologica",
+        "Carbonio incorporato dagli autotrofi fotosintetici e trasferito lungo le relazioni alimentari",
+        "Fosforo nei gruppi fosfato di ATP, acidi nucleici e fosfolipidi",
+        "Collegare comparti abiotici e biomassa, distinguendo i processi"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-003",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 15
+        },
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 16
+        },
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 17
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Progetta tre azioni per ridurre l’impatto di una giornata escursionistica e collegale alle politiche collettive.",
+      "keys": [
+        "Prevenire rifiuti, scegliere oggetti riutilizzabili e riparabili",
+        "Organizzare il cibo per ridurre sprechi e valorizzare produzioni stagionali locali",
+        "Proporre mobilità condivisa o pubblica dove possibile, con organizzazione realistica",
+        "Spiegare il ruolo di regole, incentivi e infrastrutture senza attribuire tutto alle sole scelte individuali"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-004",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 20
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Presenta l’Agenda 2030 e mostra con un esempio perché i suoi obiettivi sono interconnessi.",
+      "keys": [
+        "Adozione nel 2015 nell’ambito ONU",
+        "17 obiettivi di sviluppo sostenibile",
+        "Dimensioni ambientali, sociali ed economiche collegate",
+        "Esempio: qualità dell’acqua, salute, produzione agricola e condizioni di vita; valutare gli effetti fra obiettivi"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-005",
+      "source": "Classroom/Aggiunti2 · ECOLOGIA_pt2.pdf",
+      "topic": "ecologia",
+      "category": "Ecologia",
+      "references": [
+        {
+          "drive_id": "1Ubc4ptERvnT-pdN2k2wtyjb-dKXXrA1Z",
+          "title": "ECOLOGIA_pt2.pdf",
+          "page": 23
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Distingui resilienza ecologica e gilda usando due esempi in un bosco.",
+      "keys": [
+        "Resilienza: assorbire un disturbo e recuperare funzioni fondamentali",
+        "Esempio di ripresa della vegetazione dopo un disturbo; indicare che il recupero ha limiti",
+        "Gilda: specie che sfruttano risorse simili in modo simile anche se non imparentate",
+        "Esempio di frugivori come merlo e ghiro; non confondere gilda e specie"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-006",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 2
+        },
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 3
+        },
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 45
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Confronta urodeli e anuri e spiega perché molti anfibi dipendono dagli ambienti umidi.",
+      "keys": [
+        "Urodeli con coda da adulti: salamandre e tritoni; anuri senza coda da adulti: rane e rospi",
+        "Pelle sottile e umida, scambi cutanei e rischio di disidratazione",
+        "Molte specie depongono uova prive di guscio protettivo in acqua",
+        "Distinguere il ciclo tipico dalle eccezioni terrestri; evitare l’affermazione che tutti gli anfibi si riproducano nello stesso modo"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-007",
+      "source": "Classroom/Aggiunti2 · GLI ANFIBI - LEZIONE 4.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "references": [
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 23
+        },
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 26
+        },
+        {
+          "drive_id": "1UJEP5sVpV4gjIfdUZ_XfstWgoey84uAx",
+          "title": "GLI ANFIBI - LEZIONE 4.pdf",
+          "page": 35
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Spiega le esigenze di conservazione dei tritoni e il significato della neotenia.",
+      "keys": [
+        "Importanza di stagni e siti riproduttivi adatti, con vegetazione acquatica",
+        "Distruzione degli habitat e introduzione di pesci come pressioni",
+        "Predazione di uova e larve e perdita del successo riproduttivo",
+        "Neotenia: maturità sessuale con caratteri larvali, per esempio branchie esterne in individui acquatici"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-008",
+      "source": "Classroom/Aggiunti2 · I RETTILI - LEZIONE 5.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "references": [
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 16
+        },
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 18
+        },
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 27
+        },
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 28
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Confronta biacco, saettone e natrice dal collare per alimentazione e strategie di difesa o predazione.",
+      "keys": [
+        "Biacco opportunista, può predare anche altri serpenti: ofiofagia",
+        "Saettone non velenoso, costrizione delle prede",
+        "Natrice legata ad ambienti umidi, alimentazione soprattutto su anfibi",
+        "Tanatosi e secrezioni maleodoranti come difese della natrice; osservare a distanza senza manipolare"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-009",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 14
+        },
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 16
+        },
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 25
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Costruisci una breve lettura storica di Torino collegando Palazzo Carignano, Mole e Borgo Medievale.",
+      "keys": [
+        "Carignano e la storia dei parlamenti subalpino e italiano",
+        "Mole progettata da Alessandro Antonelli, distinguendolo dagli architetti barocchi",
+        "Borgo del Valentino realizzato per l’Esposizione del 1884",
+        "Distinguere edifici storici e ricostruzione ottocentesca ispirata al Medioevo; non presentare il Borgo come un insediamento medievale originale"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-010",
+      "source": "Classroom/Aggiunti2 · storia del Piemonte del risorgimento.pdf",
+      "topic": "storia_t",
+      "category": "Storia, arte, cultura e folclore locale",
+      "references": [
+        {
+          "drive_id": "12r0ZqboI_Jv4OTWJCrKa7-9wj_bkSD3g",
+          "title": "storia del Piemonte del risorgimento.pdf",
+          "page": 23
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Presenta il Forte Bramafam collegandolo alla geografia e alla storia dei trasporti alpini.",
+      "keys": [
+        "Collocazione presso Bardonecchia in Valle di Susa",
+        "Costruzione nella seconda metà dell’Ottocento",
+        "Difesa della ferrovia Torino–Modane e dell’imbocco italiano del traforo del Fréjus",
+        "Legame fra fortificazioni, controllo dei valichi e infrastrutture; per una visita verificare accessi e condizioni attuali"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-011",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 12
+        },
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 15
+        },
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 30
+        },
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 33
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Prepara un piano di comunicazione essenziale per una guida che vuole raggiungere famiglie del proprio territorio.",
+      "keys": [
+        "Definire destinatari e bisogni prima dei canali",
+        "Scegliere pochi canali pertinenti e chiarire identità, offerta e prenotazione",
+        "Mantenere coerenti zona e contatti; dare informazioni pratiche verificabili",
+        "Programmare contenuti utili in un calendario e valutare richieste ricevute, non soltanto quantità di post"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-012",
+      "source": "Classroom/Aggiunti2 · Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+      "topic": "economia_t",
+      "category": "Economia turistica e marketing",
+      "references": [
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 18
+        },
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 19
+        },
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 20
+        },
+        {
+          "drive_id": "1DWnK8QhabZgF8ja2j6j5BMJpUglcgdW3",
+          "title": "Comunicazione e promozione delle attività (GEA modulo Attività Economiche e Produttive).pdf",
+          "page": 24
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Trasforma un annuncio di escursione in un invito esperienziale senza perdere chiarezza e realismo.",
+      "keys": [
+        "Descrivere una scoperta concreta o un dettaglio sensoriale del luogo",
+        "Esplicitare il beneficio per il pubblico scelto senza promettere sicurezza o risultati assoluti",
+        "Mantenere distanza, dislivello, durata, requisiti, ritrovo e prenotazione",
+        "Usare immagini pertinenti e consenso per persone riconoscibili; distinguere comunicazione efficace da omissione dei dati tecnici"
+      ],
+      "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
     }
   ]
 }
