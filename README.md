@@ -1,4 +1,4 @@
-# Simulatore GEA PWA — versione 5.9
+# Simulatore GEA PWA — versione 5.10
 
 Banca JSON esterna inclusa nel pacchetto: **428 domande chiuse** e **120 domande aperte**, per un totale di **548 quesiti**.
 
@@ -94,3 +94,13 @@ Verifiche 5.8: schema e conteggi JSON, ID unici, una risposta corretta per quesi
 DB `2026.10.11-2`. Pubblicare anche il JSON e poi usare Aggiorna e Aggiorna banca dati. Se il JSON GitHub configurato è diverso, aggiornare quel file. Esportare prima le modifiche locali.
 
 Verifiche 5.9: sintassi JavaScript e service worker, struttura JSON, 548 ID unici, risposta corretta unica, elenco prioritarie con filtri e ricerca, conteggio dinamico, inclusione delle sicure, esclusione con prioritarie disattivate e selezione per argomento. Controlli eseguiti sulle funzioni dell'app; non eseguita una prova visiva o d'installazione su dispositivo Android.
+
+## Novità 5.10 — gestione delle aperte
+
+Nell’editor scegli Domanda aperta: Nuova domanda aggiunge il quesito; selezionare un quesito permette di correggere testo, argomento e punti chiave della risposta di riferimento, aggiungendo o eliminando righe. Elimina domanda aperta rimuove il quesito dopo conferma. Annulla ultima eliminazione ripristina l’ultima rimozione finché l’app resta aperta. Dal pannello delle probabili puoi entrare direttamente con Gestisci domande aperte.
+
+Le cancellazioni sono salvate nel browser per ID: un aggiornamento della banca non le fa ricomparire. Il JSON esportato comprende soltanto le domande ancora presenti. Reimportare un record con lo stesso ID lo ripristina. Per rendere permanenti le modifiche condivise, pubblica il JSON esportato su GitHub. La banca online in sola lettura va prima salvata offline.
+
+Durante il test aperto, Cancella la mia risposta svuota il testo dopo conferma e mantiene la posizione. Le risposte restano modificabili prima di concludere. Le modifiche alla banca non alterano le domande già estratte in un test sospeso.
+
+Il pacchetto mantiene 548 quesiti: 428 chiusi e 120 aperti. Il conteggio visibile cambia in base alle modifiche locali. Verifiche: cancellazione persistente, esportazione senza record rimossi, ripristino, protezione della sola lettura e rollback se il salvataggio fallisce; sintassi JavaScript e service worker. Nessuna prova di installazione su Android.
