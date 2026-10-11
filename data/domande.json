@@ -1,9 +1,9 @@
 {
   "format": "gea-question-bank",
   "version": 1,
-  "databaseVersion": "2026.10.11-1",
-  "updatedAt": "2026-10-11T00:00:00Z",
-  "appVersion": "5.8",
+  "databaseVersion": "2026.10.11-2",
+  "updatedAt": "2026-10-11T07:20:32Z",
+  "appVersion": "5.9",
   "closed": [
     {
       "id": "clefratturevannoimmobilizzatesempre|vannoimmobilizzatesoloincasodidolore|vannoimmobilizzatesoloquandoesposte",
@@ -15823,6 +15823,31 @@
         "Usare immagini pertinenti e consenso per persone riconoscibili; distinguere comunicazione efficace da omissione dei dati tecnici"
       ],
       "note": "Traccia di autovalutazione derivata dal materiale del corso; non è una domanda dichiarata sicura."
+    },
+    {
+      "id": "GEA-O-20261011-TANATOSI",
+      "source": "Classroom/Aggiunti2 · I RETTILI - LEZIONE 5.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "references": [
+        {
+          "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
+          "title": "I RETTILI - LEZIONE 5.pdf",
+          "page": 28
+        }
+      ],
+      "probable": true,
+      "certain": true,
+      "probableSource": "",
+      "question": "Che cos’è la tanatosi? Descrivi un esempio nella fauna e spiega il possibile ruolo dell’autoemorrea.",
+      "keys": [
+        "Tanatosi: comportamento difensivo che simula la morte per scoraggiare un predatore",
+        "Esempio: la natrice dal collare può immobilizzarsi, rovesciarsi con il ventre in alto e aprire la bocca",
+        "Può accompagnare la finzione con secrezioni maleodoranti dalla cloaca",
+        "In alcuni casi può emettere sangue dalla bocca (autoemorrea), rafforzando la simulazione; non è un comportamento di tutti i serpenti",
+        "Distinguere la tanatosi dalla morte reale; osservare senza manipolare o provocare l’animale"
+      ],
+      "note": "Indicata dall’utente come domanda sicura aperta di fauna. Il termine corretto è tanatosi; fonte della spiegazione: pagina PDF 28."
     }
   ]
 }

@@ -1,6 +1,6 @@
-# Simulatore GEA PWA — versione 5.8
+# Simulatore GEA PWA — versione 5.9
 
-Banca JSON esterna inclusa nel pacchetto: **428 domande chiuse** e **119 domande aperte**, per un totale di **547 quesiti**.
+Banca JSON esterna inclusa nel pacchetto: **428 domande chiuse** e **120 domande aperte**, per un totale di **548 quesiti**.
 
 ## Pubblicazione su GitHub Pages
 
@@ -83,3 +83,14 @@ DB: `2026.10.11-1`. Per vedere le nuove domande su un’installazione esistente,
 La consultazione dei PDF richiede accesso a Drive e connessione; il test può funzionare offline dopo il primo caricamento. L’apertura alla pagina indicata dipende dal visualizzatore PDF/Drive.
 
 Verifiche 5.8: schema e conteggi JSON, ID unici, una risposta corretta per quesito chiuso, confronto dei nuovi quesiti con la banca esistente, caricamento e deduplicazione usando le funzioni dell’app, riferimenti e pagine delle fonti, sintassi degli script e del service worker. Non è una verifica scientifica completa delle domande pregresse né una prova d’installazione su Android.
+
+## Novità 5.9 — tanatosi e consultazione delle prioritarie
+
+- Nuova domanda aperta di fauna sulla tanatosi, indicata come sicura dall’utente. ID `GEA-O-20261011-TANATOSI`, numero `120/120`. Esempio: natrice dal collare; possibile autoemorrea, senza generalizzare a tutti i serpenti. Fonte: I RETTILI - LEZIONE 5.pdf, pagina 28.
+- Totale 548 domande: 428 chiuse e 120 aperte. Conteggio visibile vicino alla versione e aggiornato in base alla banca effettivamente caricata, comprese importazioni e modifiche.
+- Pulsante Vedi domande probabili nella prima pagina: elenco delle aperte sicure/quasi sicure, filtro, ricerca, numeri, ID, punti chiave e fonti. Utilizzabile anche con una banca online in sola lettura; non avvia una sessione.
+- Con le prioritarie attive e almeno due domande aperte, in un test generale le sicure di ecologia e fauna hanno precedenza sulle quasi sicure. I test per argomento rispettano il filtro; con un solo posto non possono essere inserite entrambe. Con prioritarie disattivate sono escluse.
+
+DB `2026.10.11-2`. Pubblicare anche il JSON e poi usare Aggiorna e Aggiorna banca dati. Se il JSON GitHub configurato è diverso, aggiornare quel file. Esportare prima le modifiche locali.
+
+Verifiche 5.9: sintassi JavaScript e service worker, struttura JSON, 548 ID unici, risposta corretta unica, elenco prioritarie con filtri e ricerca, conteggio dinamico, inclusione delle sicure, esclusione con prioritarie disattivate e selezione per argomento. Controlli eseguiti sulle funzioni dell'app; non eseguita una prova visiva o d'installazione su dispositivo Android.
