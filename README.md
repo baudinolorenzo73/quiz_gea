@@ -1,4 +1,4 @@
-# Simulatore GEA PWA — versione 5.10
+# Simulatore GEA PWA — versione 5.11
 
 Banca JSON esterna inclusa nel pacchetto: **428 domande chiuse** e **120 domande aperte**, per un totale di **548 quesiti**.
 
@@ -104,3 +104,7 @@ Le cancellazioni sono salvate nel browser per ID: un aggiornamento della banca n
 Durante il test aperto, Cancella la mia risposta svuota il testo dopo conferma e mantiene la posizione. Le risposte restano modificabili prima di concludere. Le modifiche alla banca non alterano le domande già estratte in un test sospeso.
 
 Il pacchetto mantiene 548 quesiti: 428 chiusi e 120 aperti. Il conteggio visibile cambia in base alle modifiche locali. Verifiche: cancellazione persistente, esportazione senza record rimossi, ripristino, protezione della sola lettura e rollback se il salvataggio fallisce; sintassi JavaScript e service worker. Nessuna prova di installazione su Android.
+
+## Novità 5.11 — accesso editor in prima pagina
+
+Il pulsante Aggiungi, modifica o elimina domande è subito sotto Vedi domande probabili nella pagina iniziale. Apre l’editor sulle aperte; il selettore Tipo permette di passare alle chiuse. L’accesso precedente in configurazione e nel pannello delle probabili è stato spostato qui. Restano le funzioni della 5.10 e i 548 quesiti.
