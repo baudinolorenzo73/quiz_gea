@@ -1,9 +1,9 @@
 {
   "format": "gea-question-bank",
   "version": 1,
-  "databaseVersion": "2026.10.11-2",
-  "updatedAt": "2026-10-11T07:20:32Z",
-  "appVersion": "5.11",
+  "databaseVersion": "2026.10.13-2",
+  "updatedAt": "2026-10-13T10:55:08Z",
+  "appVersion": "5.13",
   "closed": [
     {
       "id": "clefratturevannoimmobilizzatesempre|vannoimmobilizzatesoloincasodidolore|vannoimmobilizzatesoloquandoesposte",
@@ -18,7 +18,7 @@
           "page": 82
         }
       ],
-      "question": "Le fratture",
+      "question": "Come vanno trattate le fratture durante il primo soccorso?",
       "answers": [
         {
           "text": "Vanno immobilizzate solo in caso di dolore",
@@ -76,7 +76,7 @@
           "page": 22
         }
       ],
-      "question": "Nella bussola, cosa indica la punta rossa dell'ago contenuto all'interno della ghiera girevole graduata?",
+      "question": "Nella bussola, che cosa indica la punta rossa dell'ago?",
       "answers": [
         {
           "text": "L'azimut 0°",
@@ -102,7 +102,7 @@
       "category": "Didattica e comunicazione",
       "explanation": "Nella terminologia del vecchio quesito i canali comprendono vista, udito e percezioni corporee/movimento (cinestesia).",
       "references": [],
-      "question": "Canali attraverso i quali percepiamo la realtà sono:",
+      "question": "Quali sono i canali attraverso cui percepiamo la realtà?",
       "answers": [
         {
           "text": "Visivo, uditivo, cinestesico",
@@ -186,7 +186,7 @@
           "page": 51
         }
       ],
-      "question": "Lorganizzazione turistica del Piemonte:",
+      "question": "Come è organizzata l'accoglienza e la promozione turistica locale in Piemonte?",
       "answers": [
         {
           "text": "è articolata in Agenzie di accoglienza e promozione turistica locale",
@@ -212,7 +212,7 @@
       "category": "Primo soccorso",
       "explanation": "Il quesito presuppone uno svenimento semplice: la posizione distesa con gambe sollevate può favorire il ritorno venoso. Una perdita di coscienza persistente richiede valutazione del respiro e soccorsi; non basta sollevare le gambe.",
       "references": [],
-      "question": "sicurezza e primo soccorso: in caso di svenimento di un turista:",
+      "question": "Primo soccorso: in caso di svenimento di un turista, quale azione indica il quesito?",
       "answers": [
         {
           "text": "Si sollevano le gambe per favorire la circolazione",
@@ -225,7 +225,7 @@
           "index": 1
         },
         {
-          "text": "SI mette ii soggetto in posizione laterale di sicurezza",
+          "text": "Si mette il soggetto in posizione laterale di sicurezza",
           "correct": false,
           "index": 2
         }
@@ -246,12 +246,12 @@
           "index": 0
         },
         {
-          "text": "la gestione economica che ne viene fatta in funzione dell'utilizzo finale",
+          "text": "La gestione economica del bosco in funzione dell'utilizzo finale",
           "correct": false,
           "index": 1
         },
         {
-          "text": "l'insieme delle leggi che regolano la gestione dei boschi",
+          "text": "L'insieme delle leggi che regolano la gestione dei boschi",
           "correct": false,
           "index": 2
         }
@@ -264,7 +264,7 @@
       "category": "Pianificazione territoriale",
       "explanation": "Piano d’area e piano naturalistico sono gli strumenti specifici richiamati dal quesito per le aree protette; non vanno confusi con strumenti territoriali generali o di tutela delle acque.",
       "references": [],
-      "question": "quali tra questi strumenti di pianificazione sono lo strumento di pianificazione specifico delle aree Protette:",
+      "question": "Quali sono gli strumenti di pianificazione specifici delle aree protette?",
       "answers": [
         {
           "text": "Piano d'area e piano naturalistico.",
@@ -296,7 +296,7 @@
           "page": 3
         }
       ],
-      "question": "Quando leggiamo al margine di una carta o nell'apposita legenda Scala: 1:25.000 \" questo vuol dire che:",
+      "question": "Che cosa significa la scala 1:25.000 riportata su una carta?",
       "answers": [
         {
           "text": "1 centimetro sulla carta corrisponde a 25.000 centimetri sul terreno",
@@ -322,7 +322,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "Nel camoscio le corna sono presenti in entrambi i sessi; questo lo distingue da numerosi cervidi, in cui i palchi sono tipicamente maschili.",
       "references": [],
-      "question": "Le corna nel camoscio sono presenti",
+      "question": "In quali camosci sono presenti le corna?",
       "answers": [
         {
           "text": "Esclusivamente nei maschi",
@@ -348,7 +348,7 @@
       "category": "Pianificazione territoriale",
       "explanation": "Il piano di gestione individua interventi e misure per conservare gli habitat e le specie del sito Natura 2000; un sito non deve necessariamente coincidere con un parco.",
       "references": [],
-      "question": "Quale strumento di pianificazione è previsto per i siti rete Natura 2000 che non sono parco naturale?",
+      "question": "Quale strumento di pianificazione è previsto per un sito della rete Natura 2000 che non è un parco naturale?",
       "answers": [
         {
           "text": "il piano d'Area",
@@ -380,7 +380,7 @@
           "page": 22
         }
       ],
-      "question": "\"Norme per la conservazione del patrimonio naturale e dell'assetto ambientale è la legge:",
+      "question": "Qual è il numero della legge piemontese intitolata «Norme per la conservazione del patrimonio naturale e dell’assetto ambientale»?",
       "answers": [
         {
           "text": "numero 32 del 1982.",
@@ -406,7 +406,7 @@
       "category": "Botanica",
       "explanation": "Fra le specie proposte il frassino maggiore è un albero di prima grandezza. Maggiociondolo e carpino nero hanno in genere sviluppo più contenuto.",
       "references": [],
-      "question": "Indicare lalbero di prima grandezza",
+      "question": "Quale tra questi alberi è di prima grandezza?",
       "answers": [
         {
           "text": "Laburnum anagyroides",
@@ -438,20 +438,20 @@
           "page": 32
         }
       ],
-      "question": "Una corrente a getto è:",
+      "question": "Che cos’è una corrente a getto?",
       "answers": [
         {
-          "text": "flussi d'aria di sezione relativamente piccola, che fluiscono velocemente.",
+          "text": "Un flusso d'aria relativamente stretto che si muove ad alta velocità",
           "correct": true,
           "index": 0
         },
         {
-          "text": "flussi d'aria di sezione relativamente piccola, che fluiscono lentamente.",
+          "text": "Un flusso d'aria relativamente stretto che si muove lentamente",
           "correct": false,
           "index": 1
         },
         {
-          "text": "equivale al vento di caduta.",
+          "text": "Un vento di caduta",
           "correct": false,
           "index": 2
         }
@@ -522,7 +522,7 @@
       "category": "Primo soccorso",
       "explanation": "La contusione è un trauma senza necessaria lacerazione cutanea; il livido deriva dal sangue fuoriuscito nei tessuti.",
       "references": [],
-      "question": "La contusione è caratterizzata dalla",
+      "question": "Da che cosa è caratterizzata una contusione?",
       "answers": [
         {
           "text": "Presenza di una lacerazione della pelle",
@@ -548,20 +548,20 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "Il cinghiale usa ambienti boscati con sottobosco e zone di alimentazione; campi di mais e conifere d’alta quota non descrivono da soli il suo habitat tipico.",
       "references": [],
-      "question": "Qual è l'habitat tipico del cinghiale?",
+      "question": "Quali ambienti frequenta spesso il cinghiale?",
       "answers": [
         {
-          "text": "aree boscate con ricco sottobosco e gerbidi prossimi a fonti alimentari e zone umide.",
+          "text": "Aree boscate con ricco sottobosco e gerbidi vicini a fonti alimentari e zone umide",
           "correct": true,
           "index": 0
         },
         {
-          "text": "campi di granoturco possibilmente estesi",
+          "text": "Campi di granoturco possibilmente estesi",
           "correct": false,
           "index": 1
         },
         {
-          "text": "boschi di conifere di media ed alta montagna",
+          "text": "Boschi di conifere di media e alta montagna",
           "correct": false,
           "index": 2
         }
@@ -612,7 +612,7 @@
           "page": 4
         }
       ],
-      "question": "Rete Natura 2000 è:",
+      "question": "Che cos’è la rete Natura 2000?",
       "answers": [
         {
           "text": "Una rete ecologica diffusa su tutto il territorio dell'Unione Europea, istituita ai sensi della direttiva 92/43/CEE \"Habitat\".",
@@ -625,7 +625,7 @@
           "index": 1
         },
         {
-          "text": "la rete dei corridoi ecologici istituiti dall' Unione Europea nell'anno 2000.",
+          "text": "La rete dei corridoi ecologici istituiti dall'Unione europea nel 2000",
           "correct": false,
           "index": 2
         }
@@ -638,7 +638,7 @@
       "category": "Meteorologia, climatologia e nivologia",
       "explanation": "6,5 °C ogni 1.000 m equivale a 0,65 °C ogni 100 m. È una media atmosferica, non una diminuzione obbligatoria in ogni situazione.",
       "references": [],
-      "question": "Il gradiente termico verticale, ovvero il valore di diminuzione media della temperatura atmosferica per ogni mille metri di altezza è di:",
+      "question": "Di quanti gradi diminuisce mediamente la temperatura atmosferica ogni 1.000 metri di quota?",
       "answers": [
         {
           "text": "6,5°C",
@@ -664,7 +664,7 @@
       "category": "Legislazione e organizzazione turistica",
       "explanation": "La risposta è riferita al quadro della L.R. 33/2001 richiamato nel quesito originale, con abilitazione, elenchi e funzioni provinciali. I riferimenti amministrativi vanno letti nel contesto della normativa e degli aggiornamenti del corso.",
       "references": [],
-      "question": "Le professioni turistiche regolamentate dalla legge 33/2001 per esercitare l'attività necessitano:",
+      "question": "Secondo la legge regionale 33/2001 citata nel corso, quale requisito era previsto per esercitare una professione turistica regolamentata?",
       "answers": [
         {
           "text": "Dell'autorizzazione della Regione",
@@ -690,7 +690,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "Vipera berus è il marasso. Il biacco è un altro serpente e “vipera cornuta” indica una specie diversa.",
       "references": [],
-      "question": "la Vipera Berus è più nota come",
+      "question": "Con quale nome comune è nota Vipera berus?",
       "answers": [
         {
           "text": "Marasso",
@@ -722,7 +722,7 @@
           "page": 12
         }
       ],
-      "question": "Quale è la legge quadro sulle aree protette?",
+      "question": "Qual è la legge quadro sulle aree protette?",
       "answers": [
         {
           "text": "349/91",
@@ -748,20 +748,20 @@
       "category": "Botanica",
       "explanation": "“Chirottero” significa pipistrello: l’impollinazione chirotterogama è quindi effettuata da pipistrelli, non da insetti o uccelli.",
       "references": [],
-      "question": "Per impollinazione chirotterogama\" si intende quella effettuata da:",
+      "question": "Da quali animali è effettuata l’impollinazione chirotterogama?",
       "answers": [
         {
-          "text": "insetti",
+          "text": "Gli insetti",
           "correct": false,
           "index": 0
         },
         {
-          "text": "pipistrelli",
+          "text": "I pipistrelli",
           "correct": true,
           "index": 1
         },
         {
-          "text": "uccelli",
+          "text": "Gli uccelli",
           "correct": false,
           "index": 2
         }
@@ -774,7 +774,7 @@
       "category": "Storia, arte, cultura e folclore locale",
       "explanation": "Il quesito richiama il cromlech di Cavaglià: la disposizione dei massi in cerchio è l’elemento caratteristico citato.",
       "references": [],
-      "question": "In quale dei seguenti Comuni è stato ritrovato un cromlech -monumento megaliticocostituito da massi disposti in cerchio?",
+      "question": "In quale comune è stato ritrovato un cromlech, monumento megalitico formato da massi disposti in cerchio?",
       "answers": [
         {
           "text": "Biella",
@@ -800,7 +800,7 @@
       "category": "Ecologia",
       "explanation": "L’ecotono è una fascia di transizione fra ecosistemi differenti; può contenere specie di entrambi e specie proprie della transizione.",
       "references": [],
-      "question": "cosa è un ecotono?",
+      "question": "Che cos’è un ecotono?",
       "answers": [
         {
           "text": "spazio intermedio fra due ecosistemi vicini, caratterizzato dalla compresenza di specie animali e vegetali di entrambi",
@@ -855,17 +855,17 @@
       "question": "Quando viene definito lo sviluppo sostenibile?",
       "answers": [
         {
-          "text": "nel 1972 -Conferenza di Stoccolma: Sviluppo compatibile con lambiente",
+          "text": "Nel 1972, alla Conferenza di Stoccolma: sviluppo compatibile con l'ambiente",
           "correct": false,
           "index": 0
         },
         {
-          "text": "nel 1987 -Rapporto Bruntland: Our common future",
+          "text": "Nel 1987, con il Rapporto Brundtland: Our Common Future",
           "correct": true,
           "index": 1
         },
         {
-          "text": "nel 1992 -Conferenza di Rio: Ambiente e sviluppo",
+          "text": "Nel 1992, alla Conferenza di Rio: ambiente e sviluppo",
           "correct": false,
           "index": 2
         }
@@ -884,20 +884,20 @@
           "page": 9
         }
       ],
-      "question": "le misure di Conservazione sono:",
+      "question": "A che cosa servono le misure di conservazione della rete Natura 2000?",
       "answers": [
         {
-          "text": "necessarie per evitare il degrado degli habitat naturali nonchè la perturbazione delle specie che hanno motivato l'individuazione dei siti di importanza comunitaria e delle zone di protezsione speciale",
+          "text": "A evitare il degrado degli habitat naturali e la perturbazione delle specie che hanno motivato la designazione dei siti di importanza comunitaria e delle zone di protezione speciale",
           "correct": true,
           "index": 0
         },
         {
-          "text": "necessarie per evitare il degrado delle areee istituite a parco naturale",
+          "text": "A evitare soltanto il degrado delle aree istituite a parco naturale",
           "correct": false,
           "index": 1
         },
         {
-          "text": "necessarie a conservare l'integrità del patrimonio forestale",
+          "text": "A conservare esclusivamente il patrimonio forestale",
           "correct": false,
           "index": 2
         }
@@ -942,7 +942,7 @@
           "page": 4
         }
       ],
-      "question": "In piemonte le aree montane coprono una superficie del",
+      "question": "Quale percentuale della superficie del Piemonte è montana secondo la domanda del corso?",
       "answers": [
         {
           "text": "32%",
@@ -1000,20 +1000,20 @@
           "page": 3
         }
       ],
-      "question": "scala della carta indicare la risposta esatta",
+      "question": "Quale affermazione sulle scale delle carte escursionistiche è corretta?",
       "answers": [
         {
-          "text": "le carte topografiche che noi utilizziamo per escursionismo hanno scala da 1:25.000 a 1:50.000",
+          "text": "Le carte topografiche usate per l'escursionismo hanno spesso scale da 1:25.000 a 1:50.000",
           "correct": true,
           "index": 0
         },
         {
-          "text": "le carte corografiche che noi utilizziamo per escursionismo hanno scala da 1:25.000 a 1:50.000",
+          "text": "Le carte corografiche usate per l'escursionismo hanno scale da 1:25.000 a 1:50.000",
           "correct": false,
           "index": 1
         },
         {
-          "text": "le piante o mappe che noi utilizziamo per escursionismo hanno scala da 1:25.000 a 1:50.000",
+          "text": "Le piante e le mappe usate per l'escursionismo hanno scale da 1:25.000 a 1:50.000",
           "correct": false,
           "index": 2
         }
@@ -1026,20 +1026,20 @@
       "category": "Pianificazione territoriale",
       "explanation": "La valutazione di incidenza è preventiva e riguarda possibili effetti significativi su habitat e specie dei siti Natura 2000, anche se l’intervento è esterno al sito. Non interviene soltanto dopo un danno.",
       "references": [],
-      "question": "in quali dei seguenti casi si attua la Valutazione di incidenza di interventi e progetti",
+      "question": "In quali casi si applica la valutazione di incidenza a interventi e progetti?",
       "answers": [
         {
-          "text": "per gli interventi ed i progetti suscettibili di determinare, direttamente o indirettamnete, incidenze significative sulle specie e sugli habitat della rete Natura 2000",
+          "text": "Per interventi e progetti che possono avere incidenze significative su specie e habitat della rete Natura 2000, anche indirettamente",
           "correct": true,
           "index": 0
         },
         {
-          "text": "Per gli interventi ed i progetti che possono provocare incidenti ambientali nel territorio dell'Unione Europea",
+          "text": "Per progetti che possono provocare incidenti ambientali in qualunque territorio dell'Unione europea",
           "correct": false,
           "index": 1
         },
         {
-          "text": "per gli interventi ed i progetti che hanno causato danni ambientali nella rete Natura 2000",
+          "text": "Soltanto per progetti che hanno già causato danni alla rete Natura 2000",
           "correct": false,
           "index": 2
         }
@@ -1090,7 +1090,7 @@
           "page": 5
         }
       ],
-      "question": "Nellintervento di primo soccorso nel rispetto delle priorità, agisco nel seguente modo:",
+      "question": "Qual è la sequenza di priorità nell’intervento di primo soccorso?",
       "answers": [
         {
           "text": "Valuto rapidamente, attivo i soccorsi, intervengo",
@@ -1116,7 +1116,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "Rupicapra rupicapra è il nome scientifico del camoscio; il genere Capra comprende, fra gli altri, lo stambecco.",
       "references": [],
-      "question": "Rupicapra Rupicapra è il nome scientifico di:",
+      "question": "Di quale animale Rupicapra rupicapra è il nome scientifico?",
       "answers": [
         {
           "text": "capra",
@@ -1142,7 +1142,7 @@
       "category": "Legislazione e organizzazione turistica",
       "explanation": "Una specializzazione aggiunge competenze alla figura professionale di base; non coincide con la creazione di una figura autonoma.",
       "references": [],
-      "question": "In base della L.R. 33/2001 per specializzazione si intende:",
+      "question": "Che cosa si intende per «specializzazione» secondo la L.R. 33/2001?",
       "answers": [
         {
           "text": "L'arricchimento delle competenze professionali della figura di base mediante conoscenze aggiuntive concernenti una determinata area, o attrattiva, o tecnica o tipologia di utente",
@@ -1150,7 +1150,7 @@
           "index": 0
         },
         {
-          "text": "L'articolazione della figura professionale di base in figure professionali che si caratterizzano in modo autonomo per tipo di attività, tecniche, attrezzature utilizzate e le conoscenza professionali",
+          "text": "La suddivisione della figura di base in figure autonome distinte per attività, tecniche, attrezzature e conoscenze professionali",
           "correct": false,
           "index": 1
         },
@@ -1174,20 +1174,20 @@
           "page": 3
         }
       ],
-      "question": "se misuro sul terreno in piano una distanza di 850 m riportandolo in una carta con scala 1:25.000 sarà pari a:",
+      "question": "A quanti centimetri su una carta 1:25.000 corrispondono 850 metri misurati sul terreno in piano?",
       "answers": [
         {
-          "text": "1.4 cm",
+          "text": "1,4 cm",
           "correct": false,
           "index": 0
         },
         {
-          "text": "1.7 cm",
+          "text": "1,7 cm",
           "correct": false,
           "index": 1
         },
         {
-          "text": "3.4 cm",
+          "text": "3,4 cm",
           "correct": true,
           "index": 2
         }
@@ -1238,7 +1238,7 @@
           "page": 42
         }
       ],
-      "question": "Un pacchetto turistico può essere venduto con fatturazione separata dei servizi:",
+      "question": "La fatturazione separata dei servizi elimina gli obblighi contrattuali di un pacchetto turistico?",
       "answers": [
         {
           "text": "No, mai",
@@ -1246,12 +1246,12 @@
           "index": 0
         },
         {
-          "text": "Si, ma non è più soggetto agli obblighi contrattuali del pacchetto turistico",
+          "text": "Sì, e il pacchetto non è più soggetto ai relativi obblighi contrattuali",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Si, ma non sottrae lorganizzatore o il venditore agli obblighi contrattuali del pacchetto turistico",
+          "text": "Sì, ma la fatturazione separata non sottrae organizzatore e venditore ai relativi obblighi contrattuali",
           "correct": true,
           "index": 2
         }
@@ -1264,7 +1264,7 @@
       "category": "Geografia del Piemonte",
       "explanation": "Nel quesito le otto aree provinciali piemontesi comprendono Torino. Oggi Torino è una città metropolitana: l’espressione “otto province” del DB è una semplificazione.",
       "references": [],
-      "question": "le provincie del piemonte sono:",
+      "question": "Quante sono le province del Piemonte?",
       "answers": [
         {
           "text": "6",
@@ -1290,7 +1290,7 @@
       "category": "Botanica",
       "explanation": "Liliacee, graminacee e ciperacee sono monocotiledoni. Nelle altre alternative compaiono famiglie che non appartengono a questo gruppo.",
       "references": [],
-      "question": "sono monocotiledoni",
+      "question": "Quale gruppo comprende solo piante monocotiledoni?",
       "answers": [
         {
           "text": "Asteracee, liliacee, orchidacee",
@@ -1348,7 +1348,7 @@
       "category": "Geologia e geomorfologia",
       "explanation": "Una morena è un accumulo di detriti trasportati e depositati dal ghiacciaio: è una forma deposizionale, non erosiva.",
       "references": [],
-      "question": "la morena è una forma glaciale:",
+      "question": "La morena è una forma glaciale di quale tipo?",
       "answers": [
         {
           "text": "di erosione",
@@ -1374,20 +1374,20 @@
       "category": "Pianificazione territoriale",
       "explanation": "La valutazione di incidenza è preventiva e riguarda possibili effetti significativi su habitat e specie dei siti Natura 2000, anche se l’intervento è esterno al sito. Non interviene soltanto dopo un danno.",
       "references": [],
-      "question": "Nella valutazione di incidenza di interventi e progetti fan parte:",
+      "question": "Quali interventi e progetti sono sottoposti alla valutazione di incidenza?",
       "answers": [
         {
-          "text": "Gli interventi ed i progetti suscettibili di determinare, direttamente o indirettamente, incidenze significative sulle specie e sugli habitat della rete Natura 2000 sono sottoposti preventivamente a procedura di valutazione di incidenza.",
+          "text": "Interventi e progetti che possono avere incidenze significative su specie e habitat della rete Natura 2000, anche indirettamente",
           "correct": true,
           "index": 0
         },
         {
-          "text": "Gli interventi ed i progetti che possono provocare incidenti ambientali nel territorio dellUnione Europea sono sottoposti a procedura di valutazione di incidenza.",
+          "text": "Interventi e progetti che possono provocare incidenti ambientali in qualunque territorio dell'Unione europea",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Gli interventi ed i progetti che hanno causato danni ambientali nella rete Natura 2000 vengono sottoposti a procedura di valutazione di incidenza.",
+          "text": "Soltanto gli interventi e i progetti che hanno già causato danni alla rete Natura 2000",
           "correct": false,
           "index": 2
         }
@@ -1400,7 +1400,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "I rettili sono vertebrati ectotermi; nella formulazione del DB sono chiamati eterotermi. La riproduzione può essere ovipara o, in alcune specie, ovovivipara.",
       "references": [],
-      "question": "sono animali vertebrati terrestri, eterotermi e di norma ovipari talora ovovivipari:",
+      "question": "Quali vertebrati terrestri sono eterotermi e di norma ovipari, talvolta ovovivipari?",
       "answers": [
         {
           "text": "Rettili",
@@ -1429,17 +1429,17 @@
       "question": "Quali sono i tre documenti principali scaturiti nel 1992 dalla Conferenza di Rio de Janeiro?",
       "answers": [
         {
-          "text": "Dichiarazione di principio: le città europee per un modello urbano sostenibile; La Campagna delle città europee sostenibili; L'impegno nel Processo d'attuazione dell'Agenda 21 a livello locale: piani dazione per un modello urbano sostenibile",
+          "text": "Dichiarazione sulle città europee sostenibili; campagna delle città sostenibili; piani d'azione urbani locali",
           "correct": false,
           "index": 0
         },
         {
-          "text": "Emission trading; Clean Development; Joint Implementation",
+          "text": "Emission Trading; Clean Development Mechanism; Joint Implementation",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Dichiarazione di Rio sull'ambiente e lo sviluppo; Dichiarazione autorevole di principi sulle foreste; L'Agenda 21",
+          "text": "Dichiarazione di Rio sull'ambiente e lo sviluppo; Principi sulle foreste; Agenda 21",
           "correct": true,
           "index": 2
         }
@@ -1458,7 +1458,7 @@
           "page": 32
         }
       ],
-      "question": "Cosè il Codice del Turismo?",
+      "question": "Con quale atto normativo è stato approvato il Codice del turismo?",
       "answers": [
         {
           "text": "Legge n.129 del 2011.",
@@ -1484,10 +1484,10 @@
       "category": "Primo soccorso",
       "explanation": "La catena della sopravvivenza richiede una sequenza coordinata di riconoscimento, allarme, rianimazione, defibrillazione e assistenza. Un anello mancante compromette l’efficacia degli altri; “stesso modo” nel DB non significa effetti identici.",
       "references": [],
-      "question": "Nella Catena delle Sopravvivenza",
+      "question": "Nella catena della sopravvivenza, quale ruolo hanno i diversi anelli?",
       "answers": [
         {
-          "text": "Laccompagnatore naturalistico non interviene in nessun anello",
+          "text": "L'accompagnatore naturalistico non interviene in nessun anello",
           "correct": false,
           "index": 0
         },
@@ -1497,7 +1497,7 @@
           "index": 1
         },
         {
-          "text": "Tutti gli anelli contribuiscono nello stesso modo al risultato finale",
+          "text": "Tutti gli anelli contribuiscono al risultato finale",
           "correct": true,
           "index": 2
         }
@@ -1574,7 +1574,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "Gli anuri sono anfibi adulti senza coda, come rane e rospi. Gli urodeli, come le salamandre, conservano la coda.",
       "references": [],
-      "question": "che cosa è un \"anuro\"?",
+      "question": "Che cos’è un anuro?",
       "answers": [
         {
           "text": "un bovide senza corna",
@@ -1606,10 +1606,10 @@
           "page": 4
         }
       ],
-      "question": "comunicazione li ritmo della voce fa parte della:",
+      "question": "A quale forma di comunicazione appartiene il ritmo della voce?",
       "answers": [
         {
-          "text": "Comunicazione non verbale e vocale",
+          "text": "Comunicazione paraverbale (aspetti vocali della voce)",
           "correct": true,
           "index": 0
         },
@@ -1664,7 +1664,7 @@
       "category": "Legislazione e organizzazione turistica",
       "explanation": "La classificazione alberghiera è espressa con stelle, che indicano una categoria di servizi e requisiti. Non è semplicemente il conteggio dei letti.",
       "references": [],
-      "question": "La classificazione delle aziende alberghiere è indicata nell'insegna con un contrassegno raffigurante da 1 a 5:",
+      "question": "Con quale simbolo, da uno a cinque, è indicata la classificazione delle aziende alberghiere?",
       "answers": [
         {
           "text": "Stelle",
@@ -1693,17 +1693,17 @@
       "question": "Che cosa si intende per turismo?",
       "answers": [
         {
-          "text": "pratica del visitare per lunghi periodi di tempo superiori all'anno, località diverse da quella in cui si vive",
+          "text": "La permanenza per periodi superiori a un anno in località diverse da quella di residenza",
           "correct": false,
           "index": 0
         },
         {
-          "text": "l'insieme di attività e di servizi a carattere polivalente che si riferiscono al trasferimento temporaneo di persona dalla località di abituale residenza ad altra località per fini di svago, riposo, cultura, curiosità, cura e sport",
+          "text": "Le attività e i servizi legati agli spostamenti temporanei fuori dalla località di residenza per svago, riposo, cultura, cura o sport",
           "correct": true,
           "index": 1
         },
         {
-          "text": "esclusivamente l'insieme delle strutture ricettive ad esso connesso e degli operatori di settore",
+          "text": "Esclusivamente le strutture ricettive e gli operatori del settore",
           "correct": false,
           "index": 2
         }
@@ -1716,20 +1716,20 @@
       "category": "Ecologia",
       "explanation": "I servizi ecosistemici sono i benefici che le persone ricavano dagli ecosistemi, come regolazione dell’acqua, impollinazione e risorse alimentari.",
       "references": [],
-      "question": "cosa sono i servizi ecosistemici?",
+      "question": "Che cosa sono i servizi ecosistemici?",
       "answers": [
         {
-          "text": "sono processi e sistemi naturali in grado di fornire beni e servizi a favore dell'uomo",
+          "text": "Processi e sistemi naturali che forniscono beni e servizi alle persone",
           "correct": true,
           "index": 0
         },
         {
-          "text": "sono i servizi che svolgono le aziende che operano in campo ecologico",
+          "text": "I servizi offerti dalle aziende che operano in campo ecologico",
           "correct": false,
           "index": 1
         },
         {
-          "text": "sono i serviziche vengono forniti dalle attività umane per la tutela della biodiversità",
+          "text": "I servizi forniti dalle attività umane per la tutela della biodiversità",
           "correct": false,
           "index": 2
         }
@@ -1774,7 +1774,7 @@
           "page": 33
         }
       ],
-      "question": "In meteorologia una zona di transizione tra due masse di aria con densità differenti prende il nome di:",
+      "question": "Come si chiama, in meteorologia, la zona di transizione fra due masse d’aria diverse?",
       "answers": [
         {
           "text": "fronte.",
@@ -1808,7 +1808,7 @@
           "index": 0
         },
         {
-          "text": "Si",
+          "text": "Sì",
           "correct": true,
           "index": 1
         },
@@ -1832,7 +1832,7 @@
           "page": 9
         }
       ],
-      "question": "Per il fatto di essere un professionista, perché abilitato, secondo la deontologia, l'accompagnatore",
+      "question": "Secondo la deontologia, con quale diligenza deve operare un accompagnatore naturalistico abilitato?",
       "answers": [
         {
           "text": "Svolge la sua attività con diligenza esclusivamente dietro compenso",
@@ -1858,7 +1858,7 @@
       "category": "Botanica",
       "explanation": "Il tasso è associato nella tradizione alla morte, anche per la tossicità di molte sue parti. Non confonderlo con il mammifero omonimo.",
       "references": [],
-      "question": "nella tradizione popolare è chiamato albero della morte",
+      "question": "Quale albero è chiamato «albero della morte» nella tradizione popolare?",
       "answers": [
         {
           "text": "Pino silvestre",
@@ -1892,7 +1892,7 @@
           "index": 0
         },
         {
-          "text": "Fronte liscia, sopracciglia ferme, bocca asimmetrica aperta verso un lato e chiusa dallaltro",
+          "text": "Fronte liscia, sopracciglia ferme, bocca asimmetrica aperta verso un lato e chiusa dall'altro",
           "correct": true,
           "index": 1
         },
@@ -1936,7 +1936,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "Il camoscio è erbivoro e assume piante erbacee, foglie e germogli; la dieta cambia con stagione e disponibilità.",
       "references": [],
-      "question": "L'alimentazione del camoscio è prevalentemente",
+      "question": "Di che cosa si nutre prevalentemente il camoscio?",
       "answers": [
         {
           "text": "Aghi di pino e licheni",
@@ -1962,20 +1962,20 @@
       "category": "Geografia del Piemonte",
       "explanation": "Il quesito associa tre settori alpini alle rispettive cime: Marguareis per le Liguri, Argentera per le Marittime, Monviso per le Cozie.",
       "references": [],
-      "question": "Indica quali sono le cime più elevate nelle Alpi Liguri, Marittime e Cozie?",
+      "question": "Quali sono le cime più alte delle Alpi Liguri, Marittime e Cozie?",
       "answers": [
         {
-          "text": "Cima Marguareis, Cima sud dell'Argentera, Monte Monviso.",
+          "text": "Cima Marguareis, Cima Sud dell'Argentera e Monviso",
           "correct": true,
           "index": 0
         },
         {
-          "text": "Monte Mongioie, Monte Argentera, Rocciamelone.",
+          "text": "Monte Mongioie, Argentera e Rocciamelone",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Monte gelas, Corno Stella, Monte Monviso.",
+          "text": "Monte Gelàs, Corno Stella e Monviso",
           "correct": false,
           "index": 2
         }
@@ -1988,20 +1988,20 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "“Di passo” indica un uccello osservato durante la migrazione, distinto da un individuo stabilmente residente.",
       "references": [],
-      "question": "cosa si intende con \"uccello di passo?",
+      "question": "Che cosa si intende per «uccello di passo»?",
       "answers": [
         {
-          "text": "un uccello che usa prevalentemente gli arti inferiori",
+          "text": "Un uccello che usa prevalentemente gli arti inferiori",
           "correct": false,
           "index": 0
         },
         {
-          "text": "un uccello migratore",
+          "text": "Un uccello migratore",
           "correct": true,
           "index": 1
         },
         {
-          "text": "un uccello che vive sui valichi alpini",
+          "text": "Un uccello che vive sui valichi alpini",
           "correct": false,
           "index": 2
         }
@@ -2040,7 +2040,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "Lo stambecco è erbivoro e sfrutta soprattutto essenze erbacee; la composizione della dieta varia stagionalmente.",
       "references": [],
-      "question": "Lo stambecco si ciba prevalentemente di",
+      "question": "Di che cosa si nutre prevalentemente lo stambecco?",
       "answers": [
         {
           "text": "Essenze erbacee diverse.",
@@ -2066,7 +2066,7 @@
       "category": "Primo soccorso",
       "explanation": "Quando la persona è cosciente e in grado di decidere, si spiegano le manovre e si ricerca il consenso. Emergenza e incapacità di esprimerlo richiedono una valutazione diversa.",
       "references": [],
-      "question": "sicurezza e primo soccorso: Che cosa richiede il principio del consenso informato all'assistenza anche in caso di primo soccorso",
+      "question": "In primo soccorso, che cosa richiede il consenso informato all’assistenza?",
       "answers": [
         {
           "text": "il paziente deve informare il soccorritore della sua patologia e dare il suo consenso alla terapia",
@@ -2092,20 +2092,20 @@
       "category": "Botanica",
       "explanation": "Faggio, castagno e querce appartengono alle Fagaceae. I nomi scientifici consentono di riconoscere la famiglia.",
       "references": [],
-      "question": "appartengono alla famiglia delle fagacee",
+      "question": "Quale gruppo di specie appartiene alla famiglia delle Fagaceae?",
       "answers": [
         {
-          "text": "Fagus silvatica, Castanea sativa, Quercus ilex",
+          "text": "Fagus sylvatica, Castanea sativa, Quercus ilex",
           "correct": true,
           "index": 0
         },
         {
-          "text": "Fagus silvatica, Quescus robur, Ilex aquifolium",
+          "text": "Fagus sylvatica, Quercus robur, Ilex aquifolium",
           "correct": false,
           "index": 1
         },
         {
-          "text": "quercus petrae, castanea sativa, ulmus glabra",
+          "text": "Quercus petraea, Castanea sativa, Ulmus glabra",
           "correct": false,
           "index": 2
         }
@@ -2118,7 +2118,7 @@
       "category": "Primo soccorso",
       "explanation": "L’ustione di secondo grado coinvolge epidermide e derma; non si limita allo strato più superficiale della cute.",
       "references": [],
-      "question": "L'ustione di secondo grado interessa",
+      "question": "Quali strati della pelle interessa un’ustione di secondo grado?",
       "answers": [
         {
           "text": "la cute",
@@ -2170,7 +2170,7 @@
       "category": "Primo soccorso",
       "explanation": "Nell’epistassi la testa inclinata in avanti limita la deglutizione di sangue; inclinarla indietro può nascondere il sanguinamento.",
       "references": [],
-      "question": "sicurezza e primo soccorso: In caso di epistassi la posizione più corretta per l'infortunato",
+      "question": "In caso di epistassi, qual è la posizione corretta per l’infortunato?",
       "answers": [
         {
           "text": "In piedi o seduto con il capo all'indietro",
@@ -2196,7 +2196,7 @@
       "category": "Meteorologia, climatologia e nivologia",
       "explanation": "Temperatura, umidità e pressione sono variabili meteorologiche fondamentali. Il tempo si descrive anche con vento, nubi e precipitazioni.",
       "references": [],
-      "question": "Per misurare il tempo meteorologico quali sono le variabili?",
+      "question": "Quale gruppo comprende variabili meteorologiche?",
       "answers": [
         {
           "text": "temperatura, pressione e densità.",
@@ -2222,20 +2222,20 @@
       "category": "Organizzazione escursioni e gestione comitive",
       "explanation": "Un passo regolare e adeguato al terreno aiuta a ridurre fatica e perdita di equilibrio; velocità elevata non significa maggiore sicurezza.",
       "references": [],
-      "question": "camminare nel modo corretto in escursionismo serve a",
+      "question": "Perché è utile camminare correttamente durante un’escursione?",
       "answers": [
         {
-          "text": "affaticarsi di meno e avere maggiore sicurezza",
+          "text": "Per affaticarsi meno e muoversi con maggiore sicurezza",
           "correct": true,
           "index": 0
         },
         {
-          "text": "essere più \"impostati\" nelle foto",
+          "text": "Per apparire più impostati nelle fotografie",
           "correct": false,
           "index": 1
         },
         {
-          "text": "non esiste un modo corretto di camminare e questione soggettiva",
+          "text": "Non esiste un modo corretto di camminare: è una questione soggettiva",
           "correct": false,
           "index": 2
         }
@@ -2289,7 +2289,7 @@
       "question": "Tipiche nubi basse sono:",
       "answers": [
         {
-          "text": "cirri, cirrostrati, cirro cumuli",
+          "text": "cirri, cirrostrati, cirrocumuli",
           "correct": false,
           "index": 0
         },
@@ -2344,20 +2344,20 @@
       "category": "Organizzazione escursioni e gestione comitive",
       "explanation": "La distribuzione degli adulti nel gruppo evita che tutta la sorveglianza sia concentrata in testa e aiuta a controllare fila e soste.",
       "references": [],
-      "question": "l'accompagnatore naturalistico durante lo svolgimento della sua funzione",
+      "question": "Come deve organizzare il gruppo l’accompagnatore naturalistico durante un’uscita scolastica?",
       "answers": [
         {
-          "text": "deve curare il corretto accompagnamento ma non attuare vigilanza sull'aspetto tecnico poichè questo è di competenza dell'insegnante o del capogruppo",
+          "text": "Curare il percorso, lasciando però tutta la vigilanza all'insegnante o al capogruppo",
           "correct": false,
           "index": 0
         },
         {
-          "text": "deve disporre il gruppo lasciando all'insegnante o capogruppo il compito di intervenire con tempestività e comunicare i pericoli",
+          "text": "Disporre il gruppo e lasciare soltanto all'insegnante o al capogruppo l'intervento sui pericoli",
           "correct": false,
           "index": 1
         },
         {
-          "text": "deve disporre altre insegnanti o capigruppo all'interno ed alla fine della fila e intorno ai ragazzi nei momenti di sosta per le spiegaizoni",
+          "text": "Disporre insegnanti o capigruppo in diversi punti della fila e vicino ai ragazzi durante le soste",
           "correct": true,
           "index": 2
         }
@@ -2376,20 +2376,20 @@
           "page": 7
         }
       ],
-      "question": "In un accompagnamento cosa si intende per colpa generica?",
+      "question": "Che cosa si intende per colpa generica nell’accompagnamento?",
       "answers": [
         {
-          "text": "Quando l'evento, anche se previstom non è voluto dal soggetto e si verifica a causa di imperizia, imprudenza o negligenza.",
+          "text": "Quando l'evento, pur prevedibile, non è voluto e si verifica per negligenza, imprudenza o imperizia",
           "correct": true,
           "index": 0
         },
         {
-          "text": "Quando un soggetto nel corso delle sue attività viola leggi, regolamenti, usi, discipline.",
+          "text": "Quando un soggetto viola leggi, regolamenti o discipline nello svolgimento della propria attività",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Quando la conseguenza dannosa è stata intenzionalmente voluta.",
+          "text": "Quando la conseguenza dannosa è voluta intenzionalmente",
           "correct": false,
           "index": 2
         }
@@ -2408,7 +2408,7 @@
           "page": 7
         }
       ],
-      "question": "Quale di queste inadempienze si deve ad imprudenza?",
+      "question": "Quale di questi comportamenti è un esempio di imprudenza?",
       "answers": [
         {
           "text": "Sostare sotto un albero durante un temporale.",
@@ -2442,7 +2442,7 @@
           "index": 0
         },
         {
-          "text": "La comunicazione che si trasmette al Comune congiuntamente all'apertura di un'attività commerciale, come ad esempio un albergo",
+          "text": "La segnalazione presentata all'ente competente per iniziare un'attività, quando la legge la prevede",
           "correct": true,
           "index": 1
         },
@@ -2460,7 +2460,7 @@
       "category": "Botanica",
       "explanation": "La parete cellulare è una caratteristica delle cellule vegetali; è distinta dalla membrana plasmatica. Esiste anche in altri gruppi, come i funghi.",
       "references": [],
-      "question": "Indicare laffermazione esatta",
+      "question": "Quale affermazione sulla parete cellulare è corretta?",
       "answers": [
         {
           "text": "La parete cellulare è caratteristica del regno animale",
@@ -2492,20 +2492,20 @@
           "page": 11
         }
       ],
-      "question": "le isoipse o curve di livello sono:",
+      "question": "Che cosa sono le isoipse o curve di livello?",
       "answers": [
         {
-          "text": "tinte convenzionali a cui sono fatti corrispondere precisi piani altitudinali",
+          "text": "Tinte convenzionali associate a fasce altitudinali",
           "correct": false,
           "index": 0
         },
         {
-          "text": "linee più spesse a cui non sono fatte corrispondere creste e montagne",
+          "text": "Linee più spesse prive di una quota definita",
           "correct": false,
           "index": 1
         },
         {
-          "text": "linee chiuse equidistanti che uniscono tutti i punti con uguale quota",
+          "text": "Linee che uniscono punti con la stessa quota",
           "correct": true,
           "index": 2
         }
@@ -2524,7 +2524,7 @@
           "page": 7
         }
       ],
-      "question": "In caso di quale inadempienze si deve ad imperizia?",
+      "question": "Quale comportamento può essere attribuito a imperizia?",
       "answers": [
         {
           "text": "Non conoscere le tecniche minime di primo soccorso.",
@@ -2532,7 +2532,7 @@
           "index": 0
         },
         {
-          "text": "Iniziare lescursione senza controllare l'attrezzatura.",
+          "text": "Iniziare l'escursione senza controllare l'attrezzatura",
           "correct": false,
           "index": 1
         },
@@ -2550,7 +2550,7 @@
       "category": "Legislazione e organizzazione turistica",
       "explanation": "La risposta è riferita al quadro della L.R. 33/2001 richiamato nel quesito originale, con abilitazione, elenchi e funzioni provinciali. I riferimenti amministrativi vanno letti nel contesto della normativa e degli aggiornamenti del corso.",
       "references": [],
-      "question": "In base alla L.R. 33/2001 la Provincia deve provvedere:",
+      "question": "Quali compiti erano attribuiti alla Provincia dalla L.R. 33/2001 citata nel corso?",
       "answers": [
         {
           "text": "A riconoscere i corsi di formazione, a nominare le Commissioni d'esame, a tenere gli elenchi professionali, ad inviare periodicamente gli elenchi alle ATL locali",
@@ -2584,7 +2584,7 @@
           "index": 0
         },
         {
-          "text": "Pianificazione di area vasta o sovra comunale, pianificazione locale o comunale pianificazione sub comunale e settoriale.",
+          "text": "Pianificazione di area vasta o sovracomunale, pianificazione locale o comunale e pianificazione subcomunale e settoriale",
           "correct": true,
           "index": 1
         },
@@ -2654,20 +2654,20 @@
       "category": "Ecologia",
       "explanation": "La biocenosi è la comunità di organismi viventi di un ambiente; il biotopo riguarda le sue condizioni fisiche.",
       "references": [],
-      "question": "cosa è una biocenosi?",
+      "question": "Che cos’è una biocenosi?",
       "answers": [
         {
-          "text": "una comunità che comprende tutte le popolazioni e gli organismi che abitano ed interagiscono tra loro in uno stesso ambiente",
+          "text": "L’insieme delle popolazioni di specie diverse che vivono e interagiscono in uno stesso ambiente",
           "correct": true,
           "index": 0
         },
         {
-          "text": "una comunità che comprende tutte le popolazioni e gli organismi che abitano ed interagiscono tra loro in diversi ambienti",
+          "text": "Popolazioni che vivono e interagiscono in ambienti diversi",
           "correct": false,
           "index": 1
         },
         {
-          "text": "una comunità che comprende gli organismi vegetali che abitano in uno stesso ambiente.",
+          "text": "I soli organismi vegetali che vivono nello stesso ambiente",
           "correct": false,
           "index": 2
         }
@@ -2683,7 +2683,7 @@
       "question": "È possibile mentire con il linguaggio verbale?",
       "answers": [
         {
-          "text": "Si",
+          "text": "Sì",
           "correct": true,
           "index": 0
         },
@@ -2712,7 +2712,7 @@
           "page": 7
         }
       ],
-      "question": "una GAE può accompagnare",
+      "question": "In quale di questi ambienti può accompagnare una GEA?",
       "answers": [
         {
           "text": "su una spiaggia",
@@ -2738,20 +2738,20 @@
       "category": "Legislazione e organizzazione turistica",
       "explanation": "L’imposta è legata al pernottamento in un Comune che l’ha istituita. Il DB semplifica: regolamenti ed esenzioni locali possono escludere alcune persone.",
       "references": [],
-      "question": "È soggetto al pagamento dell'imposta di soggiorno",
+      "question": "Chi è soggetto al pagamento dell’imposta di soggiorno?",
       "answers": [
         {
-          "text": "Chiunque pernotti in una struttura ricettiva in un Comune in cui è stata istituita",
+          "text": "Chi pernotta in una struttura ricettiva di un comune in cui è stata istituita l'imposta",
           "correct": true,
           "index": 0
         },
         {
-          "text": "Soltanto chi pernotta in un albergo di 5 stelle l'imposta",
+          "text": "Soltanto chi pernotta in un albergo a cinque stelle",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Chi pernotta almeno 10 notti in una struttura ricettiva del Piemonte",
+          "text": "Soltanto chi pernotta almeno dieci notti in Piemonte",
           "correct": false,
           "index": 2
         }
@@ -2764,7 +2764,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "La volpe ha una dieta opportunista: piccoli animali, insetti, frutti e risorse alimentari disponibili. “Esclusivamente mammiferi e uccelli” è troppo restrittivo.",
       "references": [],
-      "question": "La volpe si nutre prevalentemente di",
+      "question": "Di che cosa si nutre la volpe?",
       "answers": [
         {
           "text": "Frutta e rifiuti organici",
@@ -2793,17 +2793,17 @@
       "question": "Un ambiente mesofilo è caratterizzato da:",
       "answers": [
         {
-          "text": "condizioni che indicano in passaggio da un tipo di ambiente ad un altro",
+          "text": "Condizioni che indicano un passaggio da un ambiente a un altro",
           "correct": false,
           "index": 0
         },
         {
-          "text": "condizioni di umidità e temperature medie",
+          "text": "Condizioni intermedie di umidità",
           "correct": true,
           "index": 1
         },
         {
-          "text": "condizioni climatiche proprie dell'Equatore",
+          "text": "Condizioni climatiche tipiche dell'Equatore",
           "correct": false,
           "index": 2
         }
@@ -2816,20 +2816,20 @@
       "category": "Educazione ambientale",
       "explanation": "Il rapporto Brundtland del 1987 è il riferimento del quesito per la definizione dello sviluppo sostenibile; Stoccolma e Rio sono tappe diverse.",
       "references": [],
-      "question": "quando nasce il concetto di sviluppo sostenibile?",
+      "question": "In quale anno viene formulata la definizione di sviluppo sostenibile richiamata dal corso?",
       "answers": [
         {
-          "text": "1987 con il rapporto brunland",
+          "text": "Nel 1987, con il Rapporto Brundtland",
           "correct": true,
           "index": 0
         },
         {
-          "text": "nel 1992 durante la conferenza di Rio",
+          "text": "Nel 1992, durante la Conferenza di Rio",
           "correct": false,
           "index": 1
         },
         {
-          "text": "nel 1991 con la convenzione delle Alpi",
+          "text": "Nel 1991, con la Convenzione delle Alpi",
           "correct": false,
           "index": 2
         }
@@ -2903,17 +2903,17 @@
       "question": "Quando e perché si pone un infortunato in posizione laterale di sicurezza?",
       "answers": [
         {
-          "text": "Quando stante il luogo dove si trova può essere investito da veicoli in transito.",
+          "text": "Quando il luogo espone la persona al rischio di investimento da veicoli",
           "correct": false,
           "index": 0
         },
         {
-          "text": "Quando si teme possa cadere da posizione sopraelevata o ruzzolare su un declivio.",
+          "text": "Quando si teme che la persona possa cadere da una posizione sopraelevata",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Quando è incosciente, non si sospettano fratture alla colonna vertebrale e si vuole mantenere libere le vie aree.",
+          "text": "Quando è incosciente, respira e non si sospettano lesioni alla colonna: per mantenere libere le vie aeree",
           "correct": true,
           "index": 2
         }
@@ -2935,17 +2935,17 @@
       "question": "Le aree classificate ZSC Zone Speciali di Conservazione sono istituite per:",
       "answers": [
         {
-          "text": "per tutelare paesaggi di speciale bellezza.",
+          "text": "Per tutelare soltanto paesaggi di particolare bellezza",
           "correct": false,
           "index": 0
         },
         {
-          "text": "Per proteggere habitat e specie individuati in appositi elenchi della Direttiva Habitat.",
+          "text": "Per proteggere habitat e specie elencati nella direttiva Habitat",
           "correct": true,
           "index": 1
         },
         {
-          "text": "per la conservazione e gestione dell'ambiente naturale.",
+          "text": "Per la generica conservazione dell'ambiente naturale",
           "correct": false,
           "index": 2
         }
@@ -2990,20 +2990,20 @@
           "page": 16
         }
       ],
-      "question": "Il frutto",
+      "question": "Quale gruppo di piante produce frutti?",
       "answers": [
         {
-          "text": "è caratteristico delle gimnosperme",
+          "text": "Le gimnosperme",
           "correct": false,
           "index": 0
         },
         {
-          "text": "è caratteristico delle angiosperme",
+          "text": "Le angiosperme",
           "correct": true,
           "index": 1
         },
         {
-          "text": "è presente sia in gimnosperme che angiosperme",
+          "text": "Tutte le gimnosperme e tutte le angiosperme",
           "correct": false,
           "index": 2
         }
@@ -3054,7 +3054,7 @@
           "page": 7
         }
       ],
-      "question": "Responsabilità civile Una G.A.E. può accompagnare:",
+      "question": "Quali partecipanti può accompagnare una GEA?",
       "answers": [
         {
           "text": "solo gruppi di persone",
@@ -3086,20 +3086,20 @@
           "page": 9
         }
       ],
-      "question": "La presenza di quali di questi elementi concorre a definire laccompagnatore naturalistico?",
+      "question": "Quale terna di qualità professionali è richiamata per l’accompagnatore naturalistico?",
       "answers": [
         {
-          "text": "Prudenza, Perizia, Diligenza",
+          "text": "Prudenza, perizia e diligenza",
           "correct": true,
           "index": 0
         },
         {
-          "text": "Senso di responsabilità, Assistenza e Stipendio",
+          "text": "Responsabilità, assistenza e stipendio",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Affidamento, Protezione e Cordialità",
+          "text": "Affidamento, protezione e cordialità",
           "correct": false,
           "index": 2
         }
@@ -3164,20 +3164,20 @@
       "category": "Pianificazione territoriale",
       "explanation": "La zonizzazione suddivide un territorio in aree con caratteristiche o funzioni omogenee, alle quali possono corrispondere regole differenti.",
       "references": [],
-      "question": "in cosa consiste la zonizzazione",
+      "question": "In che cosa consiste la zonizzazione?",
       "answers": [
         {
-          "text": "consiste nel suddividere il territorio in aree omogenee secondo determinate caratteristiche",
+          "text": "Suddividere il territorio in aree omogenee secondo determinate caratteristiche",
           "correct": true,
           "index": 0
         },
         {
-          "text": "consiste nel creare delle zone a maggior tutela",
+          "text": "Creare soltanto zone a maggiore tutela",
           "correct": false,
           "index": 1
         },
         {
-          "text": "consiste in un'azione urbanistica per creare ampiee aree destinate al verde pubblico",
+          "text": "Creare esclusivamente grandi aree verdi pubbliche",
           "correct": false,
           "index": 2
         }
@@ -3196,20 +3196,20 @@
           "page": 7
         }
       ],
-      "question": "Nelle ricevute per prestazione occasionale sì calcola:",
+      "question": "Quale ritenuta d’acconto indica il quesito per la prestazione occasionale?",
       "answers": [
         {
-          "text": "il 2 %IV",
+          "text": "Il 2% di IV",
           "correct": false,
           "index": 0
         },
         {
-          "text": "il 20 % di ritenuta d'acconto",
+          "text": "Il 20% di ritenuta d'acconto",
           "correct": true,
           "index": 1
         },
         {
-          "text": "il 4 % dì INPS",
+          "text": "Il 4% di INPS",
           "correct": false,
           "index": 2
         }
@@ -3222,7 +3222,7 @@
       "category": "Sicurezza",
       "explanation": "Il D.Lgs. 81/2008 è il principale testo di riferimento sulla tutela della salute e della sicurezza nei luoghi di lavoro.",
       "references": [],
-      "question": "la salute e la sicurezza sul lavoro in italia è normata da:",
+      "question": "Qual è il principale testo di riferimento italiano sulla salute e sicurezza sul lavoro?",
       "answers": [
         {
           "text": "Datore di lavoro",
@@ -3248,7 +3248,7 @@
       "category": "Botanica",
       "explanation": "La nocciolaia trasporta e nasconde i semi del pino cembro; quelli non recuperati possono germinare e favorire la disseminazione.",
       "references": [],
-      "question": "quale di questi pini per la disseminazione si affida alla nocciolaia (corvide)?",
+      "question": "Quale pino si affida alla nocciolaia per la dispersione dei semi?",
       "answers": [
         {
           "text": "Pino silvestre",
@@ -3274,7 +3274,7 @@
       "category": "Primo soccorso",
       "explanation": "Nella lussazione un capo articolare perde i normali rapporti con l’altro. La frattura riguarda invece la continuità dell’osso.",
       "references": [],
-      "question": "La lussazione",
+      "question": "Che cos’è una lussazione?",
       "answers": [
         {
           "text": "È la frattura della spalla",
@@ -3338,7 +3338,7 @@
           "page": 50
         }
       ],
-      "question": "legislazione e organizzazione turistica L'ufficio lAT deve:",
+      "question": "Qual è il compito di un ufficio IAT?",
       "answers": [
         {
           "text": "Organizzare eventi",
@@ -3346,7 +3346,7 @@
           "index": 0
         },
         {
-          "text": "informare i turisti",
+          "text": "Informare i turisti",
           "correct": true,
           "index": 1
         },
@@ -3396,7 +3396,7 @@
       "category": "Ecologia",
       "explanation": "Un bioma è una grande unità ecologica caratterizzata da clima, vegetazione e fauna prevalenti; non coincide con un singolo habitat locale.",
       "references": [],
-      "question": "il bioma è:",
+      "question": "Che cos’è un bioma?",
       "answers": [
         {
           "text": "una regione naturale",
@@ -3448,20 +3448,20 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "Il camoscio è erbivoro e assume piante erbacee, foglie e germogli; la dieta cambia con stagione e disponibilità.",
       "references": [],
-      "question": "l'alimentazione del camoscio è prevalentemente",
+      "question": "Quali alimenti vegetali prevalgono nella dieta del camoscio?",
       "answers": [
         {
-          "text": "aghi di pino e licheni",
+          "text": "Aghi di pino e licheni",
           "correct": false,
           "index": 0
         },
         {
-          "text": "piante erbacee, inflorescenze, foglie e germogli",
+          "text": "Piante erbacee, infiorescenze, foglie e germogli",
           "correct": true,
           "index": 1
         },
         {
-          "text": "corteccia di essenze forestali diverse, faggiole e castagne",
+          "text": "Cortecce, faggiole e castagne",
           "correct": false,
           "index": 2
         }
@@ -3500,20 +3500,20 @@
       "category": "Geografia del Piemonte",
       "explanation": "Il quesito associa tre settori alpini alle rispettive cime: Marguareis per le Liguri, Argentera per le Marittime, Monviso per le Cozie.",
       "references": [],
-      "question": "Quali sono le cime più elevate nelle Alpi liguri , marittime e Cozie",
+      "question": "Quale terna associa una vetta alle Alpi Liguri, Marittime e Cozie, in quest’ordine?",
       "answers": [
         {
-          "text": "cima Marguareis, cima sud dell'Argentea, Monte Monviso",
+          "text": "Cima Marguareis, Cima Sud dell'Argentera e Monviso",
           "correct": true,
           "index": 0
         },
         {
-          "text": "monte Mongioie, monte Matto , Pelvo d' Elva",
+          "text": "Monte Mongioie, Monte Matto e Pelvo d'Elva",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Pizzo d'Ormea, monte Gelas, monte Mongioia",
+          "text": "Pizzo d'Ormea, Monte Gelàs e Monte Mongioia",
           "correct": false,
           "index": 2
         }
@@ -3532,7 +3532,7 @@
           "page": 24
         }
       ],
-      "question": "La I.r 32/1982 Individua le spiecie di flora a protezione assoluta:",
+      "question": "Che cosa prevede la L.R. 32/1982 per le specie di flora a protezione assoluta?",
       "answers": [
         {
           "text": "per queste specie la raccolta è limitata a 5 esemplari",
@@ -3558,20 +3558,20 @@
       "category": "Organizzazione escursioni e gestione comitive",
       "explanation": "La risposta richiama la marcia in fila singola sulle carreggiate extraurbane non illuminate nelle ore indicate, per limitare l’ingombro del gruppo.",
       "references": [],
-      "question": "Da mezzora dopo il tramonto del sole a mezzora prima dellalba, i pedoni che circolano sulla carreggiata di strade extraurbane prive di illuminazione, hanno lobbligo di:",
+      "question": "Come devono procedere i pedoni su una strada extraurbana non illuminata nelle ore indicate dal quesito?",
       "answers": [
         {
-          "text": "marciare su ununica fila",
+          "text": "Procedere in un'unica fila",
           "correct": true,
           "index": 0
         },
         {
-          "text": "marciare a coppie distanti 5 metri una dallaltro",
+          "text": "Procedere a coppie distanti cinque metri l'una dall'altra",
           "correct": false,
           "index": 1
         },
         {
-          "text": "marciare su ununica fila mantenendo la distanza di 5 metri uno dallaltro",
+          "text": "Procedere in un'unica fila mantenendo cinque metri tra i pedoni",
           "correct": false,
           "index": 2
         }
@@ -3587,17 +3587,17 @@
       "question": "Quando nasce il concetto di sviluppo sostenibile?",
       "answers": [
         {
-          "text": "nel 1987 - Rapporto Bruntland: our common future",
+          "text": "Nel 1987, con il Rapporto Brundtland: Our Common Future",
           "correct": true,
           "index": 0
         },
         {
-          "text": "nel 1992 - Conferenza di Rio: Ambiente e sviluppo",
+          "text": "Nel 1992, alla Conferenza di Rio su ambiente e sviluppo",
           "correct": false,
           "index": 1
         },
         {
-          "text": "nel 1990- ITALIA 90",
+          "text": "Nel 1990, con Italia 90",
           "correct": false,
           "index": 2
         }
@@ -3619,17 +3619,17 @@
       "question": "Che cosa sono le \"correnti a getto\"?",
       "answers": [
         {
-          "text": "flussi di area di sezione realtivamente grande, che fluiscono velocemente",
+          "text": "Flussi d'aria di sezione relativamente ampia che scorrono velocemente",
           "correct": false,
           "index": 0
         },
         {
-          "text": "flussi di area di sezione relativamente piccola, che fluiscono velocemente",
+          "text": "Flussi d'aria relativamente stretti che scorrono velocemente",
           "correct": true,
           "index": 1
         },
         {
-          "text": "flussi di area di sezione relativamente piccola, che fluiscono lentamente",
+          "text": "Flussi d'aria relativamente stretti che scorrono lentamente",
           "correct": false,
           "index": 2
         }
@@ -3642,7 +3642,7 @@
       "category": "Geografia del Piemonte",
       "explanation": "Fra le province proposte la risposta attesa è Cuneo. Il Tanaro prosegue anche nelle province di Asti e Alessandria: non scorre esclusivamente nel Cuneese.",
       "references": [],
-      "question": "il Tanaro scorre prevalentemente in provincia di:",
+      "question": "In quale provincia scorre prevalentemente il Tanaro?",
       "answers": [
         {
           "text": "Cuneo",
@@ -3668,20 +3668,20 @@
       "category": "Legislazione e organizzazione turistica",
       "explanation": "Il quesito chiede l’effetto dell’approvazione del Codice sul precedente riferimento normativo al turismo, non un trasferimento allo Stato di tutte le competenze regionali.",
       "references": [],
-      "question": "legislazione e organizzazione turistica: Con l'approvazione dei Codice del Turismo:",
+      "question": "Quale effetto ebbe l’approvazione del Codice del turismo sulla legge 135/2001, secondo il corso?",
       "answers": [
         {
-          "text": "E stata integrata la legge 29 marzo 2001 n. 135 \"Riforma della legislazione nazionale del turismo\"",
+          "text": "Fu integrata la legge 29 marzo 2001, n. 135, sulla legislazione nazionale del turismo",
           "correct": false,
           "index": 0
         },
         {
-          "text": "Estata abrogata la legge 29 marzo 2001 n. 135 \"Riforma della legislazione nazionale dei turismo`",
+          "text": "Fu abrogata la legge 29 marzo 2001, n. 135, sulla legislazione nazionale del turismo",
           "correct": true,
           "index": 1
         },
         {
-          "text": "Lo Stato ha avocato a sè le competenze nella materia turismo",
+          "text": "Lo Stato assunse tutte le competenze legislative in materia di turismo",
           "correct": false,
           "index": 2
         }
@@ -3694,20 +3694,20 @@
       "category": "Cartografia, topografia e orientamento",
       "explanation": "Un waypoint è un punto memorizzato con coordinate e attributi. È diverso dai punti registrati automaticamente per costruire una traccia; alcuni dispositivi possono anche importare waypoint.",
       "references": [],
-      "question": "il waypoint è:",
+      "question": "Che cos’è un waypoint?",
       "answers": [
         {
-          "text": "un punto messo automaticamente dal GPS in funzione della precisione del segnale di ricezione",
+          "text": "Un punto registrato automaticamente dal GPS in base alla precisione del segnale",
           "correct": false,
           "index": 0
         },
         {
-          "text": "un punto inserito dall'utilizzatore dello strumento e caratterizzato da nome, simbolo, quotae coordinate",
+          "text": "Un punto inserito dall'utilizzatore e identificato da nome, simbolo, quota e coordinate",
           "correct": true,
           "index": 1
         },
         {
-          "text": "non tutti i GPS escursionistici permettono di inserire il waypoint",
+          "text": "Una funzione non disponibile su tutti i GPS escursionistici",
           "correct": false,
           "index": 2
         }
@@ -3746,20 +3746,20 @@
       "category": "Aree protette",
       "explanation": "La risposta attesa è il gruppo dei primi parchi nazionali storici: Gran Paradiso, Abruzzo, Circeo e Stelvio. Il Parco della Calabria è successivo.",
       "references": [],
-      "question": "Quali sono i cosiddetti parchi storici in Italia?",
+      "question": "Quale gruppo comprende i cosiddetti parchi nazionali storici?",
       "answers": [
         {
-          "text": "P.N. Gran paradiso, P.N. dAbruzzo, P.N. Circeo, P.N. Stelvio",
+          "text": "Gran Paradiso, Abruzzo, Circeo e Stelvio",
           "correct": true,
           "index": 0
         },
         {
-          "text": "P.N. Gran paradiso, P.N. dAbruzzo, P.N. Circeo, P.N. Stelvio, P.N. della Calabria",
+          "text": "Gran Paradiso, Abruzzo, Circeo, Stelvio e Calabria",
           "correct": false,
           "index": 1
         },
         {
-          "text": "P.N. Gran paradiso, P.N. dAbruzzo, P.N. Circeo, P.N. della Calabria",
+          "text": "Gran Paradiso, Abruzzo, Circeo e Calabria",
           "correct": false,
           "index": 2
         }
@@ -3778,20 +3778,20 @@
           "page": 5
         }
       ],
-      "question": "sicurezza e primo soccorso: Il principio fondamentale dei primo soccorso è:",
+      "question": "Qual è il principio fondamentale del primo soccorso?",
       "answers": [
         {
-          "text": "Attuare tutte le manovre necessarie per evitare l'aggravamento dello/degli infortunato/i",
+          "text": "Evitare l'aggravamento delle condizioni della persona infortunata",
           "correct": true,
           "index": 0
         },
         {
-          "text": "Prestare le prime cure mediche allo/agli infortunato/i",
+          "text": "Prestare cure mediche alla persona infortunata",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Trasportare al più presto lo/gli infortunatoli nel pronto soccorso più vicino",
+          "text": "Trasportare subito la persona al pronto soccorso più vicino",
           "correct": false,
           "index": 2
         }
@@ -3830,7 +3830,7 @@
       "category": "Ecologia",
       "explanation": "Il lichene nasce da un’associazione simbiotica fra un fungo e un organismo fotosintetico; non è un frutto né una malattia delle piante.",
       "references": [],
-      "question": "Che cosa è un \"lichene\"?",
+      "question": "Che cos’è un lichene?",
       "answers": [
         {
           "text": "una parassitosi dei vegetali",
@@ -3856,20 +3856,20 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "Il camoscio usa ambienti ripidi con rocce e possibilità di rifugio, anche boscati: non è limitato alle sole praterie alpine.",
       "references": [],
-      "question": "qual è l'habitat tipico del camoscio?",
+      "question": "Qual è l’habitat tipico del camoscio?",
       "answers": [
         {
-          "text": "zone montane e pedemontate più o meno boscate ma ripide e con presenza di rocce e strapiombi",
+          "text": "Zone montane e pedemontane ripide, con rocce e strapiombi",
           "correct": true,
           "index": 0
         },
         {
-          "text": "ripide praterie alpine di media ed alta montagna",
+          "text": "Solo praterie alpine ripide di media e alta montagna",
           "correct": false,
           "index": 1
         },
         {
-          "text": "boschi di conifere poste a quote medio-alte",
+          "text": "Solo boschi di conifere a quote medio-alte",
           "correct": false,
           "index": 2
         }
@@ -3882,20 +3882,20 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "I monotremi, come ornitorinco ed echidne, depongono uova pur essendo mammiferi. Non tutti i mammiferi sono vivipari.",
       "references": [],
-      "question": "è vero che i mammiferi depongono le uova?",
+      "question": "Tutti i mammiferi partoriscono piccoli vivi?",
       "answers": [
         {
-          "text": "si ma solo alcune specie",
+          "text": "No: alcuni monotremi depongono uova",
           "correct": true,
           "index": 0
         },
         {
-          "text": "si ma solo in particolari condizioni climatiche",
+          "text": "Sì, ma solo in determinate condizioni climatiche",
           "correct": false,
           "index": 1
         },
         {
-          "text": "no non è vero",
+          "text": "Sì, tutti i mammiferi partoriscono piccoli vivi",
           "correct": false,
           "index": 2
         }
@@ -3914,7 +3914,7 @@
           "page": 3
         }
       ],
-      "question": "Se su una carta in scala 1:25.000 misuro 2.30 cm nella realtà corrisponde a una distanza planimetrica di :",
+      "question": "A quale distanza reale corrispondono 2,30 cm su una carta in scala 1:25.000?",
       "answers": [
         {
           "text": "350 m",
@@ -3969,17 +3969,17 @@
       "question": "Cos'è la classificazione delle aziende alberghiere?",
       "answers": [
         {
-          "text": "L'assegnazione di un numero di stelle da 1 a 5 corripondenti alla categoria",
+          "text": "L’assegnazione di un numero di stelle, da una a cinque, secondo la categoria",
           "correct": true,
           "index": 0
         },
         {
-          "text": "La suddivisione delle aziende ricettive del Piemonte in alberghiere ed extra alberghiere",
+          "text": "La distinzione delle strutture in alberghiere ed extralberghiere",
           "correct": false,
           "index": 1
         },
         {
-          "text": "La distinzione degli alberghi in base al numero di posti tetto",
+          "text": "La distinzione degli alberghi in base al numero di posti letto",
           "correct": false,
           "index": 2
         }
@@ -4027,17 +4027,17 @@
       "question": "Che cosa si intende con bene turistico?",
       "answers": [
         {
-          "text": "l'insieme di tutti quei beni (naturali, artistici, storici) idonei a soddisfare il bisogno turistico; è un bene composito che deve essere utilizzato nel luogo in cui si trova.",
+          "text": "Un insieme composito di beni naturali, artistici e storici da fruire nel luogo in cui si trovano",
           "correct": true,
           "index": 0
         },
         {
-          "text": "l'insieme di tutti quei beni(naturali, artistici, storici) idonei a soddisfare il bisogno turistico; è un bene di tipo semplice, che deve essere utilizzato nel luogo in cui si trova.",
+          "text": "Un singolo bene naturale, artistico o storico da fruire nel luogo in cui si trova",
           "correct": false,
           "index": 1
         },
         {
-          "text": "l'insieme di tutti quei beni (naturali, artistici, storici) idonei a soddisfare il bisogno turistico; è un bene composito che non deve essere utilizzato nel luogo in cui si trova.",
+          "text": "Un insieme composito di beni da fruire necessariamente lontano dal luogo in cui si trovano",
           "correct": false,
           "index": 2
         }
@@ -4050,20 +4050,20 @@
       "category": "Sicurezza",
       "explanation": "L’ARTVA consente la ricerca di persone travolte da valanga tramite ricetrasmissione. Non è un navigatore GPS né uno strumento per misurare la qualità dell’acqua.",
       "references": [],
-      "question": "Tecnica Professionale: ln quali situazioni sì usa l'A.R.T.V.A.",
+      "question": "In quali situazioni si usa l’ARTVA?",
       "answers": [
         {
-          "text": "per calcolare la posizione esatta durante un'escursione",
+          "text": "Per calcolare la propria posizione esatta durante un'escursione",
           "correct": false,
           "index": 0
         },
         {
-          "text": "per ritrovare un disperso in caso di valanga",
+          "text": "Per la ricerca di una persona sepolta da una valanga",
           "correct": true,
           "index": 1
         },
         {
-          "text": "per verificare la qualità dell'acqua mediante larve di insetti",
+          "text": "Per misurare la qualità dell'acqua mediante larve di insetti",
           "correct": false,
           "index": 2
         }
@@ -4076,20 +4076,20 @@
       "category": "Primo soccorso",
       "explanation": "L’ustione di secondo grado coinvolge epidermide e derma; non si limita allo strato più superficiale della cute.",
       "references": [],
-      "question": "Una ustione di II grado interessa",
+      "question": "In un’ustione di II grado, quali strati cutanei sono interessati?",
       "answers": [
         {
-          "text": "La cute",
+          "text": "La sola superficie della cute",
           "correct": false,
           "index": 0
         },
         {
-          "text": "Le terminazioni nevose",
+          "text": "Le terminazioni nervose soltanto",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Lepidermide e il derma",
+          "text": "L'epidermide e il derma",
           "correct": true,
           "index": 2
         }
@@ -4102,20 +4102,20 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "La borra è materiale non digerito rigurgitato da un uccello, spesso un rapace; può contenere peli e ossa.",
       "references": [],
-      "question": "Fauna che cosa è una \"borra\"?",
+      "question": "Che cos’è una borra?",
       "answers": [
         {
-          "text": "una profonda infossatura del terreno",
+          "text": "Una profonda depressione del terreno",
           "correct": false,
           "index": 0
         },
         {
-          "text": "Un rigurgito di un rapace",
+          "text": "Un rigurgito alimentare prodotto da alcuni uccelli",
           "correct": true,
           "index": 1
         },
         {
-          "text": "una risorgiva naturale",
+          "text": "Una risorgiva naturale",
           "correct": false,
           "index": 2
         }
@@ -4131,17 +4131,17 @@
       "question": "I cervidi sono:",
       "answers": [
         {
-          "text": "mammiferi perissodattili",
+          "text": "Mammiferi perissodattili",
           "correct": false,
           "index": 0
         },
         {
-          "text": "mammiferi esodattili",
+          "text": "Mammiferi esodattili",
           "correct": false,
           "index": 1
         },
         {
-          "text": "mammiferi artiodattili",
+          "text": "Mammiferi artiodattili",
           "correct": true,
           "index": 2
         }
@@ -4180,7 +4180,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "La spirotromba è l’apparato boccale succhiatore di molti lepidotteri, che può arrotolarsi quando non è usato.",
       "references": [],
-      "question": "che cosa è una spirotromba?",
+      "question": "Che cos’è una spirotromba?",
       "answers": [
         {
           "text": "organo succhiatore tipico dei lepidotteri",
@@ -4209,17 +4209,17 @@
       "question": "È vero che l'aquila reale (Aquila chrysaetos) riesce a vedere a 360 km di distanza?",
       "answers": [
         {
-          "text": "Si, ha una vista molto acuta",
+          "text": "Sì, ha una vista molto acuta",
           "correct": false,
           "index": 0
         },
         {
-          "text": "si, ma solo le femmine",
+          "text": "Sì, ma soltanto le femmine",
           "correct": false,
           "index": 1
         },
         {
-          "text": "no, non è vero",
+          "text": "No, non è vero",
           "correct": true,
           "index": 2
         }
@@ -4232,20 +4232,20 @@
       "category": "Organizzazione escursioni e gestione comitive",
       "explanation": "Prima di altre incombenze la guida controlla le condizioni del gruppo e favorisce ombra e reidratazione graduale.",
       "references": [],
-      "question": "dopo una salita a un rifugio con temperature particolaremente calde, appena arrivato cosa farò:",
+      "question": "Dopo una salita al rifugio con temperature particolarmente alte, qual è il primo controllo da fare?",
       "answers": [
         {
-          "text": "ordino birre gelate per tutti",
+          "text": "Ordinare birre gelate per tutti",
           "correct": false,
           "index": 0
         },
         {
-          "text": "verifico in modo più attento le condizioni dei clienti invitandoli a mettersi all'ombra e reidratarsi gradualmente",
+          "text": "Controllare le condizioni dei partecipanti, farli riposare all'ombra e invitarli a reidratarsi gradualmente",
           "correct": true,
           "index": 1
         },
         {
-          "text": "mi preoccupo di verificare le prenotazioni",
+          "text": "Controllare soltanto le prenotazioni",
           "correct": false,
           "index": 2
         }
@@ -4258,7 +4258,7 @@
       "category": "Geografia del Piemonte",
       "explanation": "Tanaro e Scrivia sono affluenti di destra del Po. Destra e sinistra orografica si osservano guardando verso valle, nel senso della corrente.",
       "references": [],
-      "question": "alla destra orografica del Fiume Po, ci sono 2 fiumi importanti, suoi affluenti:",
+      "question": "Quali sono due importanti affluenti di destra orografica del Po?",
       "answers": [
         {
           "text": "Sesia e Ticino",
@@ -4290,7 +4290,7 @@
           "page": 4
         }
       ],
-      "question": "con quale strumento si misura la pressione atmosferica?",
+      "question": "Con quale strumento si misura la pressione atmosferica?",
       "answers": [
         {
           "text": "barometro",
@@ -4316,20 +4316,20 @@
       "category": "Geologia e geomorfologia",
       "explanation": "Nel quesito “pulsazione glaciale” indica l’avanzamento o il ritiro della fronte, quindi una variazione della lunghezza, non un effetto dei terremoti.",
       "references": [],
-      "question": "Quale di queste affermazione è vera?",
+      "question": "Quale affermazione sulle pulsazioni glaciali è corretta?",
       "answers": [
         {
-          "text": "La pulsazione glaciale si verifica nei ghiacciai in corrispondenza dei terremoti",
+          "text": "Si verifica in corrispondenza dei terremoti",
           "correct": false,
           "index": 0
         },
         {
-          "text": "La pulsazione glaciale si verifica quando si ha una variazione dell'altezza del ghiacciaio",
+          "text": "È soltanto una variazione dello spessore del ghiacciaio",
           "correct": false,
           "index": 1
         },
         {
-          "text": "La pulsazione glaciale si verifica quando si ha una variazione della lunghezza del ghiacciaio",
+          "text": "Si manifesta con una variazione della lunghezza del ghiacciaio",
           "correct": true,
           "index": 2
         }
@@ -4368,7 +4368,7 @@
       "category": "Storia, arte, cultura e folclore locale",
       "explanation": "Occitano, francoprovenzale e walser sono lingue/minoranze linguistiche piemontesi. I valdesi costituiscono una comunità religiosa; il ladino è associato ad altre aree alpine.",
       "references": [],
-      "question": "quali di queste minoranze linguistiche non si trova in piemonte",
+      "question": "Quale di queste minoranze linguistiche non è presente in Piemonte?",
       "answers": [
         {
           "text": "walser",
@@ -4394,7 +4394,7 @@
       "category": "Geologia e geomorfologia",
       "explanation": "Il bacino del lago d’Orta è legato al modellamento glaciale, diverso dai laghi formati direttamente da una depressione tettonica.",
       "references": [],
-      "question": "il lago d'Orta è un esempio di lago:",
+      "question": "Qual è l’origine del Lago d’Orta?",
       "answers": [
         {
           "text": "tettonico",
@@ -4420,7 +4420,7 @@
       "category": "Primo soccorso",
       "explanation": "Nella terminologia della dispensa, un GAS negativo indica assenza dei normali segni del respiro. La valutazione comprende coscienza e respiro e precede l’attivazione delle manovre appropriate.",
       "references": [],
-      "question": "sicurezza e primo soccorso: Che cosa si osserva in un paziente che non respira?",
+      "question": "Primo soccorso: che cosa si osserva quando un paziente non respira?",
       "answers": [
         {
           "text": "Il GAS (guardo-ascolto-sento) negativo",
@@ -4446,20 +4446,20 @@
       "category": "Pianificazione territoriale",
       "explanation": "I livelli distinguono la scala di area vasta, quella comunale e strumenti subcomunali o settoriali. L’oggetto di un piano e la sua scala territoriale sono concetti diversi.",
       "references": [],
-      "question": "quali sono il livelli di pianificazione territoriale?",
+      "question": "Quale insieme di livelli descrive la pianificazione territoriale?",
       "answers": [
         {
-          "text": "pianificazione dei parchi naturali regionali e nazionali",
+          "text": "Pianificazione dei soli parchi naturali regionali e nazionali",
           "correct": false,
           "index": 0
         },
         {
-          "text": "pianificazione di aarea vasta o sovra comunale, pianificazione locale o comunale, pianificazione sub comunale e settoriale",
+          "text": "Pianificazione di area vasta o sovracomunale, locale o comunale, subcomunale e settoriale",
           "correct": true,
           "index": 1
         },
         {
-          "text": "pianificazione di livello base, pianificazione di livello sovra territoriale",
+          "text": "Pianificazione di base e pianificazione sovraterritoriale",
           "correct": false,
           "index": 2
         }
@@ -12938,6 +12938,832 @@
           "index": 2
         }
       ]
+    },
+    {
+      "id": "GEA-C-20261013-001",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "L’anatessi segna l’inizio della fusione parziale; la parte fusa può contribuire a formare magmi, mentre il residuo resta solido.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 96
+        }
+      ],
+      "question": "Che cos’è l’anatessi?",
+      "answers": [
+        {
+          "text": "La fusione parziale di rocce crostali che può generare un magma",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La compattazione di sedimenti sciolti",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La fratturazione meccanica dovuta al gelo",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-002",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Le facies raggruppano associazioni mineralogiche compatibili con certe condizioni P-T; non sono una singola roccia.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 99
+        }
+      ],
+      "question": "Che cosa indica una facies metamorfica?",
+      "answers": [
+        {
+          "text": "Un insieme di associazioni mineralogiche formate in un determinato intervallo di pressione e temperatura",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Un’unica specie minerale presente in qualunque roccia",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "L’età assoluta di una roccia sedimentaria",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-003",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Il micascisto ha abbondanti miche orientate che conferiscono una marcata scistosità; spesso deriva da sedimenti pelitici.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 124
+        }
+      ],
+      "question": "Che cos’è un micascisto?",
+      "answers": [
+        {
+          "text": "Una roccia metamorfica foliata ricca di miche",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Una roccia magmatica vetrosa priva di cristalli",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una sabbia carbonatica non consolidata",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-004",
+      "source": "Richiesta utente · definizione USGS di condotta freatica",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Una condotta freatica si sviluppa nella zona satura, al di sotto della falda: la circolazione avviene a sezione piena. Fonte terminologica: USGS, Cave Development e Geology of the Trout Rock caves. Questa definizione non compare nella nuova dispensa, quindi non viene attribuita una pagina PDF.",
+      "references": [],
+      "question": "Che cos’è una condotta freatica in una grotta?",
+      "answers": [
+        {
+          "text": "Un passaggio sviluppato quando l’acqua riempiva l’intera sezione nella zona satura",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Una fessura asciutta aperta solo dall’azione del vento",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Un canale scavato esclusivamente sulla superficie del ghiacciaio",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-005",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Le ofioliti sono porzioni di litosfera oceanica: rocce della crosta e del mantello superiore trasportate ed esposte durante la storia tettonica.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 142
+        }
+      ],
+      "question": "Che cosa sono le ofioliti?",
+      "answers": [
+        {
+          "text": "Frammenti di crosta oceanica e del mantello superiore oggi affioranti in una catena montuosa",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Depositi fluviali recenti cementati sul fondo di una valle",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Esclusivamente graniti formati nella crosta continentale",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-006",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Il protolito è il materiale di partenza, per esempio un’arenaria quarzosa che si trasforma in quarzite.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 16
+        }
+      ],
+      "question": "Che cosa si intende per protolito di una roccia metamorfica?",
+      "answers": [
+        {
+          "text": "La roccia preesistente da cui deriva per metamorfismo",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il minerale che cristallizza solo dopo la fusione totale",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Lo strato di suolo formatosi sopra la roccia",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-007",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Il riscaldamento da un’intrusione interessa un’aureola relativamente localizzata attorno al corpo magmatico.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 19
+        }
+      ],
+      "question": "Quale ambiente caratterizza soprattutto il metamorfismo di contatto?",
+      "answers": [
+        {
+          "text": "Le rocce vicine a un’intrusione magmatica riscaldate dal corpo intrusivo",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "I sedimenti depositati sul fondo di un lago",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il solo margine del ghiacciaio dove fonde il ghiaccio",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-008",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Il metamorfismo dinamico o cataclastico interessa zone di faglia sottoposte a forti deformazioni.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 19
+        }
+      ],
+      "question": "Qual è la causa tipica del metamorfismo cataclastico?",
+      "answers": [
+        {
+          "text": "La deformazione e frantumazione delle rocce lungo faglie",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La sedimentazione in un delta",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La dissoluzione del calcare in acqua piovana",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-009",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Le miche allineate definiscono piani di foliazione riconoscibili come scistosità.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 125
+        }
+      ],
+      "question": "Quale tessitura segnala l’orientazione preferenziale delle miche in un micascisto?",
+      "answers": [
+        {
+          "text": "La scistosità",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La struttura a cuscini di una lava",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La stratificazione incrociata di una duna",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-010",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Clorite, actinolite ed epidoto sono minerali caratteristici di molte metabasiti in facies scisti verdi.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 102
+        }
+      ],
+      "question": "Quale associazione di minerali è caratteristica della facies a scisti verdi in rocce basiche?",
+      "answers": [
+        {
+          "text": "Clorite, actinolite ed epidoto",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Solo quarzo e calcite",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Solo olivina e feldspatoidi",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-011",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "L’anfibolite è comunemente dominata da anfibolo (orneblenda) e plagioclasio.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 104
+        }
+      ],
+      "question": "Quale associazione mineralogica è tipica di molte anfiboliti?",
+      "answers": [
+        {
+          "text": "Orneblenda e plagioclasio",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Gesso e salgemma",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Calcite e dolomite senza silicati",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-012",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Gli scisti blu indicano un rapporto P/T elevato, caratteristico di un percorso di subduzione relativamente freddo.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 127
+        }
+      ],
+      "question": "A quali condizioni di metamorfismo sono associati gli scisti blu?",
+      "answers": [
+        {
+          "text": "Alta pressione e temperatura relativamente bassa, tipiche della subduzione",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Pressione atmosferica e raffreddamento in superficie",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Bassa pressione e sola evaporazione marina",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-013",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Il glaucofane è un anfibolo sodico di colore blu, importante per riconoscere gli scisti blu.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 127
+        }
+      ],
+      "question": "Quale minerale conferisce spesso il colore blu agli scisti blu?",
+      "answers": [
+        {
+          "text": "Il glaucofane",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La calcite",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il salgemma",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-014",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Nelle eclogiti di composizione basica l’associazione caratteristica è granato con omfacite, un pirosseno sodico-calcico.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 108
+        }
+      ],
+      "question": "Quale coppia di minerali è diagnostica delle eclogiti di composizione basica?",
+      "answers": [
+        {
+          "text": "Granato e omfacite",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Gesso e salgemma",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Clorite e calcite soltanto",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-015",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Cianite, andalusite e sillimanite hanno la stessa formula Al₂SiO₅, ma campi di stabilità differenti; la cianite è favorita da pressioni elevate.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 110
+        }
+      ],
+      "question": "Quale dei tre polimorfi Al₂SiO₅ è indicativo di pressioni relativamente elevate?",
+      "answers": [
+        {
+          "text": "La cianite",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "L’andalusite",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il quarzo",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-016",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "L’andalusite è il polimorfo Al₂SiO₅ associato a pressioni relativamente basse.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 110
+        }
+      ],
+      "question": "Quale polimorfo Al₂SiO₅ è tipico di pressioni relativamente basse?",
+      "answers": [
+        {
+          "text": "L’andalusite",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La cianite",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "L’omfacite",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-017",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "La sillimanite è stabilizzata da temperature elevate rispetto agli altri polimorfi Al₂SiO₅.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 110
+        }
+      ],
+      "question": "Quale polimorfo Al₂SiO₅ indica temperature elevate?",
+      "answers": [
+        {
+          "text": "La sillimanite",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "L’andalusite",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il glaucofane",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-018",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Le cornubianiti (hornfels) possono formarsi per riscaldamento delle rocce nell’aureola di contatto e hanno spesso struttura massiva.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 116
+        }
+      ],
+      "question": "Quale roccia massiva e in genere poco foliata è tipica del metamorfismo di contatto?",
+      "answers": [
+        {
+          "text": "La cornubianite o hornfels",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il conglomerato fluviale non metamorfosato",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il basalto a cuscini",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-019",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Negli skarn i fluidi e le reazioni al contatto modificano la composizione della roccia, formando silicati di calcio e altri elementi.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 118
+        }
+      ],
+      "question": "Che cos’è uno skarn?",
+      "answers": [
+        {
+          "text": "Una roccia metasomatica sviluppata spesso al contatto tra corpi magmatici e rocce carbonatiche",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Una lava vetrosa raffreddata rapidamente in mare",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Un accumulo di sabbia eolica non consolidata",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-020",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Il metamorfismo ricristallizza e salda i granuli di quarzo di un’arenaria quarzosa.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 120
+        }
+      ],
+      "question": "Da quale protolito deriva in genere una quarzite?",
+      "answers": [
+        {
+          "text": "Da un’arenaria ricca di quarzo",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Da un basalto a cuscini",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Da una peridotite del mantello",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-021",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "La Bargiolina è una quarzite del Monte Bracco; la Pietra di Luserna è invece uno gneiss.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 122
+        }
+      ],
+      "question": "Quale roccia è la Bargiolina del Monte Bracco?",
+      "answers": [
+        {
+          "text": "Una quarzite",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Una serpentinite",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una diorite",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-022",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "La prasinite è una roccia metamorfica basica che può contenere albite, clorite, anfiboli ed epidoto.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 138
+        }
+      ],
+      "question": "Che cos’è una prasinite?",
+      "answers": [
+        {
+          "text": "Una metabasite a grana fine comunemente associata alla facies a scisti verdi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Una roccia evaporitica formata da salgemma",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una roccia magmatica acida vetrosa",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-023",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "La componente carbonatica e quella argillosa del protolito sono entrambe importanti per i calcescisti.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 129
+        }
+      ],
+      "question": "Da quali sedimenti deriva tipicamente un calcescisto?",
+      "answers": [
+        {
+          "text": "Da sedimenti carbonatici impuri, come calcari argillosi e argille calcaree",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Da sabbie quarzose purissime prive di carbonati",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Da sole evaporiti di salgemma",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-024",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Entrambe sono legate a rocce ricche di minerali del serpentino; il termine scisto evidenzia una foliazione sviluppata.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 131
+        }
+      ],
+      "question": "Qual è la principale differenza strutturale tra serpentinite e serpentinoscisto?",
+      "answers": [
+        {
+          "text": "Lo serpentinoscisto presenta una scistosità marcata; la serpentinite può essere massiva",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La serpentinite è una roccia sedimentaria e lo serpentinoscisto è un granito",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Lo serpentinoscisto contiene soltanto quarzo, la serpentinite soltanto calcite",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-025",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Le forme a cuscino sono tipiche delle lave emesse sott’acqua e possono restare riconoscibili in alcune metabasiti.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 100
+        }
+      ],
+      "question": "Che cosa indicano i basalti a cuscini (pillow lava) ben conservati?",
+      "answers": [
+        {
+          "text": "La solidificazione di lava basaltica in ambiente subacqueo",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La precipitazione di gesso in una laguna evaporitica",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una sola fase di erosione eolica continentale",
+          "correct": false,
+          "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261013-026",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "explanation": "Le ofioliti documentano materiali oceanici coinvolti nella formazione della catena alpina.",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 144
+        }
+      ],
+      "question": "Che cosa suggerisce la presenza di ofioliti nelle Alpi?",
+      "answers": [
+        {
+          "text": "La conservazione di frammenti di un antico dominio oceanico",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Che tutte le rocce alpine si sono formate in un unico vulcano attivo",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Che non vi siano stati processi tettonici",
+          "correct": false,
+          "index": 2
+        }
+      ]
     }
   ],
   "open": [
@@ -12950,7 +13776,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indica tre aree piemontesi in cui è diffusa la viticoltura di montagna",
+      "question": "Indica tre aree piemontesi in cui è diffusa la viticoltura di montagna.",
       "keys": [
         "Langhe (Cuneese): colline vitate storiche, Barolo/Barbaresco",
         "Valle di Susa: viticoltura eroica su terrazzamenti, vitigni come Avanà e Baratuciat",
@@ -12967,7 +13793,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Descrivi brevemente quali abilità deve possedere l'accompagnatore naturalistico",
+      "question": "Descrivi brevemente le abilità di un accompagnatore naturalistico.",
       "keys": [
         "Conoscenze naturalistiche multidisciplinari (botanica, geologia, fauna)",
         "Orientamento e lettura cartografica",
@@ -12992,7 +13818,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare il procedimento per riportare un azimut dal terreno alla carta",
+      "question": "Come si riporta un azimut dal terreno alla carta?",
       "keys": [
         "Misurare l'azimut sul terreno con la bussola, visando il punto",
         "Correggere il valore per la declinazione magnetica (ottenendo l'azimut geografico)",
@@ -13010,7 +13836,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indica almeno tre problemi connessi allo spopolamento delle Alpi",
+      "question": "Indica almeno tre problemi legati allo spopolamento delle Alpi.",
       "keys": [
         "Abbandono di pascoli e coltivi, avanzata incontrollata del bosco e perdita di biodiversità dei paesaggi aperti",
         "Aumento del dissesto idrogeologico per mancata manutenzione del territorio",
@@ -13034,7 +13860,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare tre funzioni della radice",
+      "question": "Indica tre funzioni della radice.",
       "keys": [
         "Assorbimento di acqua e sali minerali",
         "Ancoraggio della pianta al suolo",
@@ -13057,7 +13883,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare due funzioni del fusto",
+      "question": "Indica due funzioni del fusto.",
       "keys": [
         "Sostegno: porta foglie, fiori e frutti verso la luce",
         "Conduzione: trasporto di linfa grezza (xilema) ed elaborata (floema)"
@@ -13079,7 +13905,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Alla partenza di una gita, quali sono le operazioni che devo fare con il GPS?",
+      "question": "Quali operazioni devi compiere con il GPS alla partenza di una gita?",
       "keys": [
         "Verificare/impostare il datum coerente con la carta utilizzata",
         "Verificare il formato delle coordinate",
@@ -13098,7 +13924,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Le piante nitrofile sono...",
+      "question": "Che cosa sono le piante nitrofile?",
       "keys": [
         "Piante che prediligono suoli ricchi di nitrati/azoto",
         "Indicatrici di ambienti disturbati dall'uomo o dal pascolo intenso",
@@ -13115,7 +13941,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Descrivere il procedimento per individuare le coordinate UTM di un punto",
+      "question": "Come si individuano le coordinate UTM di un punto?",
       "keys": [
         "Individuare il reticolato chilometrico UTM sulla carta",
         "Leggere ed interpolare il valore Easting (Est) dal margine della cella",
@@ -13133,7 +13959,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare le ragioni del successo evolutivo degli insetti",
+      "question": "Indica le ragioni del successo evolutivo degli insetti.",
       "keys": [
         "Esoscheletro chitinoso: protezione e riduzione della perdita d'acqua",
         "Capacità di volo: dispersione e fuga dai predatori",
@@ -13158,7 +13984,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare il procedimento per riportare un azimut dalla carta al terreno",
+      "question": "Come si riporta un azimut dalla carta al terreno?",
       "keys": [
         "Misurare l'angolo sulla carta con goniometro rispetto al nord carta",
         "Correggere per la declinazione magnetica (ottenendo l'azimut magnetico)",
@@ -13176,7 +14002,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Definisci 'turismo sostenibile' secondo Agenda21 (1992)",
+      "question": "Definisci il turismo sostenibile secondo Agenda 21 (1992).",
       "keys": [
         "Soddisfa le esigenze di turisti e destinazioni attuali proteggendo le opportunità future",
         "Gestisce le risorse per soddisfare esigenze economiche, sociali ed estetiche",
@@ -13193,7 +14019,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Definizione sintetica di prato stabile",
+      "question": "Definisci sinteticamente un prato stabile.",
       "keys": [
         "Prato polifita permanente, non soggetto a rotazione colturale/aratura",
         "Sfalciato e/o pascolato regolarmente",
@@ -13226,7 +14052,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare le tre specie di querce importanti in Piemonte",
+      "question": "Indica tre specie di querce importanti in Piemonte.",
       "keys": [
         "Farnia (Quercus robur) - boschi planiziali",
         "Rovere (Quercus petraea) - fascia collinare-submontana",
@@ -13243,7 +14069,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare tre tipologie di fusto modificato",
+      "question": "Indica tre tipologie di fusto modificato.",
       "keys": [
         "Rizoma: fusto sotterraneo orizzontale (es. felci, zenzero)",
         "Tubero: fusto ingrossato sotterraneo di riserva (es. patata)",
@@ -13277,7 +14103,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare 2 funzioni di ognuna delle seguenti: Radici, fusto/tronco, Foglie, fiori",
+      "question": "Indica due funzioni per ciascuno dei seguenti organi: radici, fusto, foglie e fiori.",
       "keys": [
         "Radici: assorbimento e ancoraggio",
         "Fusto/tronco: sostegno e conduzione",
@@ -13301,7 +14127,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare le funzioni dei fiori",
+      "question": "Quali funzioni svolgono i fiori?",
       "keys": [
         "Riproduzione sessuata: produzione dei gameti",
         "Attrazione degli impollinatori (colore, profumo, nettare)",
@@ -13334,7 +14160,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare tre specie pioniere",
+      "question": "Indica tre specie pioniere.",
       "keys": [
         "Betulla (Betula pendula)",
         "Pioppo tremulo (Populus tremula)",
@@ -13368,7 +14194,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Individua 3 punti di forza e 3 punti di debolezza del turismo naturalistico lungo una vallata alpina occidentale",
+      "question": "Individua tre punti di forza e tre punti di debolezza del turismo naturalistico in una vallata alpina occidentale.",
       "keys": [
         "Forza: valorizzazione economica di aree marginali/spopolate",
         "Forza: bassa pressione ambientale rispetto al turismo di massa",
@@ -13427,7 +14253,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Dal fondovalle (500 m) fino a 1500 m sul versante destro di Valle di Susa/Chisone, quali specie arboree in ordine di quota?",
+      "question": "Quali specie arboree incontreresti, in ordine di quota, salendo da 500 a 1.500 m su un versante della Valle di Susa o della Val Chisone?",
       "keys": [
         "500-800 m: castagno, roverella, orniello",
         "800-1200 m: faggio, in transizione con le conifere",
@@ -13467,7 +14293,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Definizione di paesaggio",
+      "question": "Che cos’è il paesaggio?",
       "keys": [
         "Porzione di territorio percepita dalle popolazioni",
         "Il carattere deriva dall'azione di fattori naturali e/o umani",
@@ -13484,7 +14310,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Indicare tre specie con legno differenziato (alburno e durame) e tre con legno indifferenziato",
+      "question": "Indica tre specie con legno differenziato (alburno e durame) e tre con legno indifferenziato.",
       "keys": [
         "Differenziato: noce, larice, pino silvestre",
         "Indifferenziato: faggio, acero, betulla"
@@ -13696,7 +14522,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Come rendere chiare le modalità di prenotazione di un’escursione promossa sui social?",
+      "question": "Come puoi rendere chiare le modalità di prenotazione di un’escursione promossa sui social?",
       "keys": [
         "Specificare che la prenotazione è obbligatoria",
         "Un “mi piace” o “parteciperò” non è una prenotazione",
@@ -15848,6 +16674,79 @@
         "Distinguere la tanatosi dalla morte reale; osservare senza manipolare o provocare l’animale"
       ],
       "note": "Indicata dall’utente come domanda sicura aperta di fauna. Il termine corretto è tanatosi; fonte della spiegazione: pagina PDF 28."
+    },
+    {
+      "id": "GEA-O-20261013-001",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 101
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Spiega che cosa sono le facies metamorfiche e come gli scisti verdi, gli scisti blu e le eclogiti aiutano a ricostruire le condizioni di formazione.",
+      "keys": [
+        "Facies: insieme di associazioni mineralogiche compatibili con un intervallo di pressione e temperatura, non una singola roccia.",
+        "Facies a scisti verdi: in metabasiti possono comparire clorite, actinolite ed epidoto.",
+        "Scisti blu: alta pressione e temperatura relativamente bassa, indicativi di subduzione; glaucofane.",
+        "Eclogiti: alta pressione, in rocce basiche associazione granato-omfacite.",
+        "Collega le associazioni alla storia tettonica delle Alpi senza assegnare automaticamente la stessa storia a ogni affioramento."
+      ],
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
+    },
+    {
+      "id": "GEA-O-20261013-002",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 142
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Descrivi un’ofiolite e spiega perché testimonia un antico dominio oceanico nelle Alpi piemontesi.",
+      "keys": [
+        "Porzione di litosfera oceanica: crosta e mantello superiore.",
+        "Possibili componenti: basalti/metabasalti, gabbri/metagabbri, peridotiti/serpentiniti; la successione può essere incompleta.",
+        "Le rocce oceaniche possono essere metamorfosate, smembrate e portate in affioramento dai movimenti tettonici.",
+        "Esempio piemontese: unità ofiolitiche del Monviso o della Zona Piemontese."
+      ],
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
+    },
+    {
+      "id": "GEA-O-20261013-003",
+      "source": "Classroom/Aggiunti2 · GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+      "topic": "geologia",
+      "category": "Geologia e geomorfologia",
+      "references": [
+        {
+          "drive_id": "1WN2UO2JFdAhMkxdFETLTjOm_At9qcWfk",
+          "title": "GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf",
+          "page": 124
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "question": "Confronta micascisto, prasinite e calcescisto: protolito, minerali e strutture utili per riconoscerli.",
+      "keys": [
+        "Micascisto: tipicamente da sedimenti pelitici, miche abbondanti e scistosità marcata.",
+        "Prasinite: metabasite con albite, clorite, anfiboli ed epidoto, spesso associata a facies a scisti verdi.",
+        "Calcescisto: da sedimenti carbonatici argillosi; calcite, quarzo e miche, frequentemente scistoso.",
+        "Indica che la sola colorazione non basta: osserva anche mineralogia, tessitura e contesto geologico."
+      ],
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
     }
   ]
 }

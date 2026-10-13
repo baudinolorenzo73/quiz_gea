@@ -1,6 +1,6 @@
-# Simulatore GEA PWA — versione 5.11
+# Simulatore GEA PWA — versione 5.13
 
-Banca JSON esterna inclusa nel pacchetto: **428 domande chiuse** e **120 domande aperte**, per un totale di **548 quesiti**.
+Banca JSON esterna inclusa nel pacchetto: **454 domande chiuse** e **123 domande aperte**, per un totale di **577 quesiti**.
 
 ## Pubblicazione su GitHub Pages
 
@@ -108,3 +108,19 @@ Il pacchetto mantiene 548 quesiti: 428 chiusi e 120 aperti. Il conteggio visibil
 ## Novità 5.11 — accesso editor in prima pagina
 
 Il pulsante Aggiungi, modifica o elimina domande è subito sotto Vedi domande probabili nella pagina iniziale. Apre l’editor sulle aperte; il selettore Tipo permette di passare alle chiuse. L’accesso precedente in configurazione e nel pannello delle probabili è stato spostato qui. Restano le funzioni della 5.10 e i 548 quesiti.
+
+
+## Novità 5.12 — 13 ottobre 2026
+
+Letto `Classroom/Aggiunti2/GAE_x5f_GEOLOGIA_x5f_SOLO_x5f_TESTO_x5f_COMPLETO.pdf` (172 pagine). Aggiunte **26 chiuse** e **3 aperte** di geologia. La domanda chiusa sulla diorite (210/428 nella v5.11) e la traccia aperta sui processi endogeni ed esogeni (47/120) erano già presenti e mantengono ID e posizione: non sono state duplicate. Nel nuovo totale sono rispettivamente 210/454 e 47/123.
+
+La condotta freatica non compare nel PDF nuovo: la spiegazione usa il riferimento scientifico USGS ([Cave Development](https://pubs.usgs.gov/wsp/1837/report.pdf)); nell'app non le viene attribuita una pagina di corso inventata. Le altre nuove domande riportano le pagine fisiche del PDF nel collegamento di correzione. Alcune parti della dispensa si ripetono: è stata usata una sola copia del contenuto. Le nuove domande aperte non sono marcate sicure o probabili.
+
+DB: `2026.10.13-1`. Pubblica anche `data/domande.json` e `sw.js`, premi **Aggiorna** e poi **Aggiorna banca dati**. Se è configurato un JSON remoto diverso, aggiorna quel file oppure importa il JSON del pacchetto. Prima di aggiornare, esporta le modifiche locali.
+
+
+## Novità 5.13 — revisione linguistica
+
+Corretti apostrofi, accenti, maiuscole, refusi OCR, concordanze e formulazioni tronche, soprattutto nelle prime 160 domande importate. Rese più leggibili le opzioni e alcune tracce aperte. Identificativi, ordine, argomenti e posizione della risposta corretta restano invariati. Le domande tratte da leggi sono ancora presentate come riferimento storico del corso: questa versione esegue una revisione linguistica, non un aggiornamento normativo o una validazione scientifica generale.
+
+DB `2026.10.13-2`. Prima di pubblicare esporta le eventuali modifiche locali; poi carica anche `data/domande.json` e `sw.js`, usa **Aggiorna** e **Aggiorna banca dati**.
