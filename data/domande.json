@@ -1,9 +1,9 @@
 {
   "format": "gea-question-bank",
   "version": 1,
-  "databaseVersion": "2026.10.13-2",
-  "updatedAt": "2026-10-13T10:55:08Z",
-  "appVersion": "5.13",
+  "databaseVersion": "2026.10.15-1",
+  "updatedAt": "2026-10-15T06:08:03Z",
+  "appVersion": "5.14",
   "closed": [
     {
       "id": "clefratturevannoimmobilizzatesempre|vannoimmobilizzatesoloincasodidolore|vannoimmobilizzatesoloquandoesposte",
@@ -131,17 +131,17 @@
       "question": "Qual è il significato di vegetazione?",
       "answers": [
         {
-          "text": "indica lo studio generalizzato delle gimnosperme presenti nei biomi terrestri",
+          "text": "Indica lo studio generalizzato delle gimnosperme presenti nei biomi terrestri",
           "correct": false,
           "index": 0
         },
         {
-          "text": "indica la successione di specie botaniche durante il ciclo vegetazionale",
+          "text": "Indica la successione di specie botaniche durante il ciclo vegetazionale",
           "correct": false,
           "index": 1
         },
         {
-          "text": "indica il complesso delle piante in stretta relazione con l'ambiente in cui vivono",
+          "text": "Indica il complesso delle piante in stretta relazione con l'ambiente in cui vivono",
           "correct": true,
           "index": 2
         }
@@ -157,7 +157,7 @@
       "question": "Qual è l'habitat tipico del cinghiale?",
       "answers": [
         {
-          "text": "Aree boscate con ricco sottobosco e gerbidi prossime a fonti alimentari e zone umide",
+          "text": "Aree boscate con ricco sottobosco e terreni incolti, vicino a fonti alimentari e zone umide",
           "correct": true,
           "index": 0
         },
@@ -189,12 +189,12 @@
       "question": "Come è organizzata l'accoglienza e la promozione turistica locale in Piemonte?",
       "answers": [
         {
-          "text": "è articolata in Agenzie di accoglienza e promozione turistica locale",
+          "text": "È articolata in Agenzie di accoglienza e promozione turistica locale",
           "correct": true,
           "index": 0
         },
         {
-          "text": "è affidata alle Aziende autonome di soggiorno e turismo",
+          "text": "È affidata alle Aziende autonome di soggiorno e turismo",
           "correct": false,
           "index": 1
         },
@@ -212,7 +212,7 @@
       "category": "Primo soccorso",
       "explanation": "Il quesito presuppone uno svenimento semplice: la posizione distesa con gambe sollevate può favorire il ritorno venoso. Una perdita di coscienza persistente richiede valutazione del respiro e soccorsi; non basta sollevare le gambe.",
       "references": [],
-      "question": "Primo soccorso: in caso di svenimento di un turista, quale azione indica il quesito?",
+      "question": "Primo soccorso: quale intervento è indicato dal materiale del corso in caso di svenimento?",
       "answers": [
         {
           "text": "Si sollevano le gambe per favorire la circolazione",
@@ -277,7 +277,7 @@
           "index": 1
         },
         {
-          "text": "piano di tutela delle acque.",
+          "text": "Piano di tutela delle acque.",
           "correct": false,
           "index": 2
         }
@@ -351,17 +351,17 @@
       "question": "Quale strumento di pianificazione è previsto per un sito della rete Natura 2000 che non è un parco naturale?",
       "answers": [
         {
-          "text": "il piano d'Area",
+          "text": "Il piano d'Area",
           "correct": false,
           "index": 0
         },
         {
-          "text": "il piano di gestione per la tutela di specie ed habitat",
+          "text": "Il piano di gestione per la tutela di specie ed habitat",
           "correct": true,
           "index": 1
         },
         {
-          "text": "la carta regionale della natura",
+          "text": "La carta regionale della natura",
           "correct": false,
           "index": 2
         }
@@ -383,17 +383,17 @@
       "question": "Qual è il numero della legge piemontese intitolata «Norme per la conservazione del patrimonio naturale e dell’assetto ambientale»?",
       "answers": [
         {
-          "text": "numero 32 del 1982.",
+          "text": "Numero 32 del 1982.",
           "correct": true,
           "index": 0
         },
         {
-          "text": "numero 23 del 1982.",
+          "text": "Numero 23 del 1982.",
           "correct": false,
           "index": 1
         },
         {
-          "text": "numero 234 del 1999.",
+          "text": "Numero 234 del 1999.",
           "correct": false,
           "index": 2
         }
@@ -664,20 +664,20 @@
       "category": "Legislazione e organizzazione turistica",
       "explanation": "La risposta è riferita al quadro della L.R. 33/2001 richiamato nel quesito originale, con abilitazione, elenchi e funzioni provinciali. I riferimenti amministrativi vanno letti nel contesto della normativa e degli aggiornamenti del corso.",
       "references": [],
-      "question": "Secondo la legge regionale 33/2001 citata nel corso, quale requisito era previsto per esercitare una professione turistica regolamentata?",
+      "question": "Secondo la L.R. 33/2001 citata nel corso, quale requisito era previsto per esercitare una professione turistica regolamentata?",
       "answers": [
         {
-          "text": "Dell'autorizzazione della Regione",
+          "text": "L'autorizzazione della Regione",
           "correct": false,
           "index": 0
         },
         {
-          "text": "Dell'abilitazione con iscrizione nell'elenco provinciale",
+          "text": "L'abilitazione con iscrizione nell'elenco provinciale",
           "correct": true,
           "index": 1
         },
         {
-          "text": "Della licenza del Comune",
+          "text": "La licenza del Comune",
           "correct": false,
           "index": 2
         }
@@ -698,7 +698,7 @@
           "index": 0
         },
         {
-          "text": "vipera cornuta",
+          "text": "Vipera cornuta",
           "correct": false,
           "index": 1
         },
@@ -803,17 +803,17 @@
       "question": "Che cos’è un ecotono?",
       "answers": [
         {
-          "text": "spazio intermedio fra due ecosistemi vicini, caratterizzato dalla compresenza di specie animali e vegetali di entrambi",
+          "text": "Spazio intermedio fra due ecosistemi vicini, caratterizzato dalla compresenza di specie animali e vegetali di entrambi",
           "correct": true,
           "index": 0
         },
         {
-          "text": "spazio intermedio fra due ecosistemi uguali, caratterizzato dalla compresenza di specie di animali e vegetali di entrambi",
+          "text": "Spazio intermedio fra due ecosistemi uguali, caratterizzato dalla compresenza di specie di animali e vegetali di entrambi",
           "correct": false,
           "index": 1
         },
         {
-          "text": "spazio intermedio fra due ecosistemi, caratterizzato esclusivamente dalla compresenza di specie vegetali di entrambi",
+          "text": "Spazio intermedio fra due ecosistemi, caratterizzato esclusivamente dalla compresenza di specie vegetali di entrambi",
           "correct": false,
           "index": 2
         }
@@ -923,7 +923,7 @@
           "index": 1
         },
         {
-          "text": "protelidi",
+          "text": "Protelidi",
           "correct": false,
           "index": 2
         }
@@ -1119,17 +1119,17 @@
       "question": "Di quale animale Rupicapra rupicapra è il nome scientifico?",
       "answers": [
         {
-          "text": "capra",
+          "text": "Capra",
           "correct": false,
           "index": 0
         },
         {
-          "text": "camoscio",
+          "text": "Camoscio",
           "correct": true,
           "index": 1
         },
         {
-          "text": "cervo",
+          "text": "Cervo",
           "correct": false,
           "index": 2
         }
@@ -1238,7 +1238,7 @@
           "page": 42
         }
       ],
-      "question": "La fatturazione separata dei servizi elimina gli obblighi contrattuali di un pacchetto turistico?",
+      "question": "Un pacchetto turistico può essere venduto con fatturazione separata dei servizi?",
       "answers": [
         {
           "text": "No, mai",
@@ -1351,17 +1351,17 @@
       "question": "La morena è una forma glaciale di quale tipo?",
       "answers": [
         {
-          "text": "di erosione",
+          "text": "Di erosione",
           "correct": false,
           "index": 0
         },
         {
-          "text": "di accumulo",
+          "text": "Di accumulo",
           "correct": true,
           "index": 1
         },
         {
-          "text": "di flusso",
+          "text": "Di flusso",
           "correct": false,
           "index": 2
         }
@@ -1577,17 +1577,17 @@
       "question": "Che cos’è un anuro?",
       "answers": [
         {
-          "text": "un bovide senza corna",
+          "text": "Un bovide senza corna",
           "correct": false,
           "index": 0
         },
         {
-          "text": "un anfibio senza coda",
+          "text": "Un anfibio senza coda",
           "correct": true,
           "index": 1
         },
         {
-          "text": "un antenato dei bovidi",
+          "text": "Un antenato dei bovidi",
           "correct": false,
           "index": 2
         }
@@ -1641,7 +1641,7 @@
       "question": "Il Codice del Turismo:",
       "answers": [
         {
-          "text": "è stato approvato con il decreto legislativo n.79 del 23 maggio 2011",
+          "text": "È stato approvato con il decreto legislativo n.79 del 23 maggio 2011",
           "correct": true,
           "index": 0
         },
@@ -1664,7 +1664,7 @@
       "category": "Legislazione e organizzazione turistica",
       "explanation": "La classificazione alberghiera è espressa con stelle, che indicano una categoria di servizi e requisiti. Non è semplicemente il conteggio dei letti.",
       "references": [],
-      "question": "Con quale simbolo, da uno a cinque, è indicata la classificazione delle aziende alberghiere?",
+      "question": "Quali simboli, in numero da uno a cinque, indicano la classificazione delle aziende alberghiere?",
       "answers": [
         {
           "text": "Stelle",
@@ -1777,7 +1777,7 @@
       "question": "Come si chiama, in meteorologia, la zona di transizione fra due masse d’aria diverse?",
       "answers": [
         {
-          "text": "fronte.",
+          "text": "Fronte.",
           "correct": true,
           "index": 0
         },
@@ -2069,17 +2069,17 @@
       "question": "In primo soccorso, che cosa richiede il consenso informato all’assistenza?",
       "answers": [
         {
-          "text": "il paziente deve informare il soccorritore della sua patologia e dare il suo consenso alla terapia",
+          "text": "Il paziente deve informare il soccorritore della sua patologia e dare il suo consenso alla terapia",
           "correct": false,
           "index": 0
         },
         {
-          "text": "il soccorritore deve informare il paziente delle manovre che intende praticare ed averne il consenso prima di proseguire",
+          "text": "Il soccorritore deve informare il paziente delle manovre che intende praticare ed averne il consenso prima di proseguire",
           "correct": true,
           "index": 1
         },
         {
-          "text": "Il soccorritore deve informarsi prima sulla patologia del paziente e poi decide se dare il proprio consenso ad assisterlo",
+          "text": "Il soccorritore deve informarsi sulla patologia del paziente e poi decidere se prestargli assistenza",
           "correct": false,
           "index": 2
         }
@@ -2121,17 +2121,17 @@
       "question": "Quali strati della pelle interessa un’ustione di secondo grado?",
       "answers": [
         {
-          "text": "la cute",
+          "text": "La cute",
           "correct": false,
           "index": 0
         },
         {
-          "text": "le terminazioni nervose",
+          "text": "Le terminazioni nervose",
           "correct": false,
           "index": 1
         },
         {
-          "text": "l'epidermide ed il derma",
+          "text": "L'epidermide ed il derma",
           "correct": true,
           "index": 2
         }
@@ -2147,7 +2147,7 @@
       "question": "Qual è l'habitat tipico del camoscio?",
       "answers": [
         {
-          "text": "Zone montane e pedemontane più o meno boscate ma ripide e con presenza di rocce e strapiombi.",
+          "text": "Zone montane e pedemontane con pendii ripidi, rocce e strapiombi, anche boscate",
           "correct": true,
           "index": 0
         },
@@ -2157,7 +2157,7 @@
           "index": 1
         },
         {
-          "text": "Boschi di conifere poste a quote medio-alte.",
+          "text": "Boschi di conifere posti a quote medio-alte",
           "correct": false,
           "index": 2
         }
@@ -2196,20 +2196,20 @@
       "category": "Meteorologia, climatologia e nivologia",
       "explanation": "Temperatura, umidità e pressione sono variabili meteorologiche fondamentali. Il tempo si descrive anche con vento, nubi e precipitazioni.",
       "references": [],
-      "question": "Quale gruppo comprende variabili meteorologiche?",
+      "question": "Quale terna indica, nell’ordine, le variabili misurate da termometro, igrometro e barometro?",
       "answers": [
         {
-          "text": "temperatura, pressione e densità.",
+          "text": "Temperatura, pressione e densità.",
           "correct": false,
           "index": 0
         },
         {
-          "text": "temperatura, pressione, vento.",
+          "text": "Temperatura, pressione, vento.",
           "correct": false,
           "index": 1
         },
         {
-          "text": "temperatura, umidità, pressione.",
+          "text": "Temperatura, umidità, pressione.",
           "correct": true,
           "index": 2
         }
@@ -2289,17 +2289,17 @@
       "question": "Tipiche nubi basse sono:",
       "answers": [
         {
-          "text": "cirri, cirrostrati, cirrocumuli",
+          "text": "Cirri, cirrostrati, cirrocumuli",
           "correct": false,
           "index": 0
         },
         {
-          "text": "altostrati e altocumuli",
+          "text": "Altostrati e altocumuli",
           "correct": false,
           "index": 1
         },
         {
-          "text": "strati, stratocumuli, nembostrati",
+          "text": "Strati, stratocumuli, nembostrati",
           "correct": true,
           "index": 2
         }
@@ -2321,17 +2321,17 @@
       "question": "I prodotti della fotosintesi clorofilliana sono:",
       "answers": [
         {
-          "text": "glucosio e ossigeno",
+          "text": "Glucosio e ossigeno",
           "correct": true,
           "index": 0
         },
         {
-          "text": "sali minerali e ossigeno",
+          "text": "Sali minerali e ossigeno",
           "correct": false,
           "index": 1
         },
         {
-          "text": "glucosio e acqua",
+          "text": "Glucosio e acqua",
           "correct": false,
           "index": 2
         }
@@ -2473,7 +2473,7 @@
           "index": 1
         },
         {
-          "text": "La parete cellulare è presente sia nel regno animale che vegetale",
+          "text": "La parete cellulare è presente sia nel regno animale sia in quello vegetale",
           "correct": false,
           "index": 2
         }
@@ -2605,17 +2605,17 @@
       "question": "Quale tra questi strumenti finanziari dell'Unione Europea è destinato solo ai territori transfrontalieri degli stati membri?",
       "answers": [
         {
-          "text": "i fondi destinati ai progetti LIFE",
+          "text": "I fondi destinati ai progetti LIFE",
           "correct": false,
           "index": 0
         },
         {
-          "text": "i fondi destinati ai PSR (Piani di sviluppo rurale)",
+          "text": "I fondi destinati ai PSR (Piani di sviluppo rurale)",
           "correct": false,
           "index": 1
         },
         {
-          "text": "i fondi destinati al finanziamento di progetti INTERREG ALCOTRA",
+          "text": "I fondi destinati al finanziamento di progetti INTERREG ALCOTRA",
           "correct": true,
           "index": 2
         }
@@ -2715,17 +2715,17 @@
       "question": "In quale di questi ambienti può accompagnare una GEA?",
       "answers": [
         {
-          "text": "su una spiaggia",
+          "text": "Su una spiaggia",
           "correct": true,
           "index": 0
         },
         {
-          "text": "su un ghiacciaio",
+          "text": "Su un ghiacciaio",
           "correct": false,
           "index": 1
         },
         {
-          "text": "in una grotta non turistica con pozzi verticali",
+          "text": "In una grotta non turistica con pozzi verticali",
           "correct": false,
           "index": 2
         }
@@ -2855,7 +2855,7 @@
           "index": 1
         },
         {
-          "text": "Ci si allontana dall'animale con cautela evitando di spaventare la femmina che certamente è nelle vicinanze per accudire il piccolo nato.",
+          "text": "Allontanarsi con cautela, senza toccare il piccolo né disturbare la femmina",
           "correct": true,
           "index": 2
         }
@@ -2871,17 +2871,17 @@
       "question": "Cosa si intende per customer equity?",
       "answers": [
         {
-          "text": "il valore del cliente.",
+          "text": "Il valore del cliente.",
           "correct": true,
           "index": 0
         },
         {
-          "text": "la ragionevolezza del cliente.",
+          "text": "La ragionevolezza del cliente.",
           "correct": false,
           "index": 1
         },
         {
-          "text": "i servizi forniti al cliente.",
+          "text": "I servizi forniti al cliente.",
           "correct": false,
           "index": 2
         }
@@ -2966,12 +2966,12 @@
           "index": 0
         },
         {
-          "text": "la Sacra di San Michele",
+          "text": "La Sacra di San Michele",
           "correct": false,
           "index": 1
         },
         {
-          "text": "la basilica di Superga",
+          "text": "La basilica di Superga",
           "correct": false,
           "index": 2
         }
@@ -3057,17 +3057,17 @@
       "question": "Quali partecipanti può accompagnare una GEA?",
       "answers": [
         {
-          "text": "solo gruppi di persone",
+          "text": "Solo gruppi di persone",
           "correct": false,
           "index": 0
         },
         {
-          "text": "gruppi o singoli",
+          "text": "Gruppi o singoli",
           "correct": true,
           "index": 1
         },
         {
-          "text": "solo scolaresche",
+          "text": "Solo scolaresche",
           "correct": false,
           "index": 2
         }
@@ -3120,7 +3120,7 @@
           "index": 0
         },
         {
-          "text": "Linee tracciate su una carta che uniscono punti con stesse caratteristiche fisiche",
+          "text": "Linee tracciate su una carta che uniscono punti con le stesse caratteristiche fisiche",
           "correct": false,
           "index": 1
         },
@@ -3141,17 +3141,17 @@
       "question": "La donnola è:",
       "answers": [
         {
-          "text": "il carnivoro più piccolo",
+          "text": "Il carnivoro più piccolo",
           "correct": true,
           "index": 0
         },
         {
-          "text": "il mammifero più bello.",
+          "text": "Il mammifero più bello.",
           "correct": false,
           "index": 1
         },
         {
-          "text": "un onnivoro.",
+          "text": "Un onnivoro.",
           "correct": false,
           "index": 2
         }
@@ -3196,10 +3196,10 @@
           "page": 7
         }
       ],
-      "question": "Quale ritenuta d’acconto indica il quesito per la prestazione occasionale?",
+      "question": "Quale percentuale di ritenuta d’acconto è riportata nel quesito del corso sulla prestazione occasionale?",
       "answers": [
         {
-          "text": "Il 2% di IV",
+          "text": "Il 2% di IVA",
           "correct": false,
           "index": 0
         },
@@ -3235,7 +3235,7 @@
           "index": 1
         },
         {
-          "text": "leggi regionali",
+          "text": "Leggi regionali",
           "correct": false,
           "index": 2
         }
@@ -3399,17 +3399,17 @@
       "question": "Che cos’è un bioma?",
       "answers": [
         {
-          "text": "una regione naturale",
+          "text": "Una regione naturale",
           "correct": true,
           "index": 0
         },
         {
-          "text": "una regione politico amministrativa",
+          "text": "Una regione politico amministrativa",
           "correct": false,
           "index": 1
         },
         {
-          "text": "una regione storica",
+          "text": "Una regione storica",
           "correct": false,
           "index": 2
         }
@@ -3425,17 +3425,17 @@
       "question": "I serpenti sono animali:",
       "answers": [
         {
-          "text": "parassiti",
+          "text": "Parassiti",
           "correct": false,
           "index": 0
         },
         {
-          "text": "onnivori",
+          "text": "Onnivori",
           "correct": false,
           "index": 1
         },
         {
-          "text": "carnivori",
+          "text": "Carnivori",
           "correct": true,
           "index": 2
         }
@@ -3474,7 +3474,7 @@
       "category": "Zoologia ed etologia animale",
       "explanation": "L’intervento improprio su un giovane animale può separarlo dai genitori. La risposta attesa invita ad allontanarsi senza disturbarlo; un animale ferito richiede una valutazione diversa.",
       "references": [],
-      "question": "Qualora trovassimo un piccolo di civetta con ancora qualche difficoltà a volare come ci dovremmo comportare?",
+      "question": "Se troviamo un piccolo di civetta che ha ancora difficoltà a volare, come dobbiamo comportarci?",
       "answers": [
         {
           "text": "Stazionare nei pressi e intervenire nel caso fosse oggetto di tentativo di predazione da parte di altri animali.",
@@ -3482,7 +3482,7 @@
           "index": 0
         },
         {
-          "text": "Raccoglierla e conferirla nei centri di raccolta di fauna selvatica.",
+          "text": "Raccoglierlo e portarlo in un centro di recupero della fauna selvatica",
           "correct": false,
           "index": 1
         },
@@ -3535,17 +3535,17 @@
       "question": "Che cosa prevede la L.R. 32/1982 per le specie di flora a protezione assoluta?",
       "answers": [
         {
-          "text": "per queste specie la raccolta è limitata a 5 esemplari",
+          "text": "Per queste specie la raccolta è limitata a 5 esemplari",
           "correct": false,
           "index": 0
         },
         {
-          "text": "per queste specie la raccolta è sempre vietata",
+          "text": "Per queste specie la raccolta è sempre vietata",
           "correct": true,
           "index": 1
         },
         {
-          "text": "per queste specie la raccolta è vietata ma solo nelle aree protette",
+          "text": "Per queste specie la raccolta è vietata ma solo nelle aree protette",
           "correct": false,
           "index": 2
         }
@@ -3558,7 +3558,7 @@
       "category": "Organizzazione escursioni e gestione comitive",
       "explanation": "La risposta richiama la marcia in fila singola sulle carreggiate extraurbane non illuminate nelle ore indicate, per limitare l’ingombro del gruppo.",
       "references": [],
-      "question": "Come devono procedere i pedoni su una strada extraurbana non illuminata nelle ore indicate dal quesito?",
+      "question": "Da mezz’ora dopo il tramonto del sole a mezz’ora prima dell’alba, come devono procedere i pedoni sulla carreggiata di strade extraurbane prive di illuminazione?",
       "answers": [
         {
           "text": "Procedere in un'unica fila",
@@ -3720,7 +3720,7 @@
       "category": "Geologia e geomorfologia",
       "explanation": "Un lago non è una componente necessaria di un ghiacciaio. La lingua glaciale è una sua parte; il quesito originale semplifica la descrizione.",
       "references": [],
-      "question": "Quali di questi elementi non fa parte di un ghiacciaio?",
+      "question": "Quale di questi elementi non fa parte di un ghiacciaio?",
       "answers": [
         {
           "text": "Lingua",
@@ -3728,7 +3728,7 @@
           "index": 0
         },
         {
-          "text": "Colle",
+          "text": "Bacino di accumulo",
           "correct": false,
           "index": 1
         },
@@ -3807,17 +3807,17 @@
       "question": "Lo zoccolo del camoscio è dotato di:",
       "answers": [
         {
-          "text": "una solea ruvida, per favorire l'aderenza sulla roccia",
+          "text": "Una solea ruvida, per favorire l'aderenza sulla roccia",
           "correct": false,
           "index": 0
         },
         {
-          "text": "una solea morbida, per favorire l'aderenza sulla roccia",
+          "text": "Una solea morbida, per favorire l'aderenza sulla roccia",
           "correct": true,
           "index": 1
         },
         {
-          "text": "una solea membranosa, per favorire l'aderenza sulla roccia",
+          "text": "Una solea membranosa, per favorire l'aderenza sulla roccia",
           "correct": false,
           "index": 2
         }
@@ -3833,17 +3833,17 @@
       "question": "Che cos’è un lichene?",
       "answers": [
         {
-          "text": "una parassitosi dei vegetali",
+          "text": "Una parassitosi dei vegetali",
           "correct": false,
           "index": 0
         },
         {
-          "text": "una simbiosi mutualistica",
+          "text": "Una simbiosi mutualistica",
           "correct": true,
           "index": 1
         },
         {
-          "text": "un frutto tropicale",
+          "text": "Un frutto tropicale",
           "correct": false,
           "index": 2
         }
@@ -3943,17 +3943,17 @@
       "question": "Le minoranze linguistiche in Piemonte sono:",
       "answers": [
         {
-          "text": "occitani, francoprovenzali, walser",
+          "text": "Occitani, francoprovenzali, walser",
           "correct": true,
           "index": 0
         },
         {
-          "text": "occitani, valdesi e walser",
+          "text": "Occitani, valdesi e walser",
           "correct": false,
           "index": 1
         },
         {
-          "text": "valdesi, francoprovenzali e walser",
+          "text": "Valdesi, francoprovenzali e walser",
           "correct": false,
           "index": 2
         }
@@ -4183,17 +4183,17 @@
       "question": "Che cos’è una spirotromba?",
       "answers": [
         {
-          "text": "organo succhiatore tipico dei lepidotteri",
+          "text": "Organo succhiatore tipico dei lepidotteri",
           "correct": true,
           "index": 0
         },
         {
-          "text": "organo copulatore tipico degli ofidi",
+          "text": "Organo copulatore tipico degli ofidi",
           "correct": false,
           "index": 1
         },
         {
-          "text": "organo musicale tipico delle bande paesane alpine",
+          "text": "Organo musicale tipico delle bande paesane alpine",
           "correct": false,
           "index": 2
         }
@@ -4293,17 +4293,17 @@
       "question": "Con quale strumento si misura la pressione atmosferica?",
       "answers": [
         {
-          "text": "barometro",
+          "text": "Barometro",
           "correct": true,
           "index": 0
         },
         {
-          "text": "igrometro",
+          "text": "Igrometro",
           "correct": false,
           "index": 1
         },
         {
-          "text": "anemometro",
+          "text": "Anemometro",
           "correct": false,
           "index": 2
         }
@@ -4371,17 +4371,17 @@
       "question": "Quale di queste minoranze linguistiche non è presente in Piemonte?",
       "answers": [
         {
-          "text": "walser",
+          "text": "Walser",
           "correct": false,
           "index": 0
         },
         {
-          "text": "ladina",
+          "text": "Ladina",
           "correct": true,
           "index": 1
         },
         {
-          "text": "patois",
+          "text": "Patois",
           "correct": false,
           "index": 2
         }
@@ -4397,17 +4397,17 @@
       "question": "Qual è l’origine del Lago d’Orta?",
       "answers": [
         {
-          "text": "tettonico",
+          "text": "Tettonico",
           "correct": false,
           "index": 0
         },
         {
-          "text": "di pianura",
+          "text": "Di pianura",
           "correct": false,
           "index": 1
         },
         {
-          "text": "di origine glaciale",
+          "text": "Di origine glaciale",
           "correct": true,
           "index": 2
         }
@@ -4433,7 +4433,7 @@
           "index": 1
         },
         {
-          "text": "il torace che si solleva ritmicamente",
+          "text": "Il torace che si solleva ritmicamente",
           "correct": false,
           "index": 2
         }
@@ -4472,7 +4472,7 @@
       "category": "Attività umane e produttive",
       "explanation": "La disponibilità di acqua forniva energia e risorse ai primi insediamenti industriali nelle valli alpine.",
       "references": [],
-      "question": "Perchè in molti casi le prime industrie si svilupparono nelle valli alpine?",
+      "question": "Perché in molti casi le prime industrie si svilupparono nelle valli alpine?",
       "answers": [
         {
           "text": "Costo inferiore del lavoro",
@@ -4480,12 +4480,12 @@
           "index": 0
         },
         {
-          "text": "minori limitazioni burocratiche",
+          "text": "Minori limitazioni burocratiche",
           "correct": false,
           "index": 1
         },
         {
-          "text": "per la disponibilità di acqua, fondamentale per le attività industriali",
+          "text": "Per la disponibilità di acqua, fondamentale per le attività industriali",
           "correct": true,
           "index": 2
         }
@@ -4507,17 +4507,17 @@
       "question": "Il fiore:",
       "answers": [
         {
-          "text": "è caratteristico delle angiosperme",
+          "text": "È caratteristico delle angiosperme",
           "correct": true,
           "index": 0
         },
         {
-          "text": "è caratteristico delle gimnosperme",
+          "text": "È caratteristico delle gimnosperme",
           "correct": false,
           "index": 1
         },
         {
-          "text": "presente sia in angiosperme che in gimnosperme",
+          "text": "Presente sia in angiosperme che in gimnosperme",
           "correct": false,
           "index": 2
         }
@@ -5400,7 +5400,7 @@
           "page": 11
         }
       ],
-      "question": "Quale percorso collega il Canale Cavour?",
+      "question": "Quale percorso segue il Canale Cavour?",
       "answers": [
         {
           "text": "Il Po presso Chivasso con il Ticino nell'area di Galliate",
@@ -5848,7 +5848,7 @@
           "page": 2
         }
       ],
-      "question": "Qual è il vantaggio del metodo del filo per misurare un sentiero in carta?",
+      "question": "Qual è il vantaggio del metodo del filo per misurare un sentiero sulla carta?",
       "answers": [
         {
           "text": "Segue le curve del tracciato meglio di una distanza in linea retta",
@@ -10392,7 +10392,7 @@
           "page": 40
         }
       ],
-      "question": "Quale gruppo comprende valli di tradizione francoprovenzale nel Piemonte?",
+      "question": "Quale gruppo comprende valli di tradizione francoprovenzale in Piemonte?",
       "answers": [
         {
           "text": "Val Soana, Valle Orco e Valli di Lanzo",
@@ -12728,7 +12728,7 @@
           "page": 15
         }
       ],
-      "question": "Quali tre informazioni essenziali deve rendere chiare il sito di una guida?",
+      "question": "Quali tre informazioni essenziali devono essere chiare nel sito di una guida?",
       "answers": [
         {
           "text": "Chi è, quali escursioni propone e come prenotare",
@@ -12760,7 +12760,7 @@
           "page": 18
         }
       ],
-      "question": "Quale messaggio comunica meglio il valore esperienziale di un’uscita?",
+      "question": "Quale scelta comunica meglio il valore esperienziale di un’uscita?",
       "answers": [
         {
           "text": "Collegare ciò che si scoprirà ai benefici per il partecipante, includendo anche i dati pratici",
@@ -13138,7 +13138,7 @@
           "page": 19
         }
       ],
-      "question": "Quale ambiente caratterizza soprattutto il metamorfismo di contatto?",
+      "question": "Quale situazione è tipica del metamorfismo di contatto?",
       "answers": [
         {
           "text": "Le rocce vicine a un’intrusione magmatica riscaldate dal corpo intrusivo",
@@ -13173,7 +13173,7 @@
       "question": "Qual è la causa tipica del metamorfismo cataclastico?",
       "answers": [
         {
-          "text": "La deformazione e frantumazione delle rocce lungo faglie",
+          "text": "La deformazione e la frantumazione delle rocce lungo le faglie",
           "correct": true,
           "index": 0
         },
@@ -13685,17 +13685,17 @@
       "question": "Qual è la principale differenza strutturale tra serpentinite e serpentinoscisto?",
       "answers": [
         {
-          "text": "Lo serpentinoscisto presenta una scistosità marcata; la serpentinite può essere massiva",
+          "text": "Il serpentinoscisto presenta una scistosità marcata; la serpentinite può essere massiva",
           "correct": true,
           "index": 0
         },
         {
-          "text": "La serpentinite è una roccia sedimentaria e lo serpentinoscisto è un granito",
+          "text": "La serpentinite è una roccia sedimentaria e il serpentinoscisto è un granito",
           "correct": false,
           "index": 1
         },
         {
-          "text": "Lo serpentinoscisto contiene soltanto quarzo, la serpentinite soltanto calcite",
+          "text": "Il serpentinoscisto contiene soltanto quarzo, la serpentinite soltanto calcite",
           "correct": false,
           "index": 2
         }
@@ -13762,6 +13762,1467 @@
           "text": "Che non vi siano stati processi tettonici",
           "correct": false,
           "index": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-001",
+      "source": "Classroom/aggiunti3 · Catalogo_Anfibi_23_Schede_FINALE.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quali anfibi appartengono al gruppo degli apodi?",
+      "answers": [
+        {
+          "text": "Le cecilie, dal corpo allungato e prive di arti",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Le raganelle adulte, dotate di quattro arti",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Le salamandre adulte, dotate di coda e arti",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Gli apodi o gimnofioni comprendono le cecilie. Il nome richiama l’assenza di arti.",
+      "references": [
+        {
+          "drive_id": "1G2965gYj78NNnoVEoBFmlAVvK4ktbBYZ",
+          "title": "Catalogo_Anfibi_23_Schede_FINALE.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-002",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale forma ha normalmente la pupilla del rospo comune?",
+      "answers": [
+        {
+          "text": "Orizzontale",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Verticale come una fessura",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "A stella con cinque punte",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il rospo comune presenta tipicamente iride ramata e pupilla orizzontale; il riconoscimento considera più caratteri insieme.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-003",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Nel rospo comune, come differiscono generalmente le dimensioni dei sessi?",
+      "answers": [
+        {
+          "text": "Le femmine sono mediamente più grandi dei maschi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "I maschi sono sempre il doppio delle femmine",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Maschi e femmine hanno obbligatoriamente identiche dimensioni",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il dimorfismo dimensionale del rospo comune vede in genere femmine di taglia maggiore.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-004",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Che cos’è l’amplesso negli anuri?",
+      "answers": [
+        {
+          "text": "L’abbraccio con cui il maschio si mantiene sulla femmina durante la riproduzione",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La trasformazione del girino in adulto",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una capsula che racchiude gli spermatozoi",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Nell’amplesso il maschio trattiene la femmina. In molte rane e nei rospi questo comportamento accompagna la deposizione e la fecondazione esterna.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-005",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Dove avviene normalmente la fecondazione delle uova nel rospo comune?",
+      "answers": [
+        {
+          "text": "All’esterno del corpo della femmina, durante la deposizione",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Nell’utero, con nascita di piccoli completamente metamorfosati",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Nel terreno asciutto dopo la schiusa",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Nel rospo comune la fecondazione è esterna: il maschio libera gli spermatozoi mentre la femmina depone le uova.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-006",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Perché molti rospi attraversano le strade in primavera ad Avigliana?",
+      "answers": [
+        {
+          "text": "Per raggiungere le zone umide di riproduzione dai rifugi terrestri",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Per cercare asfalto caldo come unico luogo di deposizione",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Per trasferirsi stabilmente nei centri abitati",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Le migrazioni riproduttive collegano habitat terrestri e acquatici; le strade che li separano espongono gli animali agli investimenti.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-007",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale combinazione rende efficace un rospodotto?",
+      "answers": [
+        {
+          "text": "Barriere che guidano gli anfibi verso passaggi sicuri sotto la strada",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Un sottopasso isolato senza collegamenti agli habitat",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "L’eliminazione delle zone umide lungo la strada",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Le barriere impediscono l’accesso diretto alla carreggiata e convogliano gli anfibi verso il sottopasso. Fonte di riscontro: progetto SOS Anfibi delle Aree Protette Alpi Cozie.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-008",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale struttura aiuta le raganelle ad aderire alla vegetazione?",
+      "answers": [
+        {
+          "text": "I dischi adesivi sulle estremità delle dita",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Un guscio rigido attorno al corpo",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Un paio di ali membranose",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Le raganelle sono arrampicatrici e possiedono dischi digitali adesivi che facilitano l’adesione ai supporti.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-009",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale ruolo può avere una larva di libellula in uno stagno?",
+      "answers": [
+        {
+          "text": "Quello di predatore di piccoli animali acquatici, comprese larve di anfibi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Quello di produttore fotosintetico",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Quello di semplice filtro privo di apparato boccale",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Le larve di libellula sono predatrici; a seconda di specie e dimensioni possono catturare anche larve di anfibi.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-010",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Perché il riconoscimento delle rane verdi può essere complesso?",
+      "answers": [
+        {
+          "text": "Il gruppo comprende specie e forme ibride con caratteri morfologici simili",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Tutte le rane verdi appartengono necessariamente a una sola specie identica ovunque",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il colore verde identifica sempre con certezza il sesso",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il complesso delle rane verdi del genere Pelophylax comprende anche forme ibride; il solo colore non consente identificazioni sicure.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-011",
+      "source": "Classroom/aggiunti3 · Catalogo_Anfibi_23_Schede_FINALE.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale carattere permette di distinguere una larva di salamandra pezzata da un piccolo di salamandra di Lanza appena nato?",
+      "answers": [
+        {
+          "text": "La larva di salamandra pezzata ha branchie esterne e conduce vita acquatica",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il piccolo di salamandra di Lanza nasce normalmente con pinne da pesce",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La larva di salamandra pezzata è già un adulto senza branchie",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La salamandra pezzata depone normalmente larve acquatiche branchiate; la salamandra di Lanza partorisce piccoli già metamorfosati.",
+      "references": [
+        {
+          "drive_id": "1G2965gYj78NNnoVEoBFmlAVvK4ktbBYZ",
+          "title": "Catalogo_Anfibi_23_Schede_FINALE.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-012",
+      "source": "Classroom/aggiunti3 · Catalogo_Anfibi_23_Schede_FINALE.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Come depongono normalmente le uova i tritoni descritti nel catalogo?",
+      "answers": [
+        {
+          "text": "Singolarmente, spesso su foglie di piante acquatiche",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "In cordoni lunghi diversi metri, come i rospi",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "In nidi di rami costruiti sugli alberi",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Molti tritoni depongono le uova una alla volta, associandole alla vegetazione acquatica e spesso ripiegando una foglia.",
+      "references": [
+        {
+          "drive_id": "1G2965gYj78NNnoVEoBFmlAVvK4ktbBYZ",
+          "title": "Catalogo_Anfibi_23_Schede_FINALE.pdf",
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-013",
+      "source": "Classroom/aggiunti3 · Catalogo_Anfibi_23_Schede_FINALE.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Che cosa accade nel mimetismo batesiano?",
+      "answers": [
+        {
+          "text": "Una specie relativamente innocua assomiglia a una specie dotata di difese efficaci",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Due organismi si scambiano obbligatoriamente nutrienti",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Un organismo modifica il DNA per diventare un’altra specie",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il mimetismo batesiano sfrutta la somiglianza con un modello difeso o sgradevole. È distinto dalla semplice funzione di avvertimento della colorazione aposematica.",
+      "references": [
+        {
+          "drive_id": "1G2965gYj78NNnoVEoBFmlAVvK4ktbBYZ",
+          "title": "Catalogo_Anfibi_23_Schede_FINALE.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-014",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale rischio comporta il prosciugamento precoce di una pozza in cui si sviluppano girini?",
+      "answers": [
+        {
+          "text": "Le larve possono morire prima di completare la metamorfosi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Tutti i girini diventano immediatamente adulti terrestri",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Le uova si trasformano automaticamente in semi resistenti alla siccità",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La fase larvale acquatica richiede che il sito mantenga condizioni idonee fino alla metamorfosi. Un prosciugamento troppo precoce può impedire il completamento dello sviluppo.",
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-015",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Che cosa caratterizza un dente aglifo?",
+      "answers": [
+        {
+          "text": "È privo di solchi e canali specializzati per veicolare il veleno",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "È una zanna anteriore cava e ripiegabile",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "È sempre un dente posteriore solcato",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La dentizione aglifa è definita dall’assenza di una struttura specializzata per la conduzione del veleno nel dente.",
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-016",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Dove si trovano i denti specializzati nella dentizione opistoglifa?",
+      "answers": [
+        {
+          "text": "Nella parte posteriore della mascella",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Solo sulla punta della lingua",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Esclusivamente all’esterno delle labbra",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "I serpenti opistoglifi hanno denti posteriori ingranditi e solcati, associati all’apparato velenifero.",
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-017",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Perché la sola forma della pupilla non basta a riconoscere con certezza una vipera?",
+      "answers": [
+        {
+          "text": "Esistono eccezioni e il riconoscimento richiede più caratteri e il contesto geografico",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Tutti i serpenti hanno una pupilla identica",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La pupilla indica soltanto l’età esatta in anni",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Nel materiale è citato il serpente gatto come eccezione con pupilla verticale. Anche una pupilla rotonda non dimostra da sola l’assenza di un apparato velenifero.",
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-018",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Che cosa significa che una squama è carenata?",
+      "answers": [
+        {
+          "text": "Presenta un rilievo longitudinale simile a una piccola cresta",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "È completamente assente dalla pelle",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "È un pelo rigido trasformato",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La carena è un rilievo sulla superficie della squama. Le squame carenate non sono esclusive delle vipere.",
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-019",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Che cosa indica il melanismo in un serpente?",
+      "answers": [
+        {
+          "text": "Una colorazione molto scura dovuta a un’elevata pigmentazione",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La perdita obbligatoria di tutti i denti",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La trasformazione stagionale in un anfibio",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il melanismo riguarda la pigmentazione; una colorazione nera non consente da sola di stabilire specie o pericolosità.",
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-020",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale carattere del muso è tipico di Vipera aspis?",
+      "answers": [
+        {
+          "text": "Il profilo lievemente rivolto verso l’alto",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Un becco corneo simile a quello degli uccelli",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una proboscide mobile lunga quanto il corpo",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Vipera aspis presenta tipicamente un muso leggermente rialzato. Il riconoscimento richiede comunque l’insieme dei caratteri.",
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-021",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale struttura dà il nome comune a Vipera ammodytes?",
+      "answers": [
+        {
+          "text": "Una piccola appendice simile a un corno sulla punta del muso",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Due palchi ramificati sopra gli occhi",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una cresta dorsale di penne",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La vipera dal corno possiede una caratteristica appendice apicale sul muso, composta da squame.",
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-022",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale gruppo di prede è particolarmente importante nella dieta di Vipera ursinii?",
+      "answers": [
+        {
+          "text": "Gli ortotteri, come cavallette e grilli",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Esclusivamente i pesci di grandi dimensioni",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Soltanto i frutti degli alberi",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La vipera di Orsini ha una dieta con una forte componente di ortotteri; non occorre attribuire una percentuale universale a tutte le popolazioni.",
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-023",
+      "source": "Classroom/aggiunti3 · Tanatosi_domanda aperta esame.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Che cosa si intende per autoemorrea tra i comportamenti difensivi di alcuni animali?",
+      "answers": [
+        {
+          "text": "L’emissione di sangue come parte della risposta difensiva",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La produzione di uova prive di guscio",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il ricambio periodico della pelle",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "In alcuni serpenti l’autoemorrea può accompagnare la tanatosi. È un comportamento documentato, per esempio, in Natrix tessellata; non è obbligatorio in tutte le natrici.",
+      "references": [
+        {
+          "drive_id": "132nFCwiTIBx_ZctaLiH2YohNXu6iMNKg",
+          "title": "Tanatosi_domanda aperta esame.pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-024",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Durante un’uscita, qual è il modo appropriato di osservare un serpente non identificato?",
+      "answers": [
+        {
+          "text": "Mantenere la distanza e lasciare libero lo spazio per la fuga",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Afferrarlo per controllare da vicino la pupilla",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Bloccarlo contro il terreno per aprirgli la bocca",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La guida può osservare e descrivere i caratteri visibili a distanza senza catturare o provocare l’animale. I caratteri anatomici del catalogo servono allo studio, non giustificano la manipolazione.",
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-025",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Che cosa misura l’albedo di una superficie?",
+      "answers": [
+        {
+          "text": "La frazione di radiazione solare incidente che viene riflessa",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La pressione dell’aria espressa in hPa",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La velocità di evaporazione espressa in chilometri orari",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Una superficie con albedo elevata riflette una quota maggiore della radiazione incidente; la neve fresca è un esempio tipico.",
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Glossario: albedo"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-026",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Quale passaggio di stato forma direttamente i cristalli di brina?",
+      "answers": [
+        {
+          "text": "Il passaggio dal vapore acqueo al ghiaccio",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il passaggio dal ghiaccio al vapore",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La trasformazione di acqua liquida in gas",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La brina si deposita per brinamento su superfici sufficientemente fredde, senza una fase liquida intermedia.",
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Fenomeni freddi: punto di rugiada e punto di brina"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-027",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Come si forma tipicamente la galaverna?",
+      "answers": [
+        {
+          "text": "Le goccioline di nebbia sopraffusa gelano sulle superfici che incontrano",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "I granelli di sabbia si saldano per effetto del vento caldo",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il vapore si condensa in acqua che resta sempre liquida",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La galaverna è un deposito di ghiaccio dovuto al congelamento di goccioline sopraffuse. Si distingue dalla brina formata direttamente dal vapore.",
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Fenomeni freddi: galaverna"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-028",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Quale fenomeno può formare un rivestimento liscio di ghiaccio sulle strade?",
+      "answers": [
+        {
+          "text": "La pioggia congelantesi che gela al contatto con una superficie fredda",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La sola presenza di vento caldo e asciutto",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La rugiada che rimane liquida a temperatura positiva",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La pioggia congelantesi può creare vetrone o gelicidio, spesso poco visibile e molto scivoloso.",
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Fenomeni freddi: pioggia congelantesi e gelicidio"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-029",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Perché l’aria che scende sul versante sottovento durante il föhn tende a riscaldarsi?",
+      "answers": [
+        {
+          "text": "Per la compressione dovuta all’aumento della pressione durante la discesa",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Perché attraversa necessariamente un vulcano attivo",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Perché la pressione diminuisce mentre scende",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La discesa comprime l’aria e ne aumenta la temperatura. Il fenomeno è descritto anche nelle slide Meteorologia del corso, sezione Stau e Foehn.",
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Dinamica: Föhn"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-030",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Quale simbolo identifica normalmente un fronte freddo su una carta meteorologica?",
+      "answers": [
+        {
+          "text": "Una linea con triangoli rivolti nella direzione di avanzamento",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Una linea con soli semicerchi",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Un cerchio con il numero della quota di una montagna",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "I triangoli, normalmente blu, indicano un fronte freddo e la direzione di avanzamento.",
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Dinamica: fronte freddo"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-031",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Quale simbolo identifica normalmente un fronte caldo su una carta meteorologica?",
+      "answers": [
+        {
+          "text": "Una linea con semicerchi rivolti nella direzione di avanzamento",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Una linea con soli triangoli",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una curva di livello con quota 1.000 m",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "I semicerchi, normalmente rossi, sono il simbolo del fronte caldo.",
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Dinamica: fronte caldo"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-032",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Perché una superficie può gelare anche se il termometro dell’aria a due metri indica +2 °C?",
+      "answers": [
+        {
+          "text": "La superficie può raffreddarsi per irraggiamento fino a una temperatura inferiore a quella dell’aria",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il ghiaccio si forma soltanto quando tutta la colonna atmosferica è sottozero",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La temperatura della superficie è sempre identica a quella misurata a due metri",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "In condizioni adatte il suolo e gli oggetti perdono calore e possono raggiungere temperature inferiori a quelle dell’aria misurata in capannina.",
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Fenomeni freddi: perché ghiaccia la strada a +2 °C?"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-033",
+      "source": "Classroom/aggiunti3 · guida-unica-fix-finale (1).html",
+      "topic": "cartografia",
+      "category": "Cartografia, topografia e orientamento",
+      "question": "A quale inclinazione corrisponde una pendenza del 100%?",
+      "answers": [
+        {
+          "text": "45°",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "90°",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "10°",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La pendenza percentuale è 100 × dislivello / distanza orizzontale. Se i due valori sono uguali, l’angolo è di 45°.",
+      "references": [
+        {
+          "drive_id": "15dBly5Us13g9jrkr3V_ktAtj8aQYNVzu",
+          "title": "guida-unica-fix-finale (1).html",
+          "page": null,
+          "section": "Pendenza: errore comune sul 100%"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-034",
+      "source": "Classroom/aggiunti3 · guida-unica-fix-finale (1).html",
+      "topic": "cartografia",
+      "category": "Cartografia, topografia e orientamento",
+      "question": "In una valle, verso dove punta generalmente la V formata dalle curve di livello che attraversano un impluvio?",
+      "answers": [
+        {
+          "text": "Verso monte, cioè verso quote più alte",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Sempre verso il sud geografico",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Necessariamente verso il punto più basso della carta",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La V delle isoipse nell’impluvio punta normalmente verso monte. Le quote e il reticolo idrografico aiutano a confermare la lettura.",
+      "references": [
+        {
+          "drive_id": "15dBly5Us13g9jrkr3V_ktAtj8aQYNVzu",
+          "title": "guida-unica-fix-finale (1).html",
+          "page": null,
+          "section": "Curve di livello: valle e impluvio"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-035",
+      "source": "Classroom/aggiunti3 · guida-unica-fix-finale (1).html",
+      "topic": "cartografia",
+      "category": "Cartografia, topografia e orientamento",
+      "question": "Come si determina la destra orografica di un corso d’acqua?",
+      "answers": [
+        {
+          "text": "Guardando nella direzione in cui scorre l’acqua verso valle",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Guardando sempre verso nord",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Guardando verso la sorgente",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Destra e sinistra orografica si definiscono volgendo lo sguardo verso valle, nel senso del deflusso.",
+      "references": [
+        {
+          "drive_id": "15dBly5Us13g9jrkr3V_ktAtj8aQYNVzu",
+          "title": "guida-unica-fix-finale (1).html",
+          "page": null,
+          "section": "Esposizione e lettura della valle"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-036",
+      "source": "Classroom/aggiunti3 · guida-unica-fix-finale (1).html",
+      "topic": "cartografia",
+      "category": "Cartografia, topografia e orientamento",
+      "question": "In un file GPX, quale elemento contiene normalmente i punti di una traccia registrata?",
+      "answers": [
+        {
+          "text": "trk, con segmenti e punti trkpt",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Solo il campo che contiene il nome dell’autore",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Una fotografia JPEG senza coordinate",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il GPX è un formato XML: le tracce usano trk/trkseg/trkpt, mentre wpt rappresenta un waypoint e rte una rotta.",
+      "references": [
+        {
+          "drive_id": "15dBly5Us13g9jrkr3V_ktAtj8aQYNVzu",
+          "title": "guida-unica-fix-finale (1).html",
+          "page": null,
+          "section": "Traccia GPX: wpt, trk e rte"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-037",
+      "source": "Classroom/aggiunti3 · guida-unica-fix-finale (1).html",
+      "topic": "cartografia",
+      "category": "Cartografia, topografia e orientamento",
+      "question": "Che cosa significa che un versante alpino è solatio?",
+      "answers": [
+        {
+          "text": "È più esposto al sole rispetto al versante in ombra nelle stesse condizioni",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "È necessariamente pianeggiante",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "È sempre privo di neve e di ghiaccio",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Solatio o adret indica un’esposizione favorevole all’insolazione. La presenza di neve dipende anche da quota, stagione, pendenza e condizioni meteorologiche.",
+      "references": [
+        {
+          "drive_id": "15dBly5Us13g9jrkr3V_ktAtj8aQYNVzu",
+          "title": "guida-unica-fix-finale (1).html",
+          "page": null,
+          "section": "Esposizione: solatio e inverso"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-038",
+      "source": "Classroom/aggiunti3 · aree_protette_del_piemonte.html",
+      "topic": "parchi",
+      "category": "Aree protette",
+      "question": "Quale zona umida fa parte del sistema naturale dei Laghi di Avigliana?",
+      "answers": [
+        {
+          "text": "La Palude dei Mareschi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La laguna di Venezia",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il delta del Rodano",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La Palude dei Mareschi è uno degli ambienti caratteristici del Parco naturale dei Laghi di Avigliana.",
+      "references": [
+        {
+          "drive_id": "1nM19Ib9akSauCq8bblIr5MmW_NxdVLJG",
+          "title": "aree_protette_del_piemonte.html",
+          "page": null,
+          "section": "Avigliana: i tre ecosistemi"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-039",
+      "source": "Classroom/aggiunti3 · aree_protette_del_piemonte.html",
+      "topic": "geografia",
+      "category": "Geografia del Piemonte",
+      "question": "Quale origine hanno i rilievi che circondano i Laghi di Avigliana?",
+      "answers": [
+        {
+          "text": "Sono legati all’anfiteatro morenico costruito dall’antico ghiacciaio valsusino",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Sono coni di vulcani oggi attivi",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Sono dune costiere formate dal mare attuale",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Depositi e forme glaciali caratterizzano l’anfiteatro morenico di Rivoli-Avigliana.",
+      "references": [
+        {
+          "drive_id": "1nM19Ib9akSauCq8bblIr5MmW_NxdVLJG",
+          "title": "aree_protette_del_piemonte.html",
+          "page": null,
+          "section": "Avigliana: origine glaciale e anfiteatro morenico"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-040",
+      "source": "Classroom/aggiunti3 · aree_protette_del_piemonte.html",
+      "topic": "parchi",
+      "category": "Aree protette",
+      "question": "Quale ente gestisce il Parco naturale dei Laghi di Avigliana?",
+      "answers": [
+        {
+          "text": "L’Ente di gestione delle Aree Protette delle Alpi Cozie",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "L’Ente Parco Nazionale del Vesuvio",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "L’Ente Parco Nazionale dell’Arcipelago Toscano",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il Parco dei Laghi di Avigliana appartiene alle Aree Protette delle Alpi Cozie; il dato è verificato sul sito istituzionale dell’ente.",
+      "references": [
+        {
+          "drive_id": "1nM19Ib9akSauCq8bblIr5MmW_NxdVLJG",
+          "title": "aree_protette_del_piemonte.html",
+          "page": null,
+          "section": "Avigliana: ente gestore"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-041",
+      "source": "Classroom/aggiunti3 · aree_protette_del_piemonte.html",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Quale caratteristica della nidificazione è tipica dello svasso maggiore?",
+      "answers": [
+        {
+          "text": "Un nido galleggiante o ancorato alla vegetazione acquatica",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Un nido scavato esclusivamente nel ghiaccio perenne",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La deposizione obbligatoria delle uova sulle pareti di grotte asciutte",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Lo svasso maggiore costruisce un nido di materiale vegetale nell’ambiente acquatico, spesso tra la vegetazione emergente.",
+      "references": [
+        {
+          "drive_id": "1nM19Ib9akSauCq8bblIr5MmW_NxdVLJG",
+          "title": "aree_protette_del_piemonte.html",
+          "page": null,
+          "section": "Avifauna: svasso maggiore"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-042",
+      "source": "Classroom/aggiunti3 · aree_protette_del_piemonte.html",
+      "topic": "parchi",
+      "category": "Aree protette",
+      "question": "Come si rapportano una ZSC e un parco naturale?",
+      "answers": [
+        {
+          "text": "Possono sovrapporsi, ma sono strumenti di tutela distinti",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Sono sempre due nomi della stessa identica categoria amministrativa",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La presenza di una ZSC impedisce per definizione l’istituzione di un parco",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La rete Natura 2000 e il sistema dei parchi hanno basi e finalità specifiche; uno stesso territorio può ricadere in entrambi.",
+      "references": [
+        {
+          "drive_id": "1nM19Ib9akSauCq8bblIr5MmW_NxdVLJG",
+          "title": "aree_protette_del_piemonte.html",
+          "page": null,
+          "section": "Rete Natura 2000 e Parco dei Laghi di Avigliana"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-043",
+      "source": "Classroom/aggiunti3 · mappa_alpi_occidentali_cime.html",
+      "topic": "geografia",
+      "category": "Geografia del Piemonte",
+      "question": "Quale valico separa le Alpi Liguri dalle Alpi Marittime nella suddivisione richiamata dalla mappa?",
+      "answers": [
+        {
+          "text": "Il Colle di Tenda",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il Passo del Sempione",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il Colle del Piccolo San Bernardo",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il Colle di Tenda è il limite tra Alpi Liguri e Marittime nella suddivisione riportata dal materiale.",
+      "references": [
+        {
+          "drive_id": "1-vqlUg4rOuqxVXyRUMMC-yQT5a9hXPp_",
+          "title": "mappa_alpi_occidentali_cime.html",
+          "page": null,
+          "section": "Alpi Liguri e Alpi Marittime"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-044",
+      "source": "Classroom/aggiunti3 · mappa_alpi_occidentali_cime.html",
+      "topic": "geografia",
+      "category": "Geografia del Piemonte",
+      "question": "Quale vetta rappresenta il punto culminante del massiccio del Monte Rosa?",
+      "answers": [
+        {
+          "text": "La Punta Dufour",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "La Punta Marguareis",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il Monte Saccarello",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La Punta Dufour è la cima più elevata del Monte Rosa. Si evita qui di usare quote arrotondate o variabili come criterio della risposta.",
+      "references": [
+        {
+          "drive_id": "1-vqlUg4rOuqxVXyRUMMC-yQT5a9hXPp_",
+          "title": "mappa_alpi_occidentali_cime.html",
+          "page": null,
+          "section": "Alpi Pennine: Monte Rosa"
+        }
+      ]
+    },
+    {
+      "id": "GEA-C-20261015-045",
+      "source": "Classroom/aggiunti3 · mappa_alpi_occidentali_cime.html",
+      "topic": "geografia",
+      "category": "Geografia del Piemonte",
+      "question": "Quale valico è associato alla separazione tradizionale fra Alpi e Appennini?",
+      "answers": [
+        {
+          "text": "La Bocchetta di Altare, comunemente richiamata anche come Colle di Cadibona",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il Colle del Moncenisio",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il Passo dello Stelvio",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il limite convenzionale fra Alpi e Appennini è posto presso la Bocchetta di Altare nel settore ligure.",
+      "references": [
+        {
+          "drive_id": "1-vqlUg4rOuqxVXyRUMMC-yQT5a9hXPp_",
+          "title": "mappa_alpi_occidentali_cime.html",
+          "page": null,
+          "section": "Alpi Liguri: Bocchetta di Altare e Cadibona"
         }
       ]
     }
@@ -14144,7 +15605,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Qual è la caratteristica tipica dei mammiferi sempre presente almeno in una fase della propria vita?",
+      "question": "Quale caratteristica dei mammiferi è presente almeno in una fase della loro vita?",
       "keys": [
         "Presenza di peli/pelo, anche solo in fase embrionale/giovanile in alcune specie (es. cetacei)",
         "Ghiandole mammarie per l'allattamento"
@@ -14253,7 +15714,7 @@
       "probable": false,
       "certain": false,
       "probableSource": "",
-      "question": "Quali specie arboree incontreresti, in ordine di quota, salendo da 500 a 1.500 m su un versante della Valle di Susa o della Val Chisone?",
+      "question": "Quali specie arboree incontreresti, in ordine di quota, salendo da 500 a 1.500 m sul versante orografico destro della Valle di Susa o della Val Chisone?",
       "keys": [
         "500-800 m: castagno, roverella, orniello",
         "800-1200 m: faggio, in transizione con le conifere",
@@ -16660,6 +18121,11 @@
           "drive_id": "1bNLgh9brLNozoe5-i6fwi2AHt8mgz6wd",
           "title": "I RETTILI - LEZIONE 5.pdf",
           "page": 28
+        },
+        {
+          "drive_id": "132nFCwiTIBx_ZctaLiH2YohNXu6iMNKg",
+          "title": "Tanatosi_domanda aperta esame.pdf",
+          "page": 1
         }
       ],
       "probable": true,
@@ -16746,6 +18212,185 @@
         "Calcescisto: da sedimenti carbonatici argillosi; calcite, quarzo e miche, frequentemente scistoso.",
         "Indica che la sola colorazione non basta: osserva anche mineralogia, tessitura e contesto geologico."
       ],
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
+    },
+    {
+      "id": "GEA-O-20261015-001",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Confronta rane, rospi e raganelle descrivendo riproduzione, deposizione delle uova e rapporto con la vegetazione acquatica.",
+      "keys": [
+        "Molti anuri hanno fecondazione esterna associata all’amplesso.",
+        "Nei rospi sono tipici i cordoni gelatinosi; nelle rane sono frequenti ammassi di uova.",
+        "Le raganelle depongono piccoli ammassi associati alla vegetazione; evitane un conteggio fisso valido per tutte le specie.",
+        "I dischi digitali delle raganelle aiutano l’adesione ai supporti.",
+        "Collega la riproduzione alla conservazione delle zone umide."
+      ],
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 2
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
+    },
+    {
+      "id": "GEA-O-20261015-002",
+      "source": "Classroom/aggiunti3 · Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Spiega perché il rospodotto di Avigliana è un intervento di connessione ecologica e descrivi come funziona.",
+      "keys": [
+        "I rospi utilizzano habitat terrestri e si spostano verso zone umide per riprodursi.",
+        "La strada può interrompere il collegamento e causare mortalità.",
+        "Barriere e sottopassi devono funzionare insieme per guidare gli animali.",
+        "Conservazione degli habitat e manutenzione dei passaggi sono complementari.",
+        "Una guida osserva senza disturbare e segue le indicazioni dell’ente gestore."
+      ],
+      "references": [
+        {
+          "drive_id": "1zat6MhAtxpZedgliUpi1T5dd19Yb8D8R",
+          "title": "Catalogo_ANFIBI_FINALE_15_Schede_COMPLETO_Verificato.pdf",
+          "page": 1
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
+    },
+    {
+      "id": "GEA-O-20261015-003",
+      "source": "Classroom/aggiunti3 · Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+      "topic": "zoologia",
+      "category": "Zoologia ed etologia animale",
+      "question": "Come spiegheresti a un gruppo il riconoscimento dei serpenti evitando regole assolute e manipolazioni?",
+      "keys": [
+        "Considera più caratteri: proporzioni del corpo, muso, squame, pupilla e distribuzione geografica.",
+        "La forma della pupilla e il colore non bastano da soli; esistono eccezioni.",
+        "Distingui, per lo studio anatomico, dentizione aglifa, opistoglifa e solenoglifa.",
+        "Non catturare né avvicinare il viso all’animale per controllarne i caratteri.",
+        "Mantieni la distanza e lascia uno spazio di fuga."
+      ],
+      "references": [
+        {
+          "drive_id": "1buUkaDHn3_8lnGbClwMlNZbfVKGpIyZ6",
+          "title": "Distinzione_Vipere_vs_Colubri_Natrici_FINALE_CHIUSO.pdf",
+          "page": 5
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
+    },
+    {
+      "id": "GEA-O-20261015-004",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Distingui brina, galaverna e gelicidio e spiega perché sono rilevanti durante un’escursione.",
+      "keys": [
+        "Brina: deposizione di ghiaccio direttamente dal vapore su una superficie fredda.",
+        "Galaverna: congelamento di goccioline di nebbia sopraffusa sulle superfici.",
+        "Gelicidio o vetrone: ghiaccio liscio che può formarsi con pioggia congelantesi.",
+        "La temperatura dell’aria a due metri non coincide necessariamente con quella del terreno.",
+        "Valuta visibilità, aderenza e possibilità di modificare il percorso in base alle condizioni."
+      ],
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Fenomeni freddi"
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
+    },
+    {
+      "id": "GEA-O-20261015-005",
+      "source": "Classroom/aggiunti3 · guida-unica-fix-finale (1).html",
+      "topic": "cartografia",
+      "category": "Cartografia, topografia e orientamento",
+      "question": "Leggi una carta topografica distinguendo vetta, impluvio, cresta e sella attraverso le curve di livello.",
+      "keys": [
+        "Verifica prima legenda, equidistanza e quote.",
+        "Curve chiuse con quote crescenti verso l’interno possono indicare una vetta; controlla eventuali depressioni.",
+        "Nell’impluvio la V delle curve tende a puntare verso monte.",
+        "Cresta e sella si riconoscono dal disegno complessivo delle curve e dall’andamento delle quote.",
+        "Non confondere il numero di curve con il numero di intervalli altimetrici."
+      ],
+      "references": [
+        {
+          "drive_id": "15dBly5Us13g9jrkr3V_ktAtj8aQYNVzu",
+          "title": "guida-unica-fix-finale (1).html",
+          "page": null,
+          "section": "Curve di livello: cinque regole"
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
+    },
+    {
+      "id": "GEA-O-20261015-006",
+      "source": "Classroom/aggiunti3 · aree_protette_del_piemonte.html",
+      "topic": "geografia",
+      "category": "Geografia del Piemonte",
+      "question": "Presenta il sistema naturale dei Laghi di Avigliana collegando origine glaciale, ambienti e tutela.",
+      "keys": [
+        "Anfiteatro morenico di Rivoli-Avigliana e azione dell’antico ghiacciaio valsusino.",
+        "Due bacini lacustri, colline moreniche e Palude dei Mareschi.",
+        "Canneti, vegetazione acquatica e ambienti forestali sostengono una fauna diversificata.",
+        "Parco naturale e sito Natura 2000 sono strumenti distinti che possono sovrapporsi.",
+        "La gestione fa capo alle Aree Protette delle Alpi Cozie."
+      ],
+      "references": [
+        {
+          "drive_id": "1nM19Ib9akSauCq8bblIr5MmW_NxdVLJG",
+          "title": "aree_protette_del_piemonte.html",
+          "page": null,
+          "section": "Approfondimento Avigliana"
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
+      "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
+    },
+    {
+      "id": "GEA-O-20261015-007",
+      "source": "Classroom/aggiunti3 · meteorologia (1).html",
+      "topic": "meteo",
+      "category": "Meteorologia, climatologia e nivologia",
+      "question": "Descrivi come nasce il föhn e quali cambiamenti puoi osservare sul versante sottovento di una catena montuosa.",
+      "keys": [
+        "L’aria è costretta a superare la barriera montuosa.",
+        "Durante la salita si espande e si raffredda; in determinate condizioni condensa e può precipitare.",
+        "Durante la discesa si comprime e si riscalda.",
+        "La temperatura può aumentare e l’umidità relativa diminuire sul versante sottovento.",
+        "Intensità e andamento dipendono dalla situazione meteorologica: evita aumenti di temperatura fissi e universali."
+      ],
+      "references": [
+        {
+          "drive_id": "1H_dxYH8wmRU7WfvxekZCVBSQ0kbEKnQo",
+          "title": "meteorologia (1).html",
+          "page": null,
+          "section": "Dinamica: Föhn"
+        }
+      ],
+      "probable": false,
+      "certain": false,
+      "probableSource": "",
       "note": "Traccia di ripasso dal nuovo materiale; non indicata come sicura."
     }
   ]

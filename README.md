@@ -1,6 +1,6 @@
-# Simulatore GEA PWA — versione 5.13
+# Simulatore GEA PWA — versione 5.14
 
-Banca JSON esterna inclusa nel pacchetto: **454 domande chiuse** e **123 domande aperte**, per un totale di **577 quesiti**.
+Banca JSON esterna inclusa nel pacchetto: **499 domande chiuse** e **130 domande aperte**, per un totale di **629 quesiti**.
 
 ## Pubblicazione su GitHub Pages
 
@@ -124,3 +124,14 @@ DB: `2026.10.13-1`. Pubblica anche `data/domande.json` e `sw.js`, premi **Aggior
 Corretti apostrofi, accenti, maiuscole, refusi OCR, concordanze e formulazioni tronche, soprattutto nelle prime 160 domande importate. Rese più leggibili le opzioni e alcune tracce aperte. Identificativi, ordine, argomenti e posizione della risposta corretta restano invariati. Le domande tratte da leggi sono ancora presentate come riferimento storico del corso: questa versione esegue una revisione linguistica, non un aggiornamento normativo o una validazione scientifica generale.
 
 DB `2026.10.13-2`. Prima di pubblicare esporta le eventuali modifiche locali; poi carica anche `data/domande.json` e `sw.js`, usa **Aggiorna** e **Aggiorna banca dati**.
+
+
+## Novità 5.14 — 15 ottobre 2026
+
+Aggiunte 45 domande chiuse e 7 aperte dai materiali di Classroom/aggiunti3. Le chiuse nuove sono 455–499; le aperte nuove 124–130. La domanda sicura sulla tanatosi mantiene ID e posizione 120, con una nuova fonte di approfondimento.
+
+Corretti altri refusi e problemi di concordanza, e riformulati i quesiti 44, 79 e 133 per eliminare contraddizioni o ambiguità nelle alternative. Conservati gli ID e l’ordine dei quesiti precedenti. Non vengono marcate come sicure le nuove tracce aperte.
+
+**Aggiornare anche il database:** esporta prima le modifiche personali, carica il contenuto del pacchetto sul sito, premi **Aggiorna** e poi **Aggiorna banca dati**. Se è impostato un JSON GitHub diverso da quello del progetto, pubblica le nuove domande anche in quel file o importa `data/domande.json`. Le modifiche locali con lo stesso ID continuano ad avere precedenza sui testi pubblicati.
+
+DB `2026.10.15-1`. Le fonti e il riepilogo dei controlli sono in `FONTI_E_REVISIONE_5.14.md`.
