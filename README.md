@@ -1,4 +1,4 @@
-# Simulatore GEA PWA — versione 5.17
+# Simulatore GEA PWA — versione 5.18
 
 Banca JSON esterna inclusa nel pacchetto: **528 domande chiuse** e **130 domande aperte**, per un totale di **658 quesiti**.
 
@@ -156,3 +156,9 @@ La banca resta invariata: **528 domande chiuse e 130 aperte, 658 totali**. **Agg
 Nella barra superiore sono disponibili i comandi **A−** e **A+** per regolare la dimensione del testo di domande, risposte e correzioni dall’80% al 160%. La percentuale scelta resta memorizzata sul dispositivo.
 
 L’estrazione applica ora un controllo finale obbligatorio di unicità: nello stesso test non possono comparire due domande con il medesimo ID o con lo stesso testo normalizzato. Il controllo copre estrazione proporzionale, casuale, per argomento, test mirato, domande prioritarie e test con quantità personalizzata. Se con i filtri scelti non esistono abbastanza domande uniche, il test non viene avviato con doppioni.
+
+## Novità 5.18 — 16 ottobre 2026
+
+Durante il test, il nuovo pulsante **Indice domande** permette di passare direttamente a qualsiasi quesito senza dover usare ripetutamente Precedente o Successiva. I numeri distinguono la domanda corrente, quelle già risposte e quelle ancora vuote.
+
+Il filtro **Solo non risposte** mostra immediatamente i quesiti da completare. La funzione è disponibile sia per le domande chiuse sia per quelle aperte; il salto conserva le risposte già inserite, la posizione e il salvataggio automatico della sessione.
