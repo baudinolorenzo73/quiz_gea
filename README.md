@@ -1,6 +1,6 @@
-# Simulatore GEA PWA — versione 5.14
+# Simulatore GEA PWA — versione 5.15
 
-Banca JSON esterna inclusa nel pacchetto: **499 domande chiuse** e **130 domande aperte**, per un totale di **629 quesiti**.
+Banca JSON esterna inclusa nel pacchetto: **528 domande chiuse** e **130 domande aperte**, per un totale di **658 quesiti**.
 
 ## Pubblicazione su GitHub Pages
 
@@ -135,3 +135,12 @@ Corretti altri refusi e problemi di concordanza, e riformulati i quesiti 44, 79 
 **Aggiornare anche il database:** esporta prima le modifiche personali, carica il contenuto del pacchetto sul sito, premi **Aggiorna** e poi **Aggiorna banca dati**. Se è impostato un JSON GitHub diverso da quello del progetto, pubblica le nuove domande anche in quel file o importa `data/domande.json`. Le modifiche locali con lo stesso ID continuano ad avere precedenza sui testi pubblicati.
 
 DB `2026.10.15-1`. Le fonti e il riepilogo dei controlli sono in `FONTI_E_REVISIONE_5.14.md`.
+
+
+## Novità 5.15 — 16 ottobre 2026
+
+Aggiunte **29 domande chiuse di botanica** dal file `Kahoot_Botanica_30_domande_risposte.md`. Le nuove domande occupano le posizioni 500–528; le aperte restano 130. Il quesito sull’ontano nero non è stato aggiunto perché già presente nella banca con lo stesso concetto.
+
+Le domande che nel Kahoot richiedevano più risposte sono state trasformate in quesiti con tre alternative e una sola risposta corretta. Sono stati corretti refusi e formulazioni improprie; in particolare `Larix decida` è diventato `Larix decidua`, l’internodo è definito come il tratto fra due nodi successivi e la definizione piemontese di bosco usa larghezza media e copertura arborea, non un’altezza minima di 20 metri.
+
+DB `2026.10.16-1`. Pubblica anche `data/domande.json` e `sw.js`, quindi usa **Aggiorna** e **Aggiorna banca dati**. Le modifiche locali con lo stesso ID continuano ad avere precedenza.

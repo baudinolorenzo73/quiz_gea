@@ -1,9 +1,9 @@
 {
   "format": "gea-question-bank",
   "version": 1,
-  "databaseVersion": "2026.10.15-1",
-  "updatedAt": "2026-10-15T06:08:03Z",
-  "appVersion": "5.14",
+  "databaseVersion": "2026.10.16-1",
+  "updatedAt": "2026-10-16T06:30:00Z",
+  "appVersion": "5.15",
   "closed": [
     {
       "id": "clefratturevannoimmobilizzatesempre|vannoimmobilizzatesoloincasodidolore|vannoimmobilizzatesoloquandoesposte",
@@ -15225,6 +15225,760 @@
           "section": "Alpi Liguri: Bocchetta di Altare e Cadibona"
         }
       ]
+    },
+    {
+      "id": "GEA-C-20261016-BOT-001",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 1",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Qual è la definizione corretta di albero?",
+      "answers": [
+        {
+          "text": "Pianta perenne con un fusto legnoso principale dal quale si sviluppano ramificazioni laterali",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Pianta annuale con più fusti erbacei che muoiono al termine della stagione vegetativa",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Pianta acquatica priva di fusto e di ramificazioni",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Un albero è una pianta legnosa perenne caratterizzata, in genere, da un fusto principale che si ramifica a una certa altezza.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-002",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 2",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale elenco comprende tre tipi generali di foglie?",
+      "answers": [
+        {
+          "text": "Semplici, composte e squamiformi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Intere, rotonde e asimmetriche",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Dentate, opposte e sempreverdi",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Una foglia può essere semplice o composta; in alcune specie, soprattutto tra le conifere, può essere ridotta a squama.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-003",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 3",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale elenco comprende soltanto forme della lamina fogliare?",
+      "answers": [
+        {
+          "text": "Flabellata, lanceolata, palmato-lobata ed ellittica",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Dentata, seghettata, crenata e intera",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Opposta, alterna, verticillata e basale",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Flabellata, lanceolata, palmato-lobata ed ellittica descrivono la forma della lamina; gli altri elenchi riguardano margini o disposizione delle foglie.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-004",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 4",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale coppia indica due possibili margini fogliari?",
+      "answers": [
+        {
+          "text": "Ondulato e seghettato",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Opposto e alterno",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Palmato e pennato",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Ondulato e seghettato descrivono l’andamento del bordo della lamina fogliare.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-005",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 5",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale elenco comprende soltanto esempi di margini fogliari?",
+      "answers": [
+        {
+          "text": "Dentato, intero, seghettato e crenato",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Rotondo, opposto, lanceolato e palmato",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Alterno, composto, aghiforme e caduco",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Dentato, intero, seghettato e crenato sono termini usati per descrivere il margine della foglia.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-006",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 6",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale elenco comprende soltanto tipi di foglia composta?",
+      "answers": [
+        {
+          "text": "Bipennata, paripennata e imparipennata",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Roncinata, flabellata e alterna",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Aghiforme, squamiforme e opposta",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Le foglie bipennate, paripennate e imparipennate sono forme di foglia composta.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-007",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 7",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale forma può assumere la lamina di una foglia?",
+      "answers": [
+        {
+          "text": "Aghiforme",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Internodale",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Lenticellare",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Una foglia aghiforme presenta una lamina stretta e allungata, simile a un ago.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-008",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 8",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale descrizione definisce correttamente un arbusto?",
+      "answers": [
+        {
+          "text": "Pianta legnosa perenne e policormica, ramificata fin dalla base",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Pianta erbacea annuale con un solo fusto non ramificato",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Pianta legnosa con un unico tronco sempre privo di rami basali",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "L’arbusto è una pianta legnosa perenne che presenta più fusti o ramificazioni a partire dalla base.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-009",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 9",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Qual è una caratteristica tipica di un albero sempreverde?",
+      "answers": [
+        {
+          "text": "Conserva la chioma fogliata durante tutto l’anno, sostituendo le foglie gradualmente",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Perde contemporaneamente tutte le foglie ogni autunno",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Produce foglie soltanto durante i mesi estivi",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Nelle sempreverdi il ricambio delle foglie avviene progressivamente, perciò la chioma non rimane completamente spoglia nella stagione sfavorevole.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-010",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 10",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale descrizione è propria delle piante caducifoglie?",
+      "answers": [
+        {
+          "text": "Perdono le foglie nella stagione sfavorevole e rimangono temporaneamente con la chioma spoglia",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Mantengono tutte le stesse foglie per l’intera vita della pianta",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Sono prive di foglie in ogni stagione",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Le caducifoglie perdono periodicamente le foglie, in genere prima dell’inverno nelle regioni temperate.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-011",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 11",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale elenco comprende soltanto forme di chioma?",
+      "answers": [
+        {
+          "text": "Espansa, sferica e fastigiata o piramidale",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Opposta, alterna e verticillata",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Dentata, crenata e seghettata",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Espansa, sferica e fastigiata o piramidale sono descrizioni del portamento della chioma.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-012",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 12",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale modello di accrescimento è tipico di Ginkgo biloba?",
+      "answers": [
+        {
+          "text": "Monopodiale, con un asse principale che continua ad accrescersi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Esclusivamente strisciante, senza asse principale",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Privo di gemma apicale fin dai primi stadi",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Nel modello monopodiale l’asse principale mantiene la dominanza e prosegue l’accrescimento.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-013",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 13",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Se le gemme di un albero sono opposte, quale affermazione sui rami è corretta?",
+      "answers": [
+        {
+          "text": "I rami possono non risultare tutti opposti, perché una gemma o un ramo può non svilupparsi o andare perduto",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Tutti i rami devono necessariamente essere opposti per l’intera vita dell’albero",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "I rami diventano sempre verticillati, indipendentemente dallo sviluppo delle gemme",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La disposizione delle gemme indica il modello potenziale; aborto, mancato sviluppo o perdita possono rendere irregolare la disposizione dei rami.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-014",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 14",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Che cos’è l’internodo?",
+      "answers": [
+        {
+          "text": "Il tratto di fusto compreso tra due nodi successivi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Lo spazio tra la lamina fogliare e il picciolo",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La gemma apicale posta all’estremità del fusto",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il nodo è il punto di inserzione di foglie e gemme; l’internodo è il tratto compreso fra due nodi consecutivi.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-015",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 15",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale struttura presente sui rami di specie come forsizia e sambuco consente gli scambi gassosi?",
+      "answers": [
+        {
+          "text": "La lenticella",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il brachiblasto",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "La lamburda",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Le lenticelle sono aperture dei tessuti di rivestimento che permettono gli scambi gassosi degli organi legnosi.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-016",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 16",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Come si chiama un germoglio molto corto sul quale, in alcune specie, si inseriscono foglie o strutture riproduttive?",
+      "answers": [
+        {
+          "text": "Brachiblasto",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Lenticella",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Pneumatoforo",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il brachiblasto è un ramo raccorciato, con internodi molto brevi.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-017",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 17",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Come si chiama il corto ramo fruttifero tipico di diverse pomacee?",
+      "answers": [
+        {
+          "text": "Lamburda",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Brindillo",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Pollone",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La lamburda è un ramo fruttifero corto, comune per esempio nel melo e nel pero.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-018",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 18",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quali tipi di gemme possono coesistere su un ramo di una pianta da frutto?",
+      "answers": [
+        {
+          "text": "Gemme a legno, gemme a fiore e gemme miste",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Soltanto gemme a legno",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Soltanto gemme a fiore, mai gemme miste",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Su uno stesso ramo possono essere presenti gemme vegetative, fiorali e miste, a seconda della specie e del tipo di ramo.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-019",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 19",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Come vengono definite le piante che compiono un solo allungamento dei germogli nell’arco dell’anno?",
+      "answers": [
+        {
+          "text": "Piante di prima estensione",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Piante di terza estensione",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Piante policormiche",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Nel materiale del corso, la prima estensione indica un unico ciclo annuale di allungamento dei germogli.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-020",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 20",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "A quale tipologia di estensione è ricondotto Acer palmatum “Dissectum Atropurpureum” nel materiale del corso?",
+      "answers": [
+        {
+          "text": "Seconda estensione",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Prima estensione",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Terza estensione",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Nel materiale del corso questa cultivar di acero palmato è indicata come esempio di pianta di seconda estensione.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-021",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 21",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale gruppo comprende soltanto esempi di piante di prima estensione indicati nel materiale del corso?",
+      "answers": [
+        {
+          "text": "Tasso, faggio e carpino",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Ginepro, cotoneastro e acero palmato",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Melo, cotoneastro e acero palmato",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Tasso, faggio e carpino sono riportati come esempi di piante di prima estensione.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-022",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 22",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale caratteristica distingue le piante di terza estensione nel materiale del corso?",
+      "answers": [
+        {
+          "text": "Possono ramificare e fruttificare nel corso della stagione vegetativa",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Non producono mai rami laterali né frutti",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Concludono sempre l’accrescimento dopo un unico allungamento annuale",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Il cotoneastro e il melo sono indicati come esempi di piante di terza estensione, capaci di ramificare e fruttificare.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-023",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 23",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Nel nome Castanea sativa, che cosa indica l’epiteto “sativa”?",
+      "answers": [
+        {
+          "text": "Che la specie è coltivata o coltivabile",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Che la specie è esclusivamente spontanea",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Che la specie è velenosa",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "L’epiteto latino sativus/sativa richiama una pianta coltivata o seminata.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-024",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 24",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Qual è la conifera territorialmente più diffusa in Piemonte?",
+      "answers": [
+        {
+          "text": "Larix decidua, il larice europeo",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Cedrus deodara, il cedro dell’Himalaya",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Pinus pinaster, il pino marittimo",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La Regione Piemonte indica il larice come la conifera territorialmente più diffusa nella regione.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-026",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 26",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale struttura non è tipica dell’anatomia di un tronco legnoso?",
+      "answers": [
+        {
+          "text": "Gli stomi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Il cambio",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Il durame",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Cambio e durame appartengono alla struttura del fusto legnoso; gli scambi gassosi del rivestimento secondario avvengono soprattutto attraverso le lenticelle, non tramite stomi.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-027",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 27",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale descrizione identifica correttamente le pteridofite?",
+      "answers": [
+        {
+          "text": "Piante vascolari con radici, fusto e foglie, ma prive di fiori e semi",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Piante prive di tessuti vascolari e di organi differenziati",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Piante che producono sempre fiori e frutti carnosi",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "Le pteridofite, come felci ed equiseti, sono vascolari e si riproducono tramite spore, senza produrre fiori e semi.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-028",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 28",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Come si chiama un’area dominata da vegetazione erbacea, la cui altezza varia anche in relazione alle precipitazioni?",
+      "answers": [
+        {
+          "text": "Prateria",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Palude",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Bosco",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La prateria è una formazione vegetale dominata da piante erbacee.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-029",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 29",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale ambiente è caratterizzato da acque stagnanti e vegetazione sia sommersa sia emergente?",
+      "answers": [
+        {
+          "text": "Palude",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Prateria arida",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Bosco montano",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La palude è una zona umida con acqua poco profonda o stagnante e vegetazione acquatica ed emergente.",
+      "references": []
+    },
+    {
+      "id": "GEA-C-20261016-BOT-030",
+      "source": "Kahoot Botanica · NAT_1_2026_BOTANICA SIMULAZIONE ESAME · domanda 30",
+      "topic": "botanica",
+      "category": "Botanica",
+      "question": "Quale combinazione corrisponde alla definizione di bosco vigente in Piemonte?",
+      "answers": [
+        {
+          "text": "Almeno 2.000 m² di superficie, larghezza media di almeno 20 m e copertura arborea forestale superiore al 20%",
+          "correct": true,
+          "index": 0
+        },
+        {
+          "text": "Almeno 2.000 m² di superficie e alberi alti non meno di 20 m, senza requisiti di copertura",
+          "correct": false,
+          "index": 1
+        },
+        {
+          "text": "Qualsiasi gruppo di alberi, indipendentemente da superficie, larghezza e copertura",
+          "correct": false,
+          "index": 2
+        }
+      ],
+      "explanation": "La definizione regionale richiede una superficie non inferiore a 2.000 m², una larghezza media non inferiore a 20 m e una copertura arborea forestale superiore al 20%. Il testo originale confondeva la larghezza con l’altezza.",
+      "references": []
     }
   ],
   "open": [
