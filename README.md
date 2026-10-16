@@ -1,4 +1,4 @@
-# Simulatore GEA PWA — versione 5.18
+# Simulatore GEA PWA — versione 5.19
 
 Banca JSON esterna inclusa nel pacchetto: **528 domande chiuse** e **130 domande aperte**, per un totale di **658 quesiti**.
 
@@ -162,3 +162,9 @@ L’estrazione applica ora un controllo finale obbligatorio di unicità: nello s
 Durante il test, il nuovo pulsante **Indice domande** permette di passare direttamente a qualsiasi quesito senza dover usare ripetutamente Precedente o Successiva. I numeri distinguono la domanda corrente, quelle già risposte e quelle ancora vuote.
 
 Il filtro **Solo non risposte** mostra immediatamente i quesiti da completare. La funzione è disponibile sia per le domande chiuse sia per quelle aperte; il salto conserva le risposte già inserite, la posizione e il salvataggio automatico della sessione.
+
+## Novità 5.19 — 16 ottobre 2026
+
+La navigazione numerata è ora sempre visibile sotto ogni domanda, sul modello di una griglia di consegna: verde per le domande risposte, grigio per quelle vuote e bordo marcato per quella corrente. Toccando un numero si passa direttamente al quesito scelto.
+
+Su schermi larghi la griglia mostra dieci numeri per riga; sugli smartphone cinque. Il pulsante **Solo non risposte** apre l’elenco filtrato delle domande ancora da completare. La funzione è disponibile nelle prove chiuse e aperte.
