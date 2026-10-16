@@ -1,4 +1,4 @@
-# Simulatore GEA PWA — versione 5.15
+# Simulatore GEA PWA — versione 5.16
 
 Banca JSON esterna inclusa nel pacchetto: **528 domande chiuse** e **130 domande aperte**, per un totale di **658 quesiti**.
 
@@ -144,3 +144,9 @@ Aggiunte **29 domande chiuse di botanica** dal file `Kahoot_Botanica_30_domande_
 Le domande che nel Kahoot richiedevano più risposte sono state trasformate in quesiti con tre alternative e una sola risposta corretta. Sono stati corretti refusi e formulazioni improprie; in particolare `Larix decida` è diventato `Larix decidua`, l’internodo è definito come il tratto fra due nodi successivi e la definizione piemontese di bosco usa larghezza media e copertura arborea, non un’altezza minima di 20 metri.
 
 DB `2026.10.16-1`. Pubblica anche `data/domande.json` e `sw.js`, quindi usa **Aggiorna** e **Aggiorna banca dati**. Le modifiche locali con lo stesso ID continuano ad avere precedenza.
+
+## Novità 5.16 — 16 ottobre 2026
+
+Il comando **Aggiorna banca dati** è ora sempre visibile nella barra superiore, accanto ad **Aggiorna**, con colore e dimensioni maggiori. Durante l’operazione mostra lo stato e conferma il completamento. Anche la sezione interna **Banca dati, editor e importazione** è stata trasformata in un pulsante grande e ben riconoscibile.
+
+La banca resta invariata: **528 domande chiuse e 130 aperte, 658 totali**. **Aggiorna** controlla i file della PWA; **Aggiorna banca dati** ricarica invece il JSON delle domande e mantiene le modifiche locali salvate nel browser.
