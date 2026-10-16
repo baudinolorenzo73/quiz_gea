@@ -1,4 +1,4 @@
-# Simulatore GEA PWA — versione 5.16
+# Simulatore GEA PWA — versione 5.17
 
 Banca JSON esterna inclusa nel pacchetto: **528 domande chiuse** e **130 domande aperte**, per un totale di **658 quesiti**.
 
@@ -150,3 +150,9 @@ DB `2026.10.16-1`. Pubblica anche `data/domande.json` e `sw.js`, quindi usa **Ag
 Il comando **Aggiorna banca dati** è ora sempre visibile nella barra superiore, accanto ad **Aggiorna**, con colore e dimensioni maggiori. Durante l’operazione mostra lo stato e conferma il completamento. Anche la sezione interna **Banca dati, editor e importazione** è stata trasformata in un pulsante grande e ben riconoscibile.
 
 La banca resta invariata: **528 domande chiuse e 130 aperte, 658 totali**. **Aggiorna** controlla i file della PWA; **Aggiorna banca dati** ricarica invece il JSON delle domande e mantiene le modifiche locali salvate nel browser.
+
+## Novità 5.17 — 16 ottobre 2026
+
+Nella barra superiore sono disponibili i comandi **A−** e **A+** per regolare la dimensione del testo di domande, risposte e correzioni dall’80% al 160%. La percentuale scelta resta memorizzata sul dispositivo.
+
+L’estrazione applica ora un controllo finale obbligatorio di unicità: nello stesso test non possono comparire due domande con il medesimo ID o con lo stesso testo normalizzato. Il controllo copre estrazione proporzionale, casuale, per argomento, test mirato, domande prioritarie e test con quantità personalizzata. Se con i filtri scelti non esistono abbastanza domande uniche, il test non viene avviato con doppioni.
